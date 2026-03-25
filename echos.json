@@ -10,8 +10,75 @@
     "name": "Arsenal hybride",
     "cost": 4,
     "sonatas": [
-      "Gel Frigorifiant",
+      "Ame Glaciale"
+    ]
+  },
+  {
+    "name": "Cauchemar : Chevalier d'Inferno",
+    "cost": 4,
+    "sonatas": [
+      "Faille de Lave"
+    ]
+  },
+  {
+    "name": "Cauchemar : Feilian Beringal",
+    "cost": 4,
+    "sonatas": [
+      "Hurle de Sierra"
+    ]
+  },
+  {
+    "name": "Cauchemar : Hecate",
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Héron impermanent",
+    "cost": 4,
+    "sonatas": [
+      "Voile des Ombres"
+    ]
+  },
+  {
+    "name": "Cauchemar : Kelpie",
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Mephis tonerre",
+    "cost": 4,
+    "sonatas": [
+      "Tonnerre du Ciel",
+      "Symphonie celeste"
+    ]
+  },
+  {
+    "name": "Cauchemar : Mephis éclatant",
+    "cost": 4,
+    "sonatas": [
       "Tonnerre du Ciel"
+    ]
+  },
+  {
+    "name": "Cauchemar : Myriade de Lampylumen",
+    "cost": 4,
+    "sonatas": [
+      "Ame Glaciale",
+      "Symphonie celeste"
+    ]
+  },
+  {
+    "name": "Cauchemar : Sans couronne",
+    "cost": 4,
+    "sonatas": [
+      "Le Crepuscule noir"
+    ]
+  },
+  {
+    "name": "Cauchemar : Vautour plaignant",
+    "cost": 4,
+    "sonatas": [
+      "Lumiere Eternelle"
     ]
   },
   {
@@ -22,25 +89,33 @@
     ]
   },
   {
+    "name": "Coque du réacteur",
+    "cost": 4,
+    "sonatas": []
+  },
+  {
     "name": "Dame de la Mer",
     "cost": 4,
-    "sonatas": [
-      "Gel Frigorifiant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Dragon de chagrin",
     "cost": 4,
     "sonatas": [
-      "Eclat Rajeunissant"
+      "Bravoure des Vagues"
     ]
   },
   {
     "name": "Erreur intarissable",
     "cost": 4,
     "sonatas": [
-      "Resonance Sans Fin"
+      "Eclat Rajeunissant"
     ]
+  },
+  {
+    "name": "Explorateur sans nom",
+    "cost": 4,
+    "sonatas": []
   },
   {
     "name": "Feilian Beringal",
@@ -50,27 +125,17 @@
     ]
   },
   {
-    "name": "Glaive abyssal",
-    "cost": 4,
-    "sonatas": [
-      "Gel Frigorifiant",
-      "Lumiere Celeste"
-    ]
-  },
-  {
     "name": "Hecate",
     "cost": 4,
     "sonatas": [
-      "Eclat Rajeunissant"
+      "Gel Frigorifiant",
+      "Faille de Lave"
     ]
   },
   {
-    "name": "Hocus Pocus",
+    "name": "Hyvatia",
     "cost": 4,
-    "sonatas": [
-      "Lumiere Celeste",
-      "Eclat Rajeunissant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Héron impermanent",
@@ -84,15 +149,6 @@
     "cost": 4,
     "sonatas": [
       "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "La Guardia",
-    "cost": 4,
-    "sonatas": [
-      "Nuages Lunaires",
-      "Resonance Sans Fin",
-      "Le Crepuscule noir"
     ]
   },
   {
@@ -112,16 +168,13 @@
   {
     "name": "Lionne glorieuse",
     "cost": 4,
-    "sonatas": [
-      "Resonance Sans Fin"
-    ]
+    "sonatas": []
   },
   {
     "name": "Lorelei",
     "cost": 4,
     "sonatas": [
-      "Nuages Lunaires",
-      "Le Crepuscule noir"
+      "Voile des Ombres"
     ]
   },
   {
@@ -139,14 +192,6 @@
     ]
   },
   {
-    "name": "Mercator abyssal",
-    "cost": 4,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Tonnerre du Ciel"
-    ]
-  },
-  {
     "name": "Myriade de Lampylumen",
     "cost": 4,
     "sonatas": [
@@ -154,42 +199,36 @@
     ]
   },
   {
-    "name": "Patricius abyssal",
+    "name": "Résidu résonnant : Fenrico",
     "cost": 4,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Faille de Lave"
-    ]
+    "sonatas": []
   },
   {
-    "name": "Rage contre la Statue",
+    "name": "Résidu résonnant : Fleurdelys",
     "cost": 4,
-    "sonatas": [
-      "Faille de Lave"
-    ]
+    "sonatas": []
   },
   {
-    "name": "Sacerdos",
+    "name": "Résidu résonnant : Léviathan le Réprimantum",
     "cost": 4,
-    "sonatas": [
-      "Nuages Lunaires",
-      "Resonance Sans Fin"
-    ]
+    "sonatas": []
+  },
+  {
+    "name": "Sigilium",
+    "cost": 4,
+    "sonatas": []
   },
   {
     "name": "Souverain apocryphe",
     "cost": 4,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Lumiere Celeste"
-    ]
+    "sonatas": []
   },
   {
     "name": "Tortue clochante",
     "cost": 4,
     "sonatas": [
-      "Nuages Lunaires",
-      "Eclat Rajeunissant"
+      "Eclat Rajeunissant",
+      "Nuages Lunaires"
     ]
   },
   {
@@ -231,9 +270,13 @@
     "name": "Capitaneus",
     "cost": 3,
     "sonatas": [
-      "Tonnerre du Ciel",
-      "Faille de Lave"
+      "Lumiere Eternelle"
     ]
+  },
+  {
+    "name": "Carapace du pèlerin",
+    "cost": 3,
+    "sonatas": []
   },
   {
     "name": "Carlotta",
@@ -255,6 +298,26 @@
     "sonatas": [
       "Lumiere Celeste"
     ]
+  },
+  {
+    "name": "Cauchemar : Champirose",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Héron cyan",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Héron violet",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Lézard lavique vert",
+    "cost": 3,
+    "sonatas": []
   },
   {
     "name": "Champion rocheux",
@@ -283,96 +346,81 @@
     "name": "Chevalier diurne",
     "cost": 3,
     "sonatas": [
-      "Lumiere Celeste",
-      "Eclat Rajeunissant"
+      "Lumiere Eternelle",
+      "Bravoure des Vagues"
     ]
   },
   {
     "name": "Chevalier nocturne",
     "cost": 3,
     "sonatas": [
-      "Le Crepuscule noir",
-      "Tonnerre du Ciel"
+      "Voile des Ombres",
+      "Symphonie celeste"
     ]
   },
   {
     "name": "Chevalier vagabond",
     "cost": 3,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Hurle de Sierra"
+      "Ame Glaciale",
+      "Voile des Ombres"
     ]
   },
   {
     "name": "Coleoïde des rafales",
     "cost": 3,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Tonnerre du Ciel"
-    ]
+    "sonatas": []
   },
   {
     "name": "Coléoïde du givre",
     "cost": 3,
-    "sonatas": [
-      "Gel Frigorifiant",
-      "Eclat Rajeunissant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Corrosaurus",
     "cost": 3,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Danseuse des glaces",
-    "cost": 3,
-    "sonatas": [
-      "Gel Frigorifiant",
-      "Nuages Lunaires"
-    ]
+    "sonatas": []
   },
   {
     "name": "Danseuse du Vitreum",
     "cost": 3,
     "sonatas": [
-      "Lumiere Celeste",
-      "Resonance Sans Fin"
+      "Lumiere Eternelle",
+      "Symphonie celeste"
     ]
+  },
+  {
+    "name": "Explorateur du Trek-spatial",
+    "cost": 3,
+    "sonatas": []
   },
   {
     "name": "Fléauronne",
     "cost": 3,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Tonnerre du Ciel"
-    ]
+    "sonatas": []
   },
   {
     "name": "Flûtiste",
     "cost": 3,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Tonnerre du Ciel"
+      "Tonnerre du Ciel",
+      "Resonance Sans Fin"
     ]
   },
   {
     "name": "Gardien de l'abîme",
     "cost": 3,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Eclat Rajeunissant"
+      "Eclat Rajeunissant",
+      "Resonance Sans Fin"
     ]
   },
   {
     "name": "Gardien rocheux",
     "cost": 3,
     "sonatas": [
-      "Eclat Rajeunissant",
-      "Lumiere Celeste"
+      "Lumiere Celeste",
+      "Eclat Rajeunissant"
     ]
   },
   {
@@ -383,26 +431,40 @@
     ]
   },
   {
+    "name": "Glaive abyssal",
+    "cost": 3,
+    "sonatas": [
+      "Voile des Ombres",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Glommouth",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
     "name": "Golem des écailles",
     "cost": 3,
     "sonatas": [
-      "Tonnerre du Ciel",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Tonnerre du Ciel"
+    ]
+  },
+  {
+    "name": "Hache hache",
+    "cost": 3,
+    "sonatas": [
+      "Symphonie celeste",
+      "Bravoure des Vagues"
     ]
   },
   {
     "name": "Hoolice",
     "cost": 3,
     "sonatas": [
-      "Eclat Rajeunissant",
-      "Hurle de Sierra"
-    ]
-  },
-  {
-    "name": "Hyvatia",
-    "cost": 3,
-    "sonatas": [
-      "Resonance Sans Fin"
+      "Hurle de Sierra",
+      "Eclat Rajeunissant"
     ]
   },
   {
@@ -425,8 +487,8 @@
     "name": "Imitateur : Véhicule de combat",
     "cost": 3,
     "sonatas": [
-      "Lumiere Celeste",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Lumiere Celeste"
     ]
   },
   {
@@ -439,40 +501,14 @@
   {
     "name": "Kérasaure",
     "cost": 3,
-    "sonatas": [
-      "Faille de Lave",
-      "Hurle de Sierra"
-    ]
+    "sonatas": []
   },
   {
     "name": "Lançours",
     "cost": 3,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Nuages Lunaires"
-    ]
-  },
-  {
-    "name": "Lottie la muette",
-    "cost": 3,
-    "sonatas": [
-      "Nuages Lunaires"
-    ]
-  },
-  {
-    "name": "Loup d'Ouragan",
-    "cost": 3,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Eclat Rajeunissant"
-    ]
-  },
-  {
-    "name": "Loup de Givre",
-    "cost": 3,
-    "sonatas": [
-      "Gel Frigorifiant",
-      "Nuages Lunaires"
+      "Nuages Lunaires",
+      "Resonance Sans Fin"
     ]
   },
   {
@@ -484,27 +520,53 @@
     ]
   },
   {
-    "name": "Loup de Tonerre",
-    "cost": 3,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Resonance Sans Fin"
-    ]
-  },
-  {
     "name": "Loup glacier",
     "cost": 3,
     "sonatas": [
-      "Nuages Lunaires",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Nuages Lunaires"
     ]
   },
   {
     "name": "Lézard lavique vert",
     "cost": 3,
     "sonatas": [
-      "Nuages Lunaires",
-      "Faille de Lave"
+      "Faille de Lave",
+      "Nuages Lunaires"
+    ]
+  },
+  {
+    "name": "Mercator abyssal",
+    "cost": 3,
+    "sonatas": [
+      "Ame Glaciale",
+      "Lumiere Eternelle"
+    ]
+  },
+  {
+    "name": "Nounours géant",
+    "cost": 3,
+    "sonatas": [
+      "Ame Glaciale",
+      "Voile des Ombres"
+    ]
+  },
+  {
+    "name": "Nova jumelle : Canon nébuleux",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Nova jumelle : Lame de collapsar",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Patricius abyssal",
+    "cost": 3,
+    "sonatas": [
+      "Ame Glaciale",
+      "Symphonie celeste"
     ]
   },
   {
@@ -515,12 +577,29 @@
     ]
   },
   {
+    "name": "Rage contre la Statue",
+    "cost": 3,
+    "sonatas": [
+      "Lumiere Eternelle"
+    ]
+  },
+  {
     "name": "Rasoir chasseur",
     "cost": 3,
     "sonatas": [
-      "Nuages Lunaires",
-      "Hurle de Sierra"
+      "Hurle de Sierra",
+      "Nuages Lunaires"
     ]
+  },
+  {
+    "name": "Renne floral",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "name": "Renne minier",
+    "cost": 3,
+    "sonatas": []
   },
   {
     "name": "Roccia",
@@ -530,28 +609,24 @@
     ]
   },
   {
+    "name": "Résidu résonnant : Griffouronne",
+    "cost": 3,
+    "sonatas": []
+  },
+  {
     "name": "Rôdeur à dents de sabre",
     "cost": 3,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Hurle de Sierra"
-    ]
+    "sonatas": []
+  },
+  {
+    "name": "Sabot-de-fer",
+    "cost": 3,
+    "sonatas": []
   },
   {
     "name": "Saccageur à dents de sabre",
     "cost": 3,
-    "sonatas": [
-      "Faille de Lave",
-      "Resonance Sans Fin"
-    ]
-  },
-  {
-    "name": "Spectre de Nimbus",
-    "cost": 3,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Lumiere Celeste"
-    ]
+    "sonatas": []
   },
   {
     "name": "Tambourineur",
@@ -565,8 +640,7 @@
     "name": "Tempours",
     "cost": 3,
     "sonatas": [
-      "Hurle de Sierra",
-      "Resonance Sans Fin"
+      "Bravoure des Vagues"
     ]
   },
   {
@@ -579,18 +653,7 @@
   {
     "name": "Araignée de la Terre S4",
     "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Carapace du pèlerin",
-    "cost": 1,
-    "sonatas": [
-      "Lumiere Celeste",
-      "Eclat Rajeunissant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Casoar nain",
@@ -601,20 +664,64 @@
     ]
   },
   {
-    "name": "Chair du dévot",
+    "name": "Cauchemar : Casoar nain",
     "cost": 1,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Eclat Rajeunissant"
-    ]
+    "sonatas": []
   },
   {
-    "name": "Champirose (Petit)",
+    "name": "Cauchemar : Champirose (Petit)",
     "cost": 1,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Le Crepuscule noir"
-    ]
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Chulboule",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Combattant Havoc",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Gulboule",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Lézard lavique vert (Petit)",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Prédateur Aero",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Prédateur Electro",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Prédateur Glacio",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Tambourineur",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Cauchemar : Tic Tac",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Chair du dévot",
+    "cost": 1,
+    "sonatas": []
   },
   {
     "name": "Champirose (Petit)",
@@ -628,25 +735,24 @@
     "name": "Chulboule",
     "cost": 1,
     "sonatas": [
-      "Le Crepuscule noir",
-      "Hurle de Sierra"
+      "Hurle de Sierra",
+      "Le Crepuscule noir"
     ]
   },
   {
     "name": "Coffre trompeur",
     "cost": 1,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Nuages Lunaires"
+      "Ame Glaciale",
+      "Voile des Ombres"
     ]
   },
   {
     "name": "Combattant Fusion",
     "cost": 1,
     "sonatas": [
-      "Hurle de Sierra",
-      "Tonnerre du Ciel",
-      "Faille de Lave"
+      "Faille de Lave",
+      "Tonnerre du Ciel"
     ]
   },
   {
@@ -660,18 +766,7 @@
   {
     "name": "Combattant du tremblement",
     "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Eclat Rajeunissant"
-    ]
-  },
-  {
-    "name": "Coque du réacteur",
-    "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Gel Frigorifiant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Creutaupe",
@@ -682,104 +777,115 @@
     ]
   },
   {
+    "name": "Danseuse des glaces",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
     "name": "Ding-dong",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Lumiere Celeste"
     ]
   },
   {
     "name": "Doudou Creuse-Tout",
     "cost": 1,
     "sonatas": [
-      "Nuages Lunaires",
-      "Resonance Sans Fin"
+      "Lumiere Eternelle",
+      "Bravoure des Vagues"
     ]
   },
   {
     "name": "Drone floral",
     "cost": 1,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Eclat Rajeunissant"
-    ]
+    "sonatas": []
   },
   {
     "name": "Drone mineur",
     "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Explorateur du Trek-spatial",
-    "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "Explorateur sans nom",
-    "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Nuages Lunaires"
-    ]
+    "sonatas": []
   },
   {
     "name": "Fae igné",
     "cost": 1,
     "sonatas": [
-      "Faille de Lave",
-      "Hurle de Sierra"
+      "Lumiere Eternelle",
+      "Voile des Ombres"
     ]
   },
   {
     "name": "Fausse ombre",
     "cost": 1,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Nuages Lunaires"
-    ]
+    "sonatas": []
   },
   {
     "name": "Fiçaile",
     "cost": 1,
     "sonatas": [
-      "Eclat Rajeunissant",
-      "Nuages Lunaires",
-      "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "Glommouth",
-    "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Nuages Lunaires"
+      "Lumiere Celeste",
+      "Eclat Rajeunissant"
     ]
   },
   {
     "name": "Gulboule",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Gel Frigorifiant"
-    ]
-  },
-  {
-    "name": "Hache hache",
-    "cost": 1,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Faille de Lave"
+      "Gel Frigorifiant",
+      "Lumiere Celeste"
     ]
   },
   {
     "name": "Hache hache : Droite",
+    "cost": 1,
+    "sonatas": [
+      "Ame Glaciale",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Hache hache : Gauche",
+    "cost": 1,
+    "sonatas": [
+      "Ame Glaciale",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Hache hache : Tête",
+    "cost": 1,
+    "sonatas": [
+      "Lumiere Eternelle",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Hocus Pocus",
+    "cost": 1,
+    "sonatas": [
+      "Ame Glaciale",
+      "Symphonie celeste"
+    ]
+  },
+  {
+    "name": "Houhouu",
+    "cost": 1,
+    "sonatas": [
+      "Hurle de Sierra",
+      "Eclat Rajeunissant"
+    ]
+  },
+  {
+    "name": "Imitateur : feu de circulation",
+    "cost": 1,
+    "sonatas": [
+      "Faille de Lave",
+      "Tonnerre du Ciel"
+    ]
+  },
+  {
+    "name": "Insecte-feu",
     "cost": 1,
     "sonatas": [
       "Faille de Lave",
@@ -787,70 +893,25 @@
     ]
   },
   {
-    "name": "Hache hache : Gauche",
-    "cost": 1,
-    "sonatas": [
-      "Gel Frigorifiant",
-      "Eclat Rajeunissant"
-    ]
-  },
-  {
-    "name": "Hache hache : Tête",
-    "cost": 1,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Tonnerre du Ciel"
-    ]
-  },
-  {
-    "name": "Houhouu",
-    "cost": 1,
-    "sonatas": [
-      "Eclat Rajeunissant",
-      "Nuages Lunaires",
-      "Hurle de Sierra"
-    ]
-  },
-  {
-    "name": "Imitateur : feu de circulation",
-    "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Hurle de Sierra",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Insecte-feu",
-    "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Faille de Lave"
-    ]
-  },
-  {
     "name": "Jeunpierre avant-guard",
     "cost": 1,
     "sonatas": [
-      "Eclat Rajeunissant",
       "Tonnerre du Ciel",
-      "Resonance Sans Fin"
+      "Eclat Rajeunissant"
     ]
   },
   {
     "name": "Jeunpierre d'or",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Resonance Sans Fin",
-      "Eclat Rajeunissant"
+      "Ame Glaciale",
+      "Lumiere Eternelle"
     ]
   },
   {
     "name": "Jeunpierre fissurée",
     "cost": 1,
     "sonatas": [
-      "Nuages Lunaires",
       "Tonnerre du Ciel",
       "Eclat Rajeunissant"
     ]
@@ -859,78 +920,51 @@
     "name": "Jeunpierre vernie",
     "cost": 1,
     "sonatas": [
-      "Nuages Lunaires",
-      "Le Crepuscule noir",
-      "Gel Frigorifiant"
+      "Symphonie celeste",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "La Guardia",
+    "cost": 1,
+    "sonatas": [
+      "Voile des Ombres"
+    ]
+  },
+  {
+    "name": "Lottie la muette",
+    "cost": 1,
+    "sonatas": [
+      "Ame Glaciale",
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Loup d'Ouragan",
+    "cost": 1,
+    "sonatas": [
+      "Ame Glaciale",
+      "Symphonie celeste"
+    ]
+  },
+  {
+    "name": "Loup de Givre",
+    "cost": 1,
+    "sonatas": [
+      "Lumiere Eternelle",
+      "Voile des Ombres"
+    ]
+  },
+  {
+    "name": "Loup de Tonerre",
+    "cost": 1,
+    "sonatas": [
+      "Voile des Ombres",
+      "Symphonie celeste"
     ]
   },
   {
     "name": "Loup fusionier",
-    "cost": 1,
-    "sonatas": [
-      "Eclat Rajeunissant",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Lézard lavique vert (Petit)",
-    "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Tonnerre du Ciel",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Nounours géant",
-    "cost": 1,
-    "sonatas": [
-      "Eclat Rajeunissant",
-      "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "Nova jumelle : Canon nébuleux",
-    "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "Nova jumelle : Lame de collapsar",
-    "cost": 1,
-    "sonatas": [
-      "Le Crepuscule noir",
-      "Faille de Lave"
-    ]
-  },
-  {
-    "name": "Petit Hoolice",
-    "cost": 1,
-    "sonatas": [
-      "Resonance Sans Fin",
-      "Hurle de Sierra"
-    ]
-  },
-  {
-    "name": "Petit dragon Aero",
-    "cost": 1,
-    "sonatas": [
-      "Hurle de Sierra",
-      "Nuages Lunaires"
-    ]
-  },
-  {
-    "name": "Petit dragon Electro",
-    "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Resonance Sans Fin"
-    ]
-  },
-  {
-    "name": "Petit dragon Fusion",
     "cost": 1,
     "sonatas": [
       "Faille de Lave",
@@ -938,36 +972,61 @@
     ]
   },
   {
-    "name": "Petit dragon Glacio",
+    "name": "Lézard lavique vert (Petit)",
     "cost": 1,
     "sonatas": [
-      "Gel Frigorifiant",
-      "Lumiere Celeste"
-    ]
-  },
-  {
-    "name": "Petit dragon Havoc",
-    "cost": 1,
-    "sonatas": [
-      "Le Crepuscule noir",
+      "Faille de Lave",
       "Tonnerre du Ciel"
     ]
   },
   {
-    "name": "Petit dragon Spectro",
+    "name": "Petit Hoolice",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Nuages Lunaires"
+      "Hurle de Sierra",
+      "Resonance Sans Fin"
     ]
+  },
+  {
+    "name": "Petit dragon Aero",
+    "cost": 1,
+    "sonatas": [
+      "Bravoure des Vagues"
+    ]
+  },
+  {
+    "name": "Petit dragon Electro",
+    "cost": 1,
+    "sonatas": [
+      "Voile des Ombres"
+    ]
+  },
+  {
+    "name": "Petit dragon Fusion",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Petit dragon Glacio",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Petit dragon Havoc",
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "name": "Petit dragon Spectro",
+    "cost": 1,
+    "sonatas": []
   },
   {
     "name": "Prisme Aero",
     "cost": 1,
     "sonatas": [
-      "Hurle de Sierra",
-      "Nuages Lunaires",
-      "Eclat Rajeunissant"
+      "Lumiere Eternelle",
+      "Bravoure des Vagues"
     ]
   },
   {
@@ -975,7 +1034,6 @@
     "cost": 1,
     "sonatas": [
       "Gel Frigorifiant",
-      "Resonance Sans Fin",
       "Faille de Lave"
     ]
   },
@@ -983,9 +1041,8 @@
     "name": "Prisme Glacio",
     "cost": 1,
     "sonatas": [
-      "Le Crepuscule noir",
-      "Nuages Lunaires",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Le Crepuscule noir"
     ]
   },
   {
@@ -993,8 +1050,7 @@
     "cost": 1,
     "sonatas": [
       "Tonnerre du Ciel",
-      "Lumiere Celeste",
-      "Le Crepuscule noir"
+      "Lumiere Celeste"
     ]
   },
   {
@@ -1002,8 +1058,7 @@
     "cost": 1,
     "sonatas": [
       "Faille de Lave",
-      "Tonnerre du Ciel",
-      "Lumiere Celeste"
+      "Tonnerre du Ciel"
     ]
   },
   {
@@ -1026,58 +1081,36 @@
     "name": "Prédateur Glacio",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Lumiere Celeste"
     ]
   },
   {
-    "name": "Renne floral",
+    "name": "Sacerdos",
     "cost": 1,
-    "sonatas": [
-      "Eclat Rajeunissant",
-      "Hurle de Sierra"
-    ]
-  },
-  {
-    "name": "Renne minier",
-    "cost": 1,
-    "sonatas": [
-      "Faille de Lave",
-      "Tonnerre du Ciel"
-    ]
-  },
-  {
-    "name": "Sabot-de-fer",
-    "cost": 1,
-    "sonatas": [
-      "Faille de Lave",
-      "Resonance Sans Fin"
-    ]
+    "sonatas": []
   },
   {
     "name": "Sagittaire",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Hurle de Sierra"
+      "Lumiere Eternelle"
     ]
   },
   {
     "name": "Sangbre",
     "cost": 1,
     "sonatas": [
-      "Nuages Lunaires",
-      "Hurle de Sierra",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Hurle de Sierra"
     ]
   },
   {
     "name": "Schlak Schlak",
     "cost": 1,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Eclat Rajeunissant",
-      "Faille de Lave"
+      "Faille de Lave",
+      "Eclat Rajeunissant"
     ]
   },
   {
@@ -1089,45 +1122,40 @@
     ]
   },
   {
-    "name": "Sigilium",
+    "name": "Spectre de Nimbus",
     "cost": 1,
     "sonatas": [
-      "Eclat Rajeunissant",
-      "Lumiere Celeste"
+      "Voile des Ombres",
+      "Symphonie celeste"
     ]
   },
   {
     "name": "Tic Tac",
     "cost": 1,
     "sonatas": [
-      "Resonance Sans Fin",
-      "Eclat Rajeunissant",
-      "Le Crepuscule noir"
+      "Le Crepuscule noir",
+      "Eclat Rajeunissant"
     ]
   },
   {
     "name": "Torturoid",
     "cost": 1,
     "sonatas": [
-      "Lumiere Celeste",
-      "Gel Frigorifiant"
+      "Gel Frigorifiant",
+      "Lumiere Celeste"
     ]
   },
   {
     "name": "Zig Zag",
     "cost": 1,
     "sonatas": [
-      "Nuages Lunaires",
-      "Resonance Sans Fin",
-      "Lumiere Celeste"
+      "Lumiere Celeste",
+      "Nuages Lunaires"
     ]
   },
   {
     "name": "Zip Zap",
     "cost": 1,
-    "sonatas": [
-      "Tonnerre du Ciel",
-      "Resonance Sans Fin"
-    ]
+    "sonatas": []
   }
 ]
