@@ -1,0 +1,16 @@
+[
+  {"name":"Gel Frigorifiant","bonus2p":"10% dmg Glacio","bonus5p":"Sur (An/Al) 10% dmg Glacio (3x) - 15s"},
+  {"name":"Faille de Lave","bonus2p":"10% dmg Fusion","bonus5p":"Sur (Comp) 30% dmg Fusion - 15s"},
+  {"name":"Tonnerre du Ciel","bonus2p":"10% dmg Electro","bonus5p":"Sur (Al/Comp) 15% dmg Electro (2x) - 15s"},
+  {"name":"Hurle de Sierra","bonus2p":"10% dmg Aero","bonus5p":"Sur (Intro) 30% dmg Aero - 15s"},
+  {"name":"Lumiere Celeste","bonus2p":"10% dmg Spectro","bonus5p":"Sur (Intro) 30% dmg Spectro - 15s"},
+  {"name":"Le Crepuscule noir","bonus2p":"10% dmg Havoc","bonus5p":"Sur (An/Al) 7,5% dmg Havoc (4x) - 15s"},
+  {"name":"Eclat Rajeunissant","bonus2p":"10% de Soin","bonus5p":"Sur (Soin) 15% atk sur equipe - 30s"},
+  {"name":"Nuages Lunaires","bonus2p":"10% RR","bonus5p":"Sur (Outro) Atk prochain Champ 22,5% - 15s"},
+  {"name":"Resonance Sans Fin","bonus2p":"10% Atk","bonus5p":"dmg Outro +60% / Tant que (Actif) +5% dmg (4x)"},
+  {"name":"Ame Glaciale","bonus2p":"12% dmg Comp","bonus5p":"Sur (Comp) 22,5% dmg Glacio - 15s / Sur (Lib) 15% dmg Comp (2x) - 5s"},
+  {"name":"Lumiere Eternelle","bonus2p":"10% dmg Spectro","bonus5p":"Sur (Proc Lum Spectro) 20% CC - 15s / Sur (dmg) cible a 10 Stack 15% dmg Spectro - 15s"},
+  {"name":"Voile des Ombres","bonus2p":"10% dmg Havoc","bonus5p":"Sur (Outro) 480% dmg Havoc sup + 15% dmg Havoc sur prochain Champ"},
+  {"name":"Symphonie celeste","bonus2p":"10% RR","bonus5p":"Dmg Coop 80% si crit + 20% Atk sur membre (actif)"},
+  {"name":"Bravoure des Vagues","bonus2p":"10% RR","bonus5p":"15% Atk bonus / Si RR >= 250% + 30% sur tt les Attributs"}
+]
