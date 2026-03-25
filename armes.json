@@ -4,7 +4,7 @@
   {"name":"Cycles de Saisons","rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":587},
   {"name":"Marque du Feu Sauvage","rarity":5,"type":"BroadBlade","stat":"DC","atkLv90":587},
   {"name":"Trancheur d'Eclat","rarity":5,"type":"BroadBlade","stat":"DC","atkLv90":587},
-  {"name":"Domination Tonnerre","rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":587},
+  {"name":"Domination Tonnerre","rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":675},
   {"name":"Kumokiri","rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":500},
 
   {"name":"Brillance Flamboyante","rarity":5,"type":"Sword","stat":"DC","atkLv90":587},
@@ -12,15 +12,15 @@
   {"name":"Sentence d'Emeraude","rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
   {"name":"Source Rouge","rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
   {"name":"Etoile Polaire Eternelle","rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
-  {"name":"Epine du Defiant","rarity":5,"type":"Sword","stat":"HP","atkLv90":587},
-  {"name":"Faucheur Laser","rarity":5,"type":"Sword","stat":"RR","atkLv90":412},
+  {"name":"Epine du Defiant","rarity":5,"type":"Sword","stat":"HP","atkLv90":412},
+  {"name":"Faucheur Laser","rarity":5,"type":"Sword","stat":"RR","atkLv90":587},
   {"name":"Vaillance Inebranlable","rarity":5,"type":"Sword","stat":"RR","atkLv90":412},
 
   {"name":"Main du Marionnettiste","rarity":5,"type":"Rectifier","stat":"CC","atkLv90":587},
   {"name":"Symphonie Stellaire","rarity":5,"type":"Rectifier","stat":"RR","atkLv90":412},
   {"name":"Hymne Lumineux","rarity":5,"type":"Rectifier","stat":"CC","atkLv90":500},
   {"name":"Pousses Givrees","rarity":5,"type":"Rectifier","stat":"DC","atkLv90":500},
-  {"name":"Astrolabe Boson","rarity":5,"type":"Rectifier","stat":"RR","atkLv90":412},
+  {"name":"Astrolabe Boson","rarity":5,"type":"Rectifier","stat":"RR","atkLv90":525,"budget":700},
   {"name":"Ondulations Cosmiques","rarity":5,"type":"Rectifier","stat":"Atk","atkLv90":500},
   {"name":"Elegie du Lethe","rarity":5,"type":"Rectifier","stat":"CC","atkLv90":587},
   {"name":"Maitre des Cordes","rarity":5,"type":"Rectifier","stat":"CC","atkLv90":587},
@@ -39,7 +39,7 @@
   {"name":"Justice Flamboyante","rarity":5,"type":"Gauntlet","stat":"DC","atkLv90":587},
   {"name":"Chiffres du Soleil","rarity":5,"type":"Gauntlet","stat":"DC","atkLv90":587},
   {"name":"Epine du Briseur d'Aube","rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
-  {"name":"Sceau du Contemplateur","rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
+  {"name":"Sceau du Contemplateur","rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":500},
   {"name":"Bracelet de Pulsation","rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
 
   {"name":"Tailleur d'Helios","rarity":4,"type":"BroadBlade","stat":"Atk","atkLv90":412},
@@ -89,7 +89,7 @@
   {"name":"Augment","rarity":4,"type":"Rectifier","stat":"CC","atkLv90":412},
   {"name":"Aube Radieuse","rarity":4,"type":"Rectifier","stat":"DC","atkLv90":412},
   {"name":"Devoisant","rarity":4,"type":"Rectifier","stat":"CC","atkLv90":412},
-  {"name":"Don de l'Ocean","rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":412},
+  {"name":"Don de l'Ocean","rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":462},
 
   {"name":"Lame Large Gardienne","rarity":3,"type":"BroadBlade","stat":"Atk","atkLv90":325},
   {"name":"Lame Large de Nuit","rarity":3,"type":"BroadBlade","stat":"Atk","atkLv90":325},
@@ -123,9 +123,9 @@
   {"name":"Gantelets de Novice","rarity":2,"type":"Gauntlet","stat":"Atk","atkLv90":250},
   {"name":"Redresseur de Novice","rarity":2,"type":"Rectifier","stat":"Atk","atkLv90":250},
 
-  {"name":"Lame Large d'Entrainement","rarity":1,"type":"BroadBlade","stat":"Atk","atkLv90":175},
-  {"name":"Epee d'Entrainement","rarity":1,"type":"Sword","stat":"Atk","atkLv90":175},
-  {"name":"Pistolets d'Entrainement","rarity":1,"type":"Pistol","stat":"Atk","atkLv90":175},
-  {"name":"Gantelets d'Entrainement","rarity":1,"type":"Gauntlet","stat":"Atk","atkLv90":175},
-  {"name":"Redresseur d'Entrainement","rarity":1,"type":"Rectifier","stat":"Atk","atkLv90":175}
+  {"name":"Lame Large d'Entrainement","rarity":1,"type":"BroadBlade","stat":"Atk","atkLv90":175,"isDefault":true},
+  {"name":"Epee d'Entrainement","rarity":1,"type":"Sword","stat":"Atk","atkLv90":175,"isDefault":true},
+  {"name":"Pistolets d'Entrainement","rarity":1,"type":"Pistol","stat":"Atk","atkLv90":175,"isDefault":true},
+  {"name":"Gantelets d'Entrainement","rarity":1,"type":"Gauntlet","stat":"Atk","atkLv90":175,"isDefault":true},
+  {"name":"Redresseur d'Entrainement","rarity":1,"type":"Rectifier","stat":"Atk","atkLv90":175,"isDefault":true}
 ]
