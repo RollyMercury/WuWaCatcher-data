@@ -1,0 +1,726 @@
+[
+  {
+    "name": "Aalto",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "-"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Aemeath",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Augusta",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "-"
+    ],
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Baizhi",
+    "substatPriority": [
+      "HP",
+      "Hp%",
+      "Def%",
+      "RR",
+      "DEF",
+      "-"
+    ],
+    "sonataSet": "Eclat Rajeunissant",
+    "echoMainE4": "Atk%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Brant",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "-"
+    ],
+    "sonataSet": "Bravoure des Vagues",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Buling",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "-"
+    ],
+    "sonataSet": "Eclat Rajeunissant",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Calcharo",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Atk",
+      "An",
+      "Lib"
+    ],
+    "sonataSet": "Tonnerre du Ciel",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Camellya",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Atk",
+      "Comp",
+      "RR"
+    ],
+    "sonataSet": "Le Crepuscule noir",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Cantarella",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "sonataSet": "Voile des Ombres",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Carlotta",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Atk",
+      "Comp"
+    ],
+    "sonataSet": "Ame Glaciale",
+    "echoMainE4": "Def%"
+  },
+  {
+    "name": "Cartethyia",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Hp%"
+    ],
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Def%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Changli",
+    "substatPriority": [
+      "Atk%",
+      "Comp",
+      "Lib",
+      "CC",
+      "DC",
+      "-"
+    ],
+    "sonataSet": "Faille de Lave",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Chisa",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "sonataSet": "Le Crepuscule noir",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Chixia",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "sonataSet": "Faille de Lave",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Ciaccona",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Danjin",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "Comp",
+      "CC",
+      "DC",
+      "-"
+    ],
+    "sonataSet": "Le Crepuscule noir",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Encore",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "Comp",
+      "An"
+    ],
+    "sonataSet": "Faille de Lave",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Galbrena",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "An"
+    ],
+    "sonataSet": "Faille de Lave",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Iuno",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "sonataSet": "Hurle de Sierra",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Jianxin",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "Comp",
+      "CC",
+      "DC",
+      "RR"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Def%",
+    "echoMainE1_2": "Def%"
+  },
+  {
+    "name": "Jinhsi",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "Comp",
+      "CC",
+      "DC",
+      "-"
+    ],
+    "sonataSet": "Lumiere Celeste",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Jiyan",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Atk",
+      "Al",
+      "RR"
+    ],
+    "sonataSet": "Hurle de Sierra",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Def%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Lingyang",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "An",
+      "RR"
+    ],
+    "sonataSet": "Gel Frigorifiant",
+    "echoMainE4": "Def%"
+  },
+  {
+    "name": "Lumi",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Atk",
+      "RR",
+      "Comp"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Lupa",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Lib"
+    ],
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Luuk Herssen",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Lynae",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Mornye",
+    "substatPriority": [
+      "Def%",
+      "DC",
+      "RR",
+      "DEF",
+      "CC",
+      "Atk%"
+    ],
+    "echoMainE4": "Hp%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%",
+    "echoMainE1_1": "Def%",
+    "echoMainE1_2": "Def%"
+  },
+  {
+    "name": "Mortefi",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp",
+      "Lib"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Nomade-A",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Comp"
+    ],
+    "echoMainE4": "Def%"
+  },
+  {
+    "name": "Nomade-H",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Comp",
+      "Lib",
+      "Atk"
+    ],
+    "sonataSet": "Le Crepuscule noir",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Nomade-S",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "An",
+      "RR"
+    ],
+    "sonataSet": "Lumiere Celeste",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Phoebe",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "Al",
+      "RR",
+      "Atk"
+    ],
+    "sonataSet": "Lumiere Eternelle",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Phrolova",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "Comp",
+      "Lib"
+    ],
+    "sonataSet": "Le Crepuscule noir",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Qiuyuan",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "Al",
+      "RR"
+    ],
+    "sonataSet": "Hurle de Sierra",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Roccia",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Atk",
+      "Al"
+    ],
+    "sonataSet": "Voile des Ombres",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Hp%",
+    "echoMainE1_2": "Hp%"
+  },
+  {
+    "name": "Sanhua",
+    "substatPriority": [
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Atk",
+      "Comp"
+    ],
+    "sonataSet": "Gel Frigorifiant",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "ShoreKeeper",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "RR",
+      "Hp%",
+      "Def%",
+      "HP"
+    ],
+    "sonataSet": "Eclat Rajeunissant",
+    "echoMainE4": "Atk%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%",
+    "echoMainE1_1": "Def%",
+    "echoMainE1_2": "Def%"
+  },
+  {
+    "name": "Sigrika",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "-"
+    ],
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Taoqi",
+    "substatPriority": [
+      "Atk%",
+      "Def%",
+      "CC",
+      "DC",
+      "RR",
+      "DEF"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "Hp%"
+  },
+  {
+    "name": "Verina",
+    "substatPriority": [
+      "DEF",
+      "Hp%",
+      "Atk%",
+      "Def%",
+      "Atk",
+      "RR"
+    ],
+    "sonataSet": "Eclat Rajeunissant",
+    "echoMainE4": "Atk%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%",
+    "echoMainE1_1": "Def%",
+    "echoMainE1_2": "Def%"
+  },
+  {
+    "name": "Xiangli Yao",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "An",
+      "RR"
+    ],
+    "sonataSet": "Tonnerre du Ciel",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Yangyang",
+    "substatPriority": [
+      "Atk%",
+      "An",
+      "CC",
+      "DC",
+      "Atk",
+      "RR"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Def%"
+  },
+  {
+    "name": "Yinlin",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "Comp",
+      "CC",
+      "DC",
+      "-"
+    ],
+    "sonataSet": "Tonnerre du Ciel",
+    "echoMainE4": "HP",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Youhu",
+    "substatPriority": [
+      "RR",
+      "Atk",
+      "Atk%",
+      "Def%",
+      "Hp%",
+      "DEF"
+    ],
+    "sonataSet": "Eclat Rajeunissant",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Hp%",
+    "echoMainE3_2": "Hp%"
+  },
+  {
+    "name": "Yuanwu",
+    "substatPriority": [
+      "Atk%",
+      "Def%",
+      "CC",
+      "DC",
+      "DEF",
+      "RR"
+    ],
+    "sonataSet": "Nuages Lunaires",
+    "echoMainE4": "Def%",
+    "echoMainE3_1": "Atk%",
+    "echoMainE3_2": "Atk%"
+  },
+  {
+    "name": "Zani",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "An",
+      "RR"
+    ],
+    "sonataSet": "Lumiere Eternelle",
+    "echoMainE4": "Def%",
+    "echoMainE1_1": "Atk%",
+    "echoMainE1_2": "Atk%"
+  },
+  {
+    "name": "Zhezhi",
+    "substatPriority": [
+      "Atk",
+      "Atk%",
+      "CC",
+      "DC",
+      "RR",
+      "Lib"
+    ],
+    "sonataSet": "Gel Frigorifiant",
+    "echoMainE4": "Def%"
+  }
+]
