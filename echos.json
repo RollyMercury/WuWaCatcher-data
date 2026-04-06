@@ -1,175 +1,1713 @@
 [
-  {"id":"Mech Abomination","name":{"en":"Mech Abomination","fr":"Abomination mécanique"},"cost":4,"sonatas":["Lingering Tunes"]},
-  {"id":"Sentry Construct","name":{"en":"Sentry Construct","fr":"Arsenal hybride"},"cost":4,"sonatas":["Frosty Resolve"]},
-  {"id":"Nightmare: Inferno Rider","name":{"en":"Nightmare: Inferno Rider","fr":"Cauchemar : Chevalier d'Inferno"},"cost":4,"sonatas":["Molten Rift"]},
-  {"id":"Nightmare: Feilian Beringal","name":{"en":"Nightmare: Feilian Beringal","fr":"Cauchemar : Feilian Beringal"},"cost":4,"sonatas":["Sierra Gale"]},
-  {"id":"Nightmare: Hecate","name":{"en":"Nightmare: Hecate","fr":"Cauchemar : Hecate"},"cost":4,"sonatas":[]},
-  {"id":"Nightmare: Impermanence Heron","name":{"en":"Nightmare: Impermanence Heron","fr":"Cauchemar : Héron impermanent"},"cost":4,"sonatas":["Midnight Veil"]},
-  {"id":"Nightmare: Kelpie","name":{"en":"Nightmare: Kelpie","fr":"Cauchemar : Kelpie"},"cost":4,"sonatas":[]},
-  {"id":"Nightmare: Thundering Mephis","name":{"en":"Nightmare: Thundering Mephis","fr":"Cauchemar : Mephis tonerre"},"cost":4,"sonatas":["Void Thunder","Empyrean Anthem"]},
-  {"id":"Nightmare: Tempest Mephis","name":{"en":"Nightmare: Tempest Mephis","fr":"Cauchemar : Mephis éclatant"},"cost":4,"sonatas":["Void Thunder"]},
-  {"id":"Nightmare: Lampylumen Myriad","name":{"en":"Nightmare: Lampylumen Myriad","fr":"Cauchemar : Myriade de Lampylumen"},"cost":4,"sonatas":["Frosty Resolve","Empyrean Anthem"]},
-  {"id":"Nightmare: Crownless","name":{"en":"Nightmare: Crownless","fr":"Cauchemar : Sans couronne"},"cost":4,"sonatas":["Havoc Eclipse"]},
-  {"id":"Nightmare: Mourning Aix","name":{"en":"Nightmare: Mourning Aix","fr":"Cauchemar : Vautour plaignant"},"cost":4,"sonatas":["Eternal Radiance"]},
-  {"id":"Inferno Rider","name":{"en":"Inferno Rider","fr":"Chevalier d'Inferno"},"cost":4,"sonatas":["Molten Rift"]},
-  {"id":"Reactor Husk","name":{"en":"Reactor Husk","fr":"Coque du réacteur"},"cost":4,"sonatas":[]},
-  {"id":"Lady of the Sea","name":{"en":"Lady of the Sea","fr":"Dame de la Mer"},"cost":4,"sonatas":[]},
-  {"id":"Dragon of Dirge","name":{"en":"Dragon of Dirge","fr":"Dragon de chagrin"},"cost":4,"sonatas":["Tidebreaking Courage"]},
-  {"id":"Fallacy of No Return","name":{"en":"Fallacy of No Return","fr":"Erreur intarissable"},"cost":4,"sonatas":["Rejuvenating Glow"]},
-  {"id":"Nameless Explorer","name":{"en":"Nameless Explorer","fr":"Explorateur sans nom"},"cost":4,"sonatas":[]},
-  {"id":"Feilian Beringal","name":{"en":"Feilian Beringal","fr":"Feilian Beringal"},"cost":4,"sonatas":["Sierra Gale"]},
-  {"id":"Hecate","name":{"en":"Hecate","fr":"Hecate"},"cost":4,"sonatas":["Freezing Frost","Molten Rift"]},
-  {"id":"Hyvatia","name":{"en":"Hyvatia","fr":"Hyvatia"},"cost":4,"sonatas":[]},
-  {"id":"Impermanence Heron","name":{"en":"Impermanence Heron","fr":"Héron impermanent"},"cost":4,"sonatas":["Moonlit Clouds"]},
-  {"id":"Jué","name":{"en":"Jué","fr":"Jiao"},"cost":4,"sonatas":["Celestial Light"]},
-  {"id":"Crownless","name":{"en":"Crownless","fr":"Le Sans-couronne"},"cost":4,"sonatas":["Havoc Eclipse"]},
-  {"id":"Dreamless","name":{"en":"Dreamless","fr":"Le Sans-délire"},"cost":4,"sonatas":["Havoc Eclipse"]},
-  {"id":"Lioness of Glory","name":{"en":"Lioness of Glory","fr":"Lionne glorieuse"},"cost":4,"sonatas":[]},
-  {"id":"Lorelei","name":{"en":"Lorelei","fr":"Lorelei"},"cost":4,"sonatas":["Midnight Veil"]},
-  {"id":"Tempest Mephis","name":{"en":"Tempest Mephis","fr":"Mephis tonerre"},"cost":4,"sonatas":["Void Thunder"]},
-  {"id":"Thundering Mephis","name":{"en":"Thundering Mephis","fr":"Mephis éclatant"},"cost":4,"sonatas":["Void Thunder"]},
-  {"id":"Lampylumen Myriad","name":{"en":"Lampylumen Myriad","fr":"Myriade de Lampylumen"},"cost":4,"sonatas":["Freezing Frost"]},
-  {"id":"Reminiscence: Fenrico","name":{"en":"Reminiscence: Fenrico","fr":"Résidu résonnant : Fenrico"},"cost":4,"sonatas":[]},
-  {"id":"Reminiscence: Fleurdelys","name":{"en":"Reminiscence: Fleurdelys","fr":"Résidu résonnant : Fleurdelys"},"cost":4,"sonatas":[]},
-  {"id":"Reminiscence: Threnodian - Leviathan","name":{"en":"Reminiscence: Threnodian - Leviathan","fr":"Résidu résonnant : Léviathan le Réprimantum"},"cost":4,"sonatas":[]},
-  {"id":"Sigillum","name":{"en":"Sigillum","fr":"Sigilium"},"cost":4,"sonatas":[]},
-  {"id":"The False Sovereign","name":{"en":"The False Sovereign","fr":"Souverain apocryphe"},"cost":4,"sonatas":[]},
-  {"id":"Bell-Borne Geochelone","name":{"en":"Bell-Borne Geochelone","fr":"Tortue clochante"},"cost":4,"sonatas":["Rejuvenating Glow","Moonlit Clouds"]},
-  {"id":"Mourning Aix","name":{"en":"Mourning Aix","fr":"Vautour plaignant"},"cost":4,"sonatas":["Celestial Light"]},
-
-  {"id":"Brant","name":{"en":"Brant","fr":"Brant"},"cost":3,"sonatas":["Molten Rift"]},
-  {"id":"Calcharo","name":{"en":"Calcharo","fr":"Calcharo"},"cost":3,"sonatas":["Void Thunder"]},
-  {"id":"Camellya","name":{"en":"Camellya","fr":"Camellya"},"cost":3,"sonatas":["Havoc Eclipse"]},
-  {"id":"Cantarella","name":{"en":"Cantarella","fr":"Cantarella"},"cost":3,"sonatas":["Havoc Eclipse"]},
-  {"id":"Capitaneus","name":{"en":"Capitaneus","fr":"Capitaneus"},"cost":3,"sonatas":["Eternal Radiance"]},
-  {"id":"Pilgrim's Shell","name":{"en":"Pilgrim's Shell","fr":"Carapace du pèlerin"},"cost":3,"sonatas":[]},
-  {"id":"Carlotta","name":{"en":"Carlotta","fr":"Carlotta"},"cost":3,"sonatas":["Freezing Frost"]},
-  {"id":"Cartethyia","name":{"en":"Cartethyia","fr":"Cartethyia"},"cost":3,"sonatas":["Freezing Frost"]},
-  {"id":"Lightcrusher","name":{"en":"Lightcrusher","fr":"Casseur de lumière"},"cost":3,"sonatas":["Celestial Light"]},
-  {"id":"Nightmare: Roseshroom","name":{"en":"Nightmare: Roseshroom","fr":"Cauchemar : Champirose"},"cost":3,"sonatas":[]},
-  {"id":"Nightmare: Cyan-Feathered Heron","name":{"en":"Nightmare: Cyan-Feathered Heron","fr":"Cauchemar : Héron cyan"},"cost":3,"sonatas":[]},
-  {"id":"Nightmare: Violet-Feathered Heron","name":{"en":"Nightmare: Violet-Feathered Heron","fr":"Cauchemar : Héron violet"},"cost":3,"sonatas":[]},
-  {"id":"Nightmare: Viridblaze Saurian","name":{"en":"Nightmare: Viridblaze Saurian","fr":"Cauchemar : Lézard lavique vert"},"cost":3,"sonatas":[]},
-  {"id":"Stonewall Bracer","name":{"en":"Stonewall Bracer","fr":"Champion rocheux"},"cost":3,"sonatas":["Rejuvenating Glow","Moonlit Clouds"]},
-  {"id":"Roseshroom","name":{"en":"Roseshroom","fr":"Champirose"},"cost":3,"sonatas":["Freezing Frost","Havoc Eclipse"]},
-  {"id":"Changli","name":{"en":"Changli","fr":"Changli"},"cost":3,"sonatas":["Molten Rift"]},
-  {"id":"Diurnus Knight","name":{"en":"Diurnus Knight","fr":"Chevalier diurne"},"cost":3,"sonatas":["Eternal Radiance","Tidebreaking Courage"]},
-  {"id":"Nocturnus Knight","name":{"en":"Nocturnus Knight","fr":"Chevalier nocturne"},"cost":3,"sonatas":["Midnight Veil","Empyrean Anthem"]},
-  {"id":"Questless Knight","name":{"en":"Questless Knight","fr":"Chevalier vagabond"},"cost":3,"sonatas":["Frosty Resolve","Midnight Veil"]},
-  {"id":"Windlash Coleoid","name":{"en":"Windlash Coleoid","fr":"Coleoïde des rafales"},"cost":3,"sonatas":[]},
-  {"id":"Frostbite Coleoid","name":{"en":"Frostbite Coleoid","fr":"Coléoïde du givre"},"cost":3,"sonatas":[]},
-  {"id":"Corrosaurus","name":{"en":"Corrosaurus","fr":"Corrosaurus"},"cost":3,"sonatas":[]},
-  {"id":"Vitreum Dancer","name":{"en":"Vitreum Dancer","fr":"Danseuse du Vitreum"},"cost":3,"sonatas":["Eternal Radiance","Empyrean Anthem"]},
-  {"id":"Spacetrek Explorer","name":{"en":"Spacetrek Explorer","fr":"Explorateur du Trek-spatial"},"cost":3,"sonatas":[]},
-  {"id":"Kronablight","name":{"en":"Kronablight","fr":"Fléauronne"},"cost":3,"sonatas":[]},
-  {"id":"Flautist","name":{"en":"Flautist","fr":"Flûtiste"},"cost":3,"sonatas":["Void Thunder","Lingering Tunes"]},
-  {"id":"Chasm Guardian","name":{"en":"Chasm Guardian","fr":"Gardien de l'abîme"},"cost":3,"sonatas":["Rejuvenating Glow","Lingering Tunes"]},
-  {"id":"Rocksteady Guardian","name":{"en":"Rocksteady Guardian","fr":"Gardien rocheux"},"cost":3,"sonatas":["Celestial Light","Rejuvenating Glow"]},
-  {"id":"Shorekeeper","name":{"en":"Shorekeeper","fr":"Gardienne du littoral"},"cost":3,"sonatas":["Rejuvenating Glow"]},
-  {"id":"Abyssal Gladius","name":{"en":"Abyssal Gladius","fr":"Glaive abyssal"},"cost":3,"sonatas":["Midnight Veil","Tidebreaking Courage"]},
-  {"id":"Glommoth","name":{"en":"Glommoth","fr":"Glommouth"},"cost":3,"sonatas":[]},
-  {"id":"Lumiscale Construct","name":{"en":"Lumiscale Construct","fr":"Golem des écailles"},"cost":3,"sonatas":["Freezing Frost","Void Thunder"]},
-  {"id":"Chop Chop","name":{"en":"Chop Chop","fr":"Hache hache"},"cost":3,"sonatas":["Empyrean Anthem","Tidebreaking Courage"]},
-  {"id":"Hoochief","name":{"en":"Hoochief","fr":"Hoolice"},"cost":3,"sonatas":["Sierra Gale","Rejuvenating Glow"]},
-  {"id":"Cyan-Feathered Heron","name":{"en":"Cyan-Feathered Heron","fr":"Héron cyan"},"cost":3,"sonatas":["Sierra Gale","Celestial Light"]},
-  {"id":"Violet-Feathered Heron","name":{"en":"Violet-Feathered Heron","fr":"Héron violet"},"cost":3,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Autopuppet Scout","name":{"en":"Autopuppet Scout","fr":"Imitateur : Véhicule de combat"},"cost":3,"sonatas":["Freezing Frost","Celestial Light"]},
-  {"id":"Jinhsi","name":{"en":"Jinhsi","fr":"Jinhsi"},"cost":3,"sonatas":["Celestial Light"]},
-  {"id":"Kerasaur","name":{"en":"Kerasaur","fr":"Kérasaure"},"cost":3,"sonatas":[]},
-  {"id":"Spearback","name":{"en":"Spearback","fr":"Lançours"},"cost":3,"sonatas":["Moonlit Clouds","Lingering Tunes"]},
-  {"id":"Havoc Dreadmane","name":{"en":"Havoc Dreadmane","fr":"Loup de Havoc"},"cost":3,"sonatas":["Molten Rift","Havoc Eclipse"]},
-  {"id":"Glacio Dreadmane","name":{"en":"Glacio Dreadmane","fr":"Loup glacier"},"cost":3,"sonatas":["Freezing Frost","Moonlit Clouds"]},
-  {"id":"Viridblaze Saurian","name":{"en":"Viridblaze Saurian","fr":"Lézard lavique vert"},"cost":3,"sonatas":["Molten Rift","Moonlit Clouds"]},
-  {"id":"Abyssal Mercator","name":{"en":"Abyssal Mercator","fr":"Mercator abyssal"},"cost":3,"sonatas":["Frosty Resolve","Eternal Radiance"]},
-  {"id":"Cuddle Wuddle","name":{"en":"Cuddle Wuddle","fr":"Nounours géant"},"cost":3,"sonatas":["Frosty Resolve","Midnight Veil"]},
-  {"id":"Twin Nova: Nebulous Cannon","name":{"en":"Twin Nova: Nebulous Cannon","fr":"Nova jumelle : Canon nébuleux"},"cost":3,"sonatas":[]},
-  {"id":"Twin Nova: Collapsar Blade","name":{"en":"Twin Nova: Collapsar Blade","fr":"Nova jumelle : Lame de collapsar"},"cost":3,"sonatas":[]},
-  {"id":"Abyssal Patricius","name":{"en":"Abyssal Patricius","fr":"Patricius abyssal"},"cost":3,"sonatas":["Frosty Resolve","Empyrean Anthem"]},
-  {"id":"Phoebe","name":{"en":"Phoebe","fr":"Phoebe"},"cost":3,"sonatas":["Celestial Light"]},
-  {"id":"Rage Against the Statue","name":{"en":"Rage Against the Statue","fr":"Rage contre la Statue"},"cost":3,"sonatas":["Eternal Radiance"]},
-  {"id":"Carapace","name":{"en":"Carapace","fr":"Rasoir chasseur"},"cost":3,"sonatas":["Sierra Gale","Moonlit Clouds"]},
-  {"id":"Flora Reindeer","name":{"en":"Flora Reindeer","fr":"Renne floral"},"cost":3,"sonatas":[]},
-  {"id":"Mining Reindeer","name":{"en":"Mining Reindeer","fr":"Renne minier"},"cost":3,"sonatas":[]},
-  {"id":"Roccia","name":{"en":"Roccia","fr":"Roccia"},"cost":3,"sonatas":["Rejuvenating Glow"]},
-  {"id":"Reminiscence: Kronaclaw","name":{"en":"Reminiscence: Kronaclaw","fr":"Résidu résonnant : Griffouronne"},"cost":3,"sonatas":[]},
-  {"id":"Sabercat Prowler","name":{"en":"Sabercat Prowler","fr":"Rôdeur à dents de sabre"},"cost":3,"sonatas":[]},
-  {"id":"Ironhoof","name":{"en":"Ironhoof","fr":"Sabot-de-fer"},"cost":3,"sonatas":[]},
-  {"id":"Sabercat Reaver","name":{"en":"Sabercat Reaver","fr":"Saccageur à dents de sabre"},"cost":3,"sonatas":[]},
-  {"id":"Tambourinist","name":{"en":"Tambourinist","fr":"Tambourineur"},"cost":3,"sonatas":["Freezing Frost","Havoc Eclipse"]},
-  {"id":"Hurriclaw","name":{"en":"Hurriclaw","fr":"Tempours"},"cost":3,"sonatas":["Tidebreaking Courage"]},
-  {"id":"Zani","name":{"en":"Zani","fr":"Zani"},"cost":3,"sonatas":["Celestial Light"]},
-
-  {"id":"Geospider S4","name":{"en":"Geospider S4","fr":"Araignée de la Terre S4"},"cost":1,"sonatas":[]},
-  {"id":"Dwarf Cassowary","name":{"en":"Dwarf Cassowary","fr":"Casoar nain"},"cost":1,"sonatas":["Sierra Gale","Rejuvenating Glow"]},
-  {"id":"Nightmare: Dwarf Cassowary","name":{"en":"Nightmare: Dwarf Cassowary","fr":"Cauchemar : Casoar nain"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Baby Roseshroom","name":{"en":"Nightmare: Baby Roseshroom","fr":"Cauchemar : Champirose (Petit)"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Chirpuff","name":{"en":"Nightmare: Chirpuff","fr":"Cauchemar : Chulboule"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Havoc Warrior","name":{"en":"Nightmare: Havoc Warrior","fr":"Cauchemar : Combattant Havoc"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Gulpuff","name":{"en":"Nightmare: Gulpuff","fr":"Cauchemar : Gulboule"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Baby Viridblaze Saurian","name":{"en":"Nightmare: Baby Viridblaze Saurian","fr":"Cauchemar : Lézard lavique vert (Petit)"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Aero Predator","name":{"en":"Nightmare: Aero Predator","fr":"Cauchemar : Prédateur Aero"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Electro Predator","name":{"en":"Nightmare: Electro Predator","fr":"Cauchemar : Prédateur Electro"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Glacio Predator","name":{"en":"Nightmare: Glacio Predator","fr":"Cauchemar : Prédateur Glacio"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Tambourinist","name":{"en":"Nightmare: Tambourinist","fr":"Cauchemar : Tambourineur"},"cost":1,"sonatas":[]},
-  {"id":"Nightmare: Tick Tack","name":{"en":"Nightmare: Tick Tack","fr":"Cauchemar : Tic Tac"},"cost":1,"sonatas":[]},
-  {"id":"Devotee's Flesh","name":{"en":"Devotee's Flesh","fr":"Chair du dévot"},"cost":1,"sonatas":[]},
-  {"id":"Baby Roseshroom","name":{"en":"Baby Roseshroom","fr":"Champirose (Petit)"},"cost":1,"sonatas":["Sierra Gale","Havoc Eclipse"]},
-  {"id":"Chirpuff","name":{"en":"Chirpuff","fr":"Chulboule"},"cost":1,"sonatas":["Sierra Gale","Havoc Eclipse"]},
-  {"id":"Chest Mimic","name":{"en":"Chest Mimic","fr":"Coffre trompeur"},"cost":1,"sonatas":["Frosty Resolve","Midnight Veil"]},
-  {"id":"Fusion Warrior","name":{"en":"Fusion Warrior","fr":"Combattant Fusion"},"cost":1,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Havoc Warrior","name":{"en":"Havoc Warrior","fr":"Combattant Havoc"},"cost":1,"sonatas":["Celestial Light","Havoc Eclipse"]},
-  {"id":"Tremor Warrior","name":{"en":"Tremor Warrior","fr":"Combattant du tremblement"},"cost":1,"sonatas":[]},
-  {"id":"Excarat","name":{"en":"Excarat","fr":"Creutaupe"},"cost":1,"sonatas":["Freezing Frost","Havoc Eclipse"]},
-  {"id":"Iceglint Dancer","name":{"en":"Iceglint Dancer","fr":"Danseuse des glaces"},"cost":1,"sonatas":[]},
-  {"id":"Clang Bang","name":{"en":"Clang Bang","fr":"Ding-dong"},"cost":1,"sonatas":["Freezing Frost","Celestial Light"]},
-  {"id":"Diggy Duggy","name":{"en":"Diggy Duggy","fr":"Doudou Creuse-Tout"},"cost":1,"sonatas":["Eternal Radiance","Tidebreaking Courage"]},
-  {"id":"Flora Drone","name":{"en":"Flora Drone","fr":"Drone floral"},"cost":1,"sonatas":[]},
-  {"id":"Mining Drone","name":{"en":"Mining Drone","fr":"Drone mineur"},"cost":1,"sonatas":[]},
-  {"id":"Fae Ignis","name":{"en":"Fae Ignis","fr":"Fae igné"},"cost":1,"sonatas":["Eternal Radiance","Midnight Veil"]},
-  {"id":"Shadow Stepper","name":{"en":"Shadow Stepper","fr":"Fausse ombre"},"cost":1,"sonatas":[]},
-  {"id":"Cruisewing","name":{"en":"Cruisewing","fr":"Fiçaile"},"cost":1,"sonatas":["Celestial Light","Rejuvenating Glow"]},
-  {"id":"Gulpuff","name":{"en":"Gulpuff","fr":"Gulboule"},"cost":1,"sonatas":["Freezing Frost","Celestial Light"]},
-  {"id":"Chop Chop: Rightless","name":{"en":"Chop Chop: Rightless","fr":"Hache hache : Droite"},"cost":1,"sonatas":["Frosty Resolve","Tidebreaking Courage"]},
-  {"id":"Chop Chop: Leftless","name":{"en":"Chop Chop: Leftless","fr":"Hache hache : Gauche"},"cost":1,"sonatas":["Frosty Resolve","Tidebreaking Courage"]},
-  {"id":"Chop Chop: Headless","name":{"en":"Chop Chop: Headless","fr":"Hache hache : Tête"},"cost":1,"sonatas":["Eternal Radiance","Tidebreaking Courage"]},
-  {"id":"Hocus Pocus","name":{"en":"Hocus Pocus","fr":"Hocus Pocus"},"cost":1,"sonatas":["Frosty Resolve","Empyrean Anthem"]},
-  {"id":"Whiff Whaff","name":{"en":"Whiff Whaff","fr":"Houhouu"},"cost":1,"sonatas":["Sierra Gale","Rejuvenating Glow"]},
-  {"id":"Traffic Illuminator","name":{"en":"Traffic Illuminator","fr":"Imitateur : feu de circulation"},"cost":1,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Lava Larva","name":{"en":"Lava Larva","fr":"Insecte-feu"},"cost":1,"sonatas":["Molten Rift","Lingering Tunes"]},
-  {"id":"Vanguard Junrock","name":{"en":"Vanguard Junrock","fr":"Jeunpierre avant-guard"},"cost":1,"sonatas":["Void Thunder","Rejuvenating Glow"]},
-  {"id":"Golden Junrock","name":{"en":"Golden Junrock","fr":"Jeunpierre d'or"},"cost":1,"sonatas":["Frosty Resolve","Eternal Radiance"]},
-  {"id":"Fission Junrock","name":{"en":"Fission Junrock","fr":"Jeunpierre fissurée"},"cost":1,"sonatas":["Void Thunder","Rejuvenating Glow"]},
-  {"id":"Calcified Junrock","name":{"en":"Calcified Junrock","fr":"Jeunpierre vernie"},"cost":1,"sonatas":["Empyrean Anthem","Tidebreaking Courage"]},
-  {"id":"La Guardia","name":{"en":"La Guardia","fr":"La Guardia"},"cost":1,"sonatas":["Midnight Veil"]},
-  {"id":"Lottie Lost","name":{"en":"Lottie Lost","fr":"Lottie la muette"},"cost":1,"sonatas":["Frosty Resolve","Tidebreaking Courage"]},
-  {"id":"Galescourge Stalker","name":{"en":"Galescourge Stalker","fr":"Loup d'Ouragan"},"cost":1,"sonatas":["Frosty Resolve","Empyrean Anthem"]},
-  {"id":"Frostscourge Stalker","name":{"en":"Frostscourge Stalker","fr":"Loup de Givre"},"cost":1,"sonatas":["Eternal Radiance","Midnight Veil"]},
-  {"id":"Voltscourge Stalker","name":{"en":"Voltscourge Stalker","fr":"Loup de Tonerre"},"cost":1,"sonatas":["Midnight Veil","Empyrean Anthem"]},
-  {"id":"Fusion Dreadmane","name":{"en":"Fusion Dreadmane","fr":"Loup fusionier"},"cost":1,"sonatas":["Molten Rift","Rejuvenating Glow"]},
-  {"id":"Baby Viridblaze Saurian","name":{"en":"Baby Viridblaze Saurian","fr":"Lézard lavique vert (Petit)"},"cost":1,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Hooscamp","name":{"en":"Hooscamp","fr":"Petit Hoolice"},"cost":1,"sonatas":["Sierra Gale","Lingering Tunes"]},
-  {"id":"Aero Drake","name":{"en":"Aero Drake","fr":"Petit dragon Aero"},"cost":1,"sonatas":["Tidebreaking Courage"]},
-  {"id":"Electro Drake","name":{"en":"Electro Drake","fr":"Petit dragon Electro"},"cost":1,"sonatas":["Midnight Veil"]},
-  {"id":"Fusion Drake","name":{"en":"Fusion Drake","fr":"Petit dragon Fusion"},"cost":1,"sonatas":[]},
-  {"id":"Glacio Drake","name":{"en":"Glacio Drake","fr":"Petit dragon Glacio"},"cost":1,"sonatas":[]},
-  {"id":"Havoc Drake","name":{"en":"Havoc Drake","fr":"Petit dragon Havoc"},"cost":1,"sonatas":[]},
-  {"id":"Spectro Drake","name":{"en":"Spectro Drake","fr":"Petit dragon Spectro"},"cost":1,"sonatas":[]},
-  {"id":"Aero Prism","name":{"en":"Aero Prism","fr":"Prisme Aero"},"cost":1,"sonatas":["Eternal Radiance","Tidebreaking Courage"]},
-  {"id":"Fusion Prism","name":{"en":"Fusion Prism","fr":"Prisme Fusion"},"cost":1,"sonatas":["Freezing Frost","Molten Rift"]},
-  {"id":"Glacio Prism","name":{"en":"Glacio Prism","fr":"Prisme Glacio"},"cost":1,"sonatas":["Freezing Frost","Havoc Eclipse"]},
-  {"id":"Havoc Prism","name":{"en":"Havoc Prism","fr":"Prisme Havoc"},"cost":1,"sonatas":["Void Thunder","Celestial Light"]},
-  {"id":"Spectro Prism","name":{"en":"Spectro Prism","fr":"Prisme Spectro"},"cost":1,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Aero Predator","name":{"en":"Aero Predator","fr":"Prédateur Aero"},"cost":1,"sonatas":["Void Thunder","Sierra Gale"]},
-  {"id":"Electro Predator","name":{"en":"Electro Predator","fr":"Prédateur Electro"},"cost":1,"sonatas":["Molten Rift","Void Thunder"]},
-  {"id":"Glacio Predator","name":{"en":"Glacio Predator","fr":"Prédateur Glacio"},"cost":1,"sonatas":["Freezing Frost","Celestial Light"]},
-  {"id":"Sacerdos","name":{"en":"Sacerdos","fr":"Sacerdos"},"cost":1,"sonatas":[]},
-  {"id":"Sagittario","name":{"en":"Sagittario","fr":"Sagittaire"},"cost":1,"sonatas":["Eternal Radiance"]},
-  {"id":"Sabyr Boar","name":{"en":"Sabyr Boar","fr":"Sangbre"},"cost":1,"sonatas":["Freezing Frost","Sierra Gale"]},
-  {"id":"Snip Snap","name":{"en":"Snip Snap","fr":"Schlak Schlak"},"cost":1,"sonatas":["Molten Rift","Rejuvenating Glow"]},
-  {"id":"Diamondclaw","name":{"en":"Diamondclaw","fr":"Scorpion cristallin"},"cost":1,"sonatas":["Moonlit Clouds","Lingering Tunes"]},
-  {"id":"Nimbus Wraith","name":{"en":"Nimbus Wraith","fr":"Spectre de Nimbus"},"cost":1,"sonatas":["Midnight Veil","Empyrean Anthem"]},
-  {"id":"Tick Tack","name":{"en":"Tick Tack","fr":"Tic Tac"},"cost":1,"sonatas":["Havoc Eclipse","Rejuvenating Glow"]},
-  {"id":"Hoartoise","name":{"en":"Hoartoise","fr":"Torturoid"},"cost":1,"sonatas":["Freezing Frost","Celestial Light"]},
-  {"id":"Zig Zag","name":{"en":"Zig Zag","fr":"Zig Zag"},"cost":1,"sonatas":["Celestial Light","Moonlit Clouds"]},
-  {"id":"Zip Zap","name":{"en":"Zip Zap","fr":"Zip Zap"},"cost":1,"sonatas":[]}
+  {
+    "id": "Mech Abomination",
+    "name": {
+      "en": "Mech Abomination",
+      "fr": "Abomination mÃ©canique"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Sentry Construct",
+    "name": {
+      "en": "Sentry Construct",
+      "fr": "Arsenal hybride"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Frosty Resolve"
+    ]
+  },
+  {
+    "id": "Nightmare: Inferno Rider",
+    "name": {
+      "en": "Nightmare: Inferno Rider",
+      "fr": "Cauchemar : Chevalier d'Inferno"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Molten Rift"
+    ]
+  },
+  {
+    "id": "Nightmare: Feilian Beringal",
+    "name": {
+      "en": "Nightmare: Feilian Beringal",
+      "fr": "Cauchemar : Feilian Beringal"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Sierra Gale"
+    ]
+  },
+  {
+    "id": "Nightmare: Hecate",
+    "name": {
+      "en": "Nightmare: Hecate",
+      "fr": "Cauchemar : Hecate"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Impermanence Heron",
+    "name": {
+      "en": "Nightmare: Impermanence Heron",
+      "fr": "Cauchemar : HÃ©ron impermanent"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Nightmare: Kelpie",
+    "name": {
+      "en": "Nightmare: Kelpie",
+      "fr": "Cauchemar : Kelpie"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Thundering Mephis",
+    "name": {
+      "en": "Nightmare: Thundering Mephis",
+      "fr": "Cauchemar : Mephis tonerre"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Void Thunder",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Nightmare: Tempest Mephis",
+    "name": {
+      "en": "Nightmare: Tempest Mephis",
+      "fr": "Cauchemar : Mephis Ã©clatant"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Nightmare: Lampylumen Myriad",
+    "name": {
+      "en": "Nightmare: Lampylumen Myriad",
+      "fr": "Cauchemar : Myriade de Lampylumen"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Frosty Resolve",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Nightmare: Crownless",
+    "name": {
+      "en": "Nightmare: Crownless",
+      "fr": "Cauchemar : Sans couronne"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Nightmare: Mourning Aix",
+    "name": {
+      "en": "Nightmare: Mourning Aix",
+      "fr": "Cauchemar : Vautour plaignant"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Inferno Rider",
+    "name": {
+      "en": "Inferno Rider",
+      "fr": "Chevalier d'Inferno"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Molten Rift"
+    ]
+  },
+  {
+    "id": "Reactor Husk",
+    "name": {
+      "en": "Reactor Husk",
+      "fr": "Coque du rÃ©acteur"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Lady of the Sea",
+    "name": {
+      "en": "Lady of the Sea",
+      "fr": "Dame de la Mer"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Dragon of Dirge",
+    "name": {
+      "en": "Dragon of Dirge",
+      "fr": "Dragon de chagrin"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Fallacy of No Return",
+    "name": {
+      "en": "Fallacy of No Return",
+      "fr": "Erreur intarissable"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Nameless Explorer",
+    "name": {
+      "en": "Nameless Explorer",
+      "fr": "Explorateur sans nom"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Feilian Beringal",
+    "name": {
+      "en": "Feilian Beringal",
+      "fr": "Feilian Beringal"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Sierra Gale"
+    ]
+  },
+  {
+    "id": "Hecate",
+    "name": {
+      "en": "Hecate",
+      "fr": "Hecate"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Freezing Frost",
+      "Molten Rift"
+    ]
+  },
+  {
+    "id": "Hyvatia",
+    "name": {
+      "en": "Hyvatia",
+      "fr": "Hyvatia"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Impermanence Heron",
+    "name": {
+      "en": "Impermanence Heron",
+      "fr": "HÃ©ron impermanent"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "JuÃ©",
+    "name": {
+      "en": "JuÃ©",
+      "fr": "Jiao"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Crownless",
+    "name": {
+      "en": "Crownless",
+      "fr": "Le Sans-couronne"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Dreamless",
+    "name": {
+      "en": "Dreamless",
+      "fr": "Le Sans-dÃ©lire"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Lioness of Glory",
+    "name": {
+      "en": "Lioness of Glory",
+      "fr": "Lionne glorieuse"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Lorelei",
+    "name": {
+      "en": "Lorelei",
+      "fr": "Lorelei"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Tempest Mephis",
+    "name": {
+      "en": "Tempest Mephis",
+      "fr": "Mephis tonerre"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Thundering Mephis",
+    "name": {
+      "en": "Thundering Mephis",
+      "fr": "Mephis Ã©clatant"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Lampylumen Myriad",
+    "name": {
+      "en": "Lampylumen Myriad",
+      "fr": "Myriade de Lampylumen"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Freezing Frost"
+    ]
+  },
+  {
+    "id": "Reminiscence: Fenrico",
+    "name": {
+      "en": "Reminiscence: Fenrico",
+      "fr": "RÃ©sidu rÃ©sonnant : Fenrico"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Reminiscence: Fleurdelys",
+    "name": {
+      "en": "Reminiscence: Fleurdelys",
+      "fr": "RÃ©sidu rÃ©sonnant : Fleurdelys"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Reminiscence: Threnodian - Leviathan",
+    "name": {
+      "en": "Reminiscence: Threnodian - Leviathan",
+      "fr": "RÃ©sidu rÃ©sonnant : LÃ©viathan le RÃ©primantum"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Sigillum",
+    "name": {
+      "en": "Sigillum",
+      "fr": "Sigilium"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "The False Sovereign",
+    "name": {
+      "en": "The False Sovereign",
+      "fr": "Souverain apocryphe"
+    },
+    "cost": 4,
+    "sonatas": []
+  },
+  {
+    "id": "Bell-Borne Geochelone",
+    "name": {
+      "en": "Bell-Borne Geochelone",
+      "fr": "Tortue clochante"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Rejuvenating Glow",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Mourning Aix",
+    "name": {
+      "en": "Mourning Aix",
+      "fr": "Vautour plaignant"
+    },
+    "cost": 4,
+    "sonatas": [
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Capitaneus",
+    "name": {
+      "en": "Capitaneus",
+      "fr": "Capitaneus"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Pilgrim's Shell",
+    "name": {
+      "en": "Pilgrim's Shell",
+      "fr": "Carapace du pÃ¨lerin"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Lightcrusher",
+    "name": {
+      "en": "Lightcrusher",
+      "fr": "Casseur de lumiÃ¨re"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Nightmare: Roseshroom",
+    "name": {
+      "en": "Nightmare: Roseshroom",
+      "fr": "Cauchemar : Champirose"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Cyan-Feathered Heron",
+    "name": {
+      "en": "Nightmare: Cyan-Feathered Heron",
+      "fr": "Cauchemar : HÃ©ron cyan"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Violet-Feathered Heron",
+    "name": {
+      "en": "Nightmare: Violet-Feathered Heron",
+      "fr": "Cauchemar : HÃ©ron violet"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Viridblaze Saurian",
+    "name": {
+      "en": "Nightmare: Viridblaze Saurian",
+      "fr": "Cauchemar : LÃ©zard lavique vert"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Stonewall Bracer",
+    "name": {
+      "en": "Stonewall Bracer",
+      "fr": "Champion rocheux"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Rejuvenating Glow",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Roseshroom",
+    "name": {
+      "en": "Roseshroom",
+      "fr": "Champirose"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Freezing Frost",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Diurnus Knight",
+    "name": {
+      "en": "Diurnus Knight",
+      "fr": "Chevalier diurne"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Eternal Radiance",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Nocturnus Knight",
+    "name": {
+      "en": "Nocturnus Knight",
+      "fr": "Chevalier nocturne"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Midnight Veil",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Questless Knight",
+    "name": {
+      "en": "Questless Knight",
+      "fr": "Chevalier vagabond"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Frosty Resolve",
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Windlash Coleoid",
+    "name": {
+      "en": "Windlash Coleoid",
+      "fr": "ColeoÃ¯de des rafales"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Frostbite Coleoid",
+    "name": {
+      "en": "Frostbite Coleoid",
+      "fr": "ColÃ©oÃ¯de du givre"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Corrosaurus",
+    "name": {
+      "en": "Corrosaurus",
+      "fr": "Corrosaurus"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Vitreum Dancer",
+    "name": {
+      "en": "Vitreum Dancer",
+      "fr": "Danseuse du Vitreum"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Eternal Radiance",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Spacetrek Explorer",
+    "name": {
+      "en": "Spacetrek Explorer",
+      "fr": "Explorateur du Trek-spatial"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Kronablight",
+    "name": {
+      "en": "Kronablight",
+      "fr": "FlÃ©auronne"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Flautist",
+    "name": {
+      "en": "Flautist",
+      "fr": "FlÃ»tiste"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Void Thunder",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Chasm Guardian",
+    "name": {
+      "en": "Chasm Guardian",
+      "fr": "Gardien de l'abÃ®me"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Rejuvenating Glow",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Rocksteady Guardian",
+    "name": {
+      "en": "Rocksteady Guardian",
+      "fr": "Gardien rocheux"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Celestial Light",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Abyssal Gladius",
+    "name": {
+      "en": "Abyssal Gladius",
+      "fr": "Glaive abyssal"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Midnight Veil",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Glommoth",
+    "name": {
+      "en": "Glommoth",
+      "fr": "Glommouth"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Lumiscale Construct",
+    "name": {
+      "en": "Lumiscale Construct",
+      "fr": "Golem des Ã©cailles"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Freezing Frost",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Chop Chop",
+    "name": {
+      "en": "Chop Chop",
+      "fr": "Hache hache"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Empyrean Anthem",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Hoochief",
+    "name": {
+      "en": "Hoochief",
+      "fr": "Hoolice"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Sierra Gale",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Cyan-Feathered Heron",
+    "name": {
+      "en": "Cyan-Feathered Heron",
+      "fr": "HÃ©ron cyan"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Sierra Gale",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Violet-Feathered Heron",
+    "name": {
+      "en": "Violet-Feathered Heron",
+      "fr": "HÃ©ron violet"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Autopuppet Scout",
+    "name": {
+      "en": "Autopuppet Scout",
+      "fr": "Imitateur : VÃ©hicule de combat"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Freezing Frost",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Kerasaur",
+    "name": {
+      "en": "Kerasaur",
+      "fr": "KÃ©rasaure"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Spearback",
+    "name": {
+      "en": "Spearback",
+      "fr": "LanÃ§ours"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Moonlit Clouds",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Havoc Dreadmane",
+    "name": {
+      "en": "Havoc Dreadmane",
+      "fr": "Loup de Havoc"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Molten Rift",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Glacio Dreadmane",
+    "name": {
+      "en": "Glacio Dreadmane",
+      "fr": "Loup glacier"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Freezing Frost",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Viridblaze Saurian",
+    "name": {
+      "en": "Viridblaze Saurian",
+      "fr": "LÃ©zard lavique vert"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Molten Rift",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Abyssal Mercator",
+    "name": {
+      "en": "Abyssal Mercator",
+      "fr": "Mercator abyssal"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Frosty Resolve",
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Cuddle Wuddle",
+    "name": {
+      "en": "Cuddle Wuddle",
+      "fr": "Nounours gÃ©ant"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Frosty Resolve",
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Twin Nova: Nebulous Cannon",
+    "name": {
+      "en": "Twin Nova: Nebulous Cannon",
+      "fr": "Nova jumelle : Canon nÃ©buleux"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Twin Nova: Collapsar Blade",
+    "name": {
+      "en": "Twin Nova: Collapsar Blade",
+      "fr": "Nova jumelle : Lame de collapsar"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Abyssal Patricius",
+    "name": {
+      "en": "Abyssal Patricius",
+      "fr": "Patricius abyssal"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Frosty Resolve",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Rage Against the Statue",
+    "name": {
+      "en": "Rage Against the Statue",
+      "fr": "Rage contre la Statue"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Carapace",
+    "name": {
+      "en": "Carapace",
+      "fr": "Rasoir chasseur"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Sierra Gale",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Flora Reindeer",
+    "name": {
+      "en": "Flora Reindeer",
+      "fr": "Renne floral"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Mining Reindeer",
+    "name": {
+      "en": "Mining Reindeer",
+      "fr": "Renne minier"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Reminiscence: Kronaclaw",
+    "name": {
+      "en": "Reminiscence: Kronaclaw",
+      "fr": "RÃ©sidu rÃ©sonnant : Griffouronne"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Sabercat Prowler",
+    "name": {
+      "en": "Sabercat Prowler",
+      "fr": "RÃ´deur Ã  dents de sabre"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Ironhoof",
+    "name": {
+      "en": "Ironhoof",
+      "fr": "Sabot-de-fer"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Sabercat Reaver",
+    "name": {
+      "en": "Sabercat Reaver",
+      "fr": "Saccageur Ã  dents de sabre"
+    },
+    "cost": 3,
+    "sonatas": []
+  },
+  {
+    "id": "Tambourinist",
+    "name": {
+      "en": "Tambourinist",
+      "fr": "Tambourineur"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Freezing Frost",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Hurriclaw",
+    "name": {
+      "en": "Hurriclaw",
+      "fr": "Tempours"
+    },
+    "cost": 3,
+    "sonatas": [
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Geospider S4",
+    "name": {
+      "en": "Geospider S4",
+      "fr": "AraignÃ©e de la Terre S4"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Dwarf Cassowary",
+    "name": {
+      "en": "Dwarf Cassowary",
+      "fr": "Casoar nain"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Sierra Gale",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Nightmare: Dwarf Cassowary",
+    "name": {
+      "en": "Nightmare: Dwarf Cassowary",
+      "fr": "Cauchemar : Casoar nain"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Baby Roseshroom",
+    "name": {
+      "en": "Nightmare: Baby Roseshroom",
+      "fr": "Cauchemar : Champirose (Petit)"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Chirpuff",
+    "name": {
+      "en": "Nightmare: Chirpuff",
+      "fr": "Cauchemar : Chulboule"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Havoc Warrior",
+    "name": {
+      "en": "Nightmare: Havoc Warrior",
+      "fr": "Cauchemar : Combattant Havoc"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Gulpuff",
+    "name": {
+      "en": "Nightmare: Gulpuff",
+      "fr": "Cauchemar : Gulboule"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Baby Viridblaze Saurian",
+    "name": {
+      "en": "Nightmare: Baby Viridblaze Saurian",
+      "fr": "Cauchemar : LÃ©zard lavique vert (Petit)"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Aero Predator",
+    "name": {
+      "en": "Nightmare: Aero Predator",
+      "fr": "Cauchemar : PrÃ©dateur Aero"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Electro Predator",
+    "name": {
+      "en": "Nightmare: Electro Predator",
+      "fr": "Cauchemar : PrÃ©dateur Electro"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Glacio Predator",
+    "name": {
+      "en": "Nightmare: Glacio Predator",
+      "fr": "Cauchemar : PrÃ©dateur Glacio"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Tambourinist",
+    "name": {
+      "en": "Nightmare: Tambourinist",
+      "fr": "Cauchemar : Tambourineur"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Nightmare: Tick Tack",
+    "name": {
+      "en": "Nightmare: Tick Tack",
+      "fr": "Cauchemar : Tic Tac"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Devotee's Flesh",
+    "name": {
+      "en": "Devotee's Flesh",
+      "fr": "Chair du dÃ©vot"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Baby Roseshroom",
+    "name": {
+      "en": "Baby Roseshroom",
+      "fr": "Champirose (Petit)"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Sierra Gale",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Chirpuff",
+    "name": {
+      "en": "Chirpuff",
+      "fr": "Chulboule"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Sierra Gale",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Chest Mimic",
+    "name": {
+      "en": "Chest Mimic",
+      "fr": "Coffre trompeur"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Fusion Warrior",
+    "name": {
+      "en": "Fusion Warrior",
+      "fr": "Combattant Fusion"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Havoc Warrior",
+    "name": {
+      "en": "Havoc Warrior",
+      "fr": "Combattant Havoc"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Celestial Light",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Tremor Warrior",
+    "name": {
+      "en": "Tremor Warrior",
+      "fr": "Combattant du tremblement"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Excarat",
+    "name": {
+      "en": "Excarat",
+      "fr": "Creutaupe"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Iceglint Dancer",
+    "name": {
+      "en": "Iceglint Dancer",
+      "fr": "Danseuse des glaces"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Clang Bang",
+    "name": {
+      "en": "Clang Bang",
+      "fr": "Ding-dong"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Diggy Duggy",
+    "name": {
+      "en": "Diggy Duggy",
+      "fr": "Doudou Creuse-Tout"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Flora Drone",
+    "name": {
+      "en": "Flora Drone",
+      "fr": "Drone floral"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Mining Drone",
+    "name": {
+      "en": "Mining Drone",
+      "fr": "Drone mineur"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Fae Ignis",
+    "name": {
+      "en": "Fae Ignis",
+      "fr": "Fae ignÃ©"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance",
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Shadow Stepper",
+    "name": {
+      "en": "Shadow Stepper",
+      "fr": "Fausse ombre"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Cruisewing",
+    "name": {
+      "en": "Cruisewing",
+      "fr": "FiÃ§aile"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Celestial Light",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Gulpuff",
+    "name": {
+      "en": "Gulpuff",
+      "fr": "Gulboule"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Chop Chop: Rightless",
+    "name": {
+      "en": "Chop Chop: Rightless",
+      "fr": "Hache hache : Droite"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Chop Chop: Leftless",
+    "name": {
+      "en": "Chop Chop: Leftless",
+      "fr": "Hache hache : Gauche"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Chop Chop: Headless",
+    "name": {
+      "en": "Chop Chop: Headless",
+      "fr": "Hache hache : TÃªte"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Hocus Pocus",
+    "name": {
+      "en": "Hocus Pocus",
+      "fr": "Hocus Pocus"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Whiff Whaff",
+    "name": {
+      "en": "Whiff Whaff",
+      "fr": "Houhouu"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Sierra Gale",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Traffic Illuminator",
+    "name": {
+      "en": "Traffic Illuminator",
+      "fr": "Imitateur : feu de circulation"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Lava Larva",
+    "name": {
+      "en": "Lava Larva",
+      "fr": "Insecte-feu"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Vanguard Junrock",
+    "name": {
+      "en": "Vanguard Junrock",
+      "fr": "Jeunpierre avant-guard"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Void Thunder",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Golden Junrock",
+    "name": {
+      "en": "Golden Junrock",
+      "fr": "Jeunpierre d'or"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Fission Junrock",
+    "name": {
+      "en": "Fission Junrock",
+      "fr": "Jeunpierre fissurÃ©e"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Void Thunder",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Calcified Junrock",
+    "name": {
+      "en": "Calcified Junrock",
+      "fr": "Jeunpierre vernie"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Empyrean Anthem",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "La Guardia",
+    "name": {
+      "en": "La Guardia",
+      "fr": "La Guardia"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Lottie Lost",
+    "name": {
+      "en": "Lottie Lost",
+      "fr": "Lottie la muette"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Galescourge Stalker",
+    "name": {
+      "en": "Galescourge Stalker",
+      "fr": "Loup d'Ouragan"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Frosty Resolve",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Frostscourge Stalker",
+    "name": {
+      "en": "Frostscourge Stalker",
+      "fr": "Loup de Givre"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance",
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Voltscourge Stalker",
+    "name": {
+      "en": "Voltscourge Stalker",
+      "fr": "Loup de Tonerre"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Midnight Veil",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Fusion Dreadmane",
+    "name": {
+      "en": "Fusion Dreadmane",
+      "fr": "Loup fusionier"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Baby Viridblaze Saurian",
+    "name": {
+      "en": "Baby Viridblaze Saurian",
+      "fr": "LÃ©zard lavique vert (Petit)"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Hooscamp",
+    "name": {
+      "en": "Hooscamp",
+      "fr": "Petit Hoolice"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Sierra Gale",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Aero Drake",
+    "name": {
+      "en": "Aero Drake",
+      "fr": "Petit dragon Aero"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Electro Drake",
+    "name": {
+      "en": "Electro Drake",
+      "fr": "Petit dragon Electro"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Midnight Veil"
+    ]
+  },
+  {
+    "id": "Fusion Drake",
+    "name": {
+      "en": "Fusion Drake",
+      "fr": "Petit dragon Fusion"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Glacio Drake",
+    "name": {
+      "en": "Glacio Drake",
+      "fr": "Petit dragon Glacio"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Havoc Drake",
+    "name": {
+      "en": "Havoc Drake",
+      "fr": "Petit dragon Havoc"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Spectro Drake",
+    "name": {
+      "en": "Spectro Drake",
+      "fr": "Petit dragon Spectro"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Aero Prism",
+    "name": {
+      "en": "Aero Prism",
+      "fr": "Prisme Aero"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance",
+      "Tidebreaking Courage"
+    ]
+  },
+  {
+    "id": "Fusion Prism",
+    "name": {
+      "en": "Fusion Prism",
+      "fr": "Prisme Fusion"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Molten Rift"
+    ]
+  },
+  {
+    "id": "Glacio Prism",
+    "name": {
+      "en": "Glacio Prism",
+      "fr": "Prisme Glacio"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Havoc Eclipse"
+    ]
+  },
+  {
+    "id": "Havoc Prism",
+    "name": {
+      "en": "Havoc Prism",
+      "fr": "Prisme Havoc"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Void Thunder",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Spectro Prism",
+    "name": {
+      "en": "Spectro Prism",
+      "fr": "Prisme Spectro"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Aero Predator",
+    "name": {
+      "en": "Aero Predator",
+      "fr": "PrÃ©dateur Aero"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Void Thunder",
+      "Sierra Gale"
+    ]
+  },
+  {
+    "id": "Electro Predator",
+    "name": {
+      "en": "Electro Predator",
+      "fr": "PrÃ©dateur Electro"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Void Thunder"
+    ]
+  },
+  {
+    "id": "Glacio Predator",
+    "name": {
+      "en": "Glacio Predator",
+      "fr": "PrÃ©dateur Glacio"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Sacerdos",
+    "name": {
+      "en": "Sacerdos",
+      "fr": "Sacerdos"
+    },
+    "cost": 1,
+    "sonatas": []
+  },
+  {
+    "id": "Sagittario",
+    "name": {
+      "en": "Sagittario",
+      "fr": "Sagittaire"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Eternal Radiance"
+    ]
+  },
+  {
+    "id": "Sabyr Boar",
+    "name": {
+      "en": "Sabyr Boar",
+      "fr": "Sangbre"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Sierra Gale"
+    ]
+  },
+  {
+    "id": "Snip Snap",
+    "name": {
+      "en": "Snip Snap",
+      "fr": "Schlak Schlak"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Molten Rift",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Diamondclaw",
+    "name": {
+      "en": "Diamondclaw",
+      "fr": "Scorpion cristallin"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Moonlit Clouds",
+      "Lingering Tunes"
+    ]
+  },
+  {
+    "id": "Nimbus Wraith",
+    "name": {
+      "en": "Nimbus Wraith",
+      "fr": "Spectre de Nimbus"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Midnight Veil",
+      "Empyrean Anthem"
+    ]
+  },
+  {
+    "id": "Tick Tack",
+    "name": {
+      "en": "Tick Tack",
+      "fr": "Tic Tac"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Havoc Eclipse",
+      "Rejuvenating Glow"
+    ]
+  },
+  {
+    "id": "Hoartoise",
+    "name": {
+      "en": "Hoartoise",
+      "fr": "Torturoid"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Freezing Frost",
+      "Celestial Light"
+    ]
+  },
+  {
+    "id": "Zig Zag",
+    "name": {
+      "en": "Zig Zag",
+      "fr": "Zig Zag"
+    },
+    "cost": 1,
+    "sonatas": [
+      "Celestial Light",
+      "Moonlit Clouds"
+    ]
+  },
+  {
+    "id": "Zip Zap",
+    "name": {
+      "en": "Zip Zap",
+      "fr": "Zip Zap"
+    },
+    "cost": 1,
+    "sonatas": []
+  }
 ]
