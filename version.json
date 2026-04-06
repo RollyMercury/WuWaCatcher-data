@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "url": "",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.1.0/WuWaCatcher.exe",
   "changelog": "Ajout du systeme i18n (FR/EN), migration des bases de donnees en bilingue, nouveau systeme de sous-stats echo (6 slots: 4x1.0 + 2x0.5)"
 }
