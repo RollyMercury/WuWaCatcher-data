@@ -1,50 +1,1490 @@
 [
-  {"id":"Rover (Spectro)","name":{"en":"Rover (Spectro)","fr":"Nomade-S"},"element":"Spectro","weapon":"Sword","stat":"ATK"},
-  {"id":"Rover (Havoc)","name":{"en":"Rover (Havoc)","fr":"Nomade-H"},"element":"Havoc","weapon":"Sword","stat":"ATK"},
-  {"id":"Rover (Aero)","name":{"en":"Rover (Aero)","fr":"Nomade-A"},"element":"Aero","weapon":"Sword","stat":"ATK"},
-  {"id":"Jianxin","name":{"en":"Jianxin","fr":"Jianxin"},"element":"Aero","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Lingyang","name":{"en":"Lingyang","fr":"Lingyang"},"element":"Glacio","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Calcharo","name":{"en":"Calcharo","fr":"Calcharo"},"element":"Electro","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Verina","name":{"en":"Verina","fr":"Verina"},"element":"Spectro","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Encore","name":{"en":"Encore","fr":"Encore"},"element":"Fusion","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Yuanwu","name":{"en":"Yuanwu","fr":"Yuanwu"},"element":"Electro","weapon":"Gauntlet","stat":"DEF"},
-  {"id":"Taoqi","name":{"en":"Taoqi","fr":"Taoqi"},"element":"Havoc","weapon":"BroadBlade","stat":"DEF"},
-  {"id":"Sanhua","name":{"en":"Sanhua","fr":"Sanhua"},"element":"Glacio","weapon":"Sword","stat":"ATK"},
-  {"id":"Mortefi","name":{"en":"Mortefi","fr":"Mortefi"},"element":"Fusion","weapon":"Pistol","stat":"ATK"},
-  {"id":"Danjin","name":{"en":"Danjin","fr":"Danjin"},"element":"Havoc","weapon":"Sword","stat":"ATK"},
-  {"id":"Chixia","name":{"en":"Chixia","fr":"Chixia"},"element":"Fusion","weapon":"Pistol","stat":"ATK"},
-  {"id":"Baizhi","name":{"en":"Baizhi","fr":"Baizhi"},"element":"Glacio","weapon":"Rectifier","stat":"HP"},
-  {"id":"Yangyang","name":{"en":"Yangyang","fr":"Yangyang"},"element":"Aero","weapon":"Sword","stat":"ATK"},
-  {"id":"Aalto","name":{"en":"Aalto","fr":"Aalto"},"element":"Aero","weapon":"Pistol","stat":"ATK"},
-  {"id":"Jiyan","name":{"en":"Jiyan","fr":"Jiyan"},"element":"Aero","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Yinlin","name":{"en":"Yinlin","fr":"Yinlin"},"element":"Electro","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Jinhsi","name":{"en":"Jinhsi","fr":"Jinhsi"},"element":"Spectro","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Changli","name":{"en":"Changli","fr":"Changli"},"element":"Fusion","weapon":"Sword","stat":"ATK"},
-  {"id":"Zhezhi","name":{"en":"Zhezhi","fr":"Zhezhi"},"element":"Glacio","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Xiangli Yao","name":{"en":"Xiangli Yao","fr":"Xiangli Yao"},"element":"Electro","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Shorekeeper","name":{"en":"Shorekeeper","fr":"Gardienne du littoral"},"element":"Spectro","weapon":"Rectifier","stat":"HP"},
-  {"id":"Youhu","name":{"en":"Youhu","fr":"Youhu"},"element":"Glacio","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Camellya","name":{"en":"Camellya","fr":"Camellya"},"element":"Havoc","weapon":"Sword","stat":"ATK"},
-  {"id":"Lumi","name":{"en":"Lumi","fr":"Lumi"},"element":"Electro","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Carlotta","name":{"en":"Carlotta","fr":"Carlotta"},"element":"Glacio","weapon":"Pistol","stat":"ATK"},
-  {"id":"Roccia","name":{"en":"Roccia","fr":"Roccia"},"element":"Havoc","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Phoebe","name":{"en":"Phoebe","fr":"Phoebe"},"element":"Spectro","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Brant","name":{"en":"Brant","fr":"Brant"},"element":"Fusion","weapon":"Sword","stat":"ATK"},
-  {"id":"Cantarella","name":{"en":"Cantarella","fr":"Cantarella"},"element":"Havoc","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Zani","name":{"en":"Zani","fr":"Zani"},"element":"Spectro","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Ciaccona","name":{"en":"Ciaccona","fr":"Ciaccona"},"element":"Aero","weapon":"Pistol","stat":"ATK"},
-  {"id":"Cartethyia","name":{"en":"Cartethyia","fr":"Cartethyia"},"element":"Aero","weapon":"Sword","stat":"HP"},
-  {"id":"Lupa","name":{"en":"Lupa","fr":"Lupa"},"element":"Fusion","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Phrolova","name":{"en":"Phrolova","fr":"Phrolova"},"element":"Havoc","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Augusta","name":{"en":"Augusta","fr":"Augusta"},"element":"Electro","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Chisa","name":{"en":"Chisa","fr":"Chisa"},"element":"Havoc","weapon":"BroadBlade","stat":"ATK"},
-  {"id":"Buling","name":{"en":"Buling","fr":"Buling"},"element":"Electro","weapon":"Rectifier","stat":"ATK"},
-  {"id":"Iuno","name":{"en":"Iuno","fr":"Iuno"},"element":"Aero","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Qiuyuan","name":{"en":"Qiuyuan","fr":"Qiuyuan"},"element":"Aero","weapon":"Sword","stat":"ATK"},
-  {"id":"Sigrika","name":{"en":"Sigrika","fr":"Sigrika"},"element":"Aero","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Aemeath","name":{"en":"Aemeath","fr":"Aemeath"},"element":"Fusion","weapon":"Sword","stat":"ATK"},
-  {"id":"Galbrena","name":{"en":"Galbrena","fr":"Galbrena"},"element":"Fusion","weapon":"Pistol","stat":"ATK"},
-  {"id":"Mornye","name":{"en":"Mornye","fr":"Mornye"},"element":"Fusion","weapon":"BroadBlade","stat":"DEF"},
-  {"id":"Luuk Herssen","name":{"en":"Luuk Herssen","fr":"Luuk Herssen"},"element":"Spectro","weapon":"Gauntlet","stat":"ATK"},
-  {"id":"Lynae","name":{"en":"Lynae","fr":"Lynae"},"element":"Spectro","weapon":"Pistol","stat":"ATK"}
+  {
+    "id": "Rover (Spectro)",
+    "name": {
+      "en": "Rover (Spectro)",
+      "fr": "Nomade-S"
+    },
+    "element": "Spectro",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 912,
+    "hp_max": 11400,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 112,
+    "def_max": 1369,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "SpectroDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Rover (Havoc)",
+    "name": {
+      "en": "Rover (Havoc)",
+      "fr": "Nomade-H"
+    },
+    "element": "Havoc",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 816,
+    "hp_max": 10825,
+    "atk_base": 33,
+    "atk_max": 413,
+    "def_base": 103,
+    "def_max": 1259,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "HavocDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Rover (Aero)",
+    "name": {
+      "en": "Rover (Aero)",
+      "fr": "Nomade-A"
+    },
+    "element": "Aero",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 862,
+    "hp_max": 10775,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 93,
+    "def_max": 1137,
+    "crit_rate": 0.05,
+    "crit_dmg": 0.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "AeroDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Jianxin",
+    "name": {
+      "en": "Jianxin",
+      "fr": "Jianxin"
+    },
+    "element": "Aero",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 1129,
+    "hp_max": 14113,
+    "atk_base": 27,
+    "atk_max": 338,
+    "def_base": 92,
+    "def_max": 1124,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 150,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Lingyang",
+    "name": {
+      "en": "Lingyang",
+      "fr": "Lingyang"
+    },
+    "element": "Glacio",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 831,
+    "hp_max": 10388,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 99,
+    "def_max": 1210,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "GlacioDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Calcharo",
+    "name": {
+      "en": "Calcharo",
+      "fr": "Calcharo"
+    },
+    "element": "Electro",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 840,
+    "hp_max": 10500,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 97,
+    "def_max": 1186,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Verina",
+    "name": {
+      "en": "Verina",
+      "fr": "Verina"
+    },
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 1139,
+    "hp_max": 14238,
+    "atk_base": 27,
+    "atk_max": 338,
+    "def_base": 90,
+    "def_max": 1100,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 175,
+    "passives": {
+      "spe15": {
+        "stat": "HealBonus",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Encore",
+    "name": {
+      "en": "Encore",
+      "fr": "Encore"
+    },
+    "element": "Fusion",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 841,
+    "hp_max": 10513,
+    "atk_base": 34,
+    "atk_max": 425,
+    "def_base": 102,
+    "def_max": 1247,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "FusionDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Yuanwu",
+    "name": {
+      "en": "Yuanwu",
+      "fr": "Yuanwu"
+    },
+    "element": "Electro",
+    "weapon": "Gauntlet",
+    "stat": "DEF",
+    "hp_base": 682,
+    "hp_max": 8525,
+    "atk_base": 18,
+    "atk_max": 225,
+    "def_base": 134,
+    "def_max": 1638,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "ElectroDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "DEF%",
+        "lv1": 2.28,
+        "lv2": 5.32
+      }
+    }
+  },
+  {
+    "id": "Taoqi",
+    "name": {
+      "en": "Taoqi",
+      "fr": "Taoqi"
+    },
+    "element": "Havoc",
+    "weapon": "BroadBlade",
+    "stat": "DEF",
+    "hp_base": 716,
+    "hp_max": 8950,
+    "atk_base": 18,
+    "atk_max": 225,
+    "def_base": 128,
+    "def_max": 1564,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "HavocDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "DEF%",
+        "lv1": 2.28,
+        "lv2": 5.32
+      }
+    }
+  },
+  {
+    "id": "Sanhua",
+    "name": {
+      "en": "Sanhua",
+      "fr": "Sanhua"
+    },
+    "element": "Glacio",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 805,
+    "hp_max": 10063,
+    "atk_base": 22,
+    "atk_max": 275,
+    "def_base": 77,
+    "def_max": 941,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "GlacioDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Mortefi",
+    "name": {
+      "en": "Mortefi",
+      "fr": "Mortefi"
+    },
+    "element": "Fusion",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 802,
+    "hp_max": 10025,
+    "atk_base": 20,
+    "atk_max": 250,
+    "def_base": 93,
+    "def_max": 1137,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "FusionDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Danjin",
+    "name": {
+      "en": "Danjin",
+      "fr": "Danjin"
+    },
+    "element": "Havoc",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 755,
+    "hp_max": 9438,
+    "atk_base": 21,
+    "atk_max": 263,
+    "def_base": 94,
+    "def_max": 1149,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "HavocDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Chixia",
+    "name": {
+      "en": "Chixia",
+      "fr": "Chixia"
+    },
+    "element": "Fusion",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 727,
+    "hp_max": 9088,
+    "atk_base": 24,
+    "atk_max": 300,
+    "def_base": 78,
+    "def_max": 953,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 150,
+    "passives": {
+      "spe15": {
+        "stat": "FusionDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Baizhi",
+    "name": {
+      "en": "Baizhi",
+      "fr": "Baizhi"
+    },
+    "element": "Glacio",
+    "weapon": "Rectifier",
+    "stat": "HP",
+    "hp_base": 1025,
+    "hp_max": 12813,
+    "atk_base": 17,
+    "atk_max": 213,
+    "def_base": 82,
+    "def_max": 1002,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 175,
+    "passives": {
+      "spe15": {
+        "stat": "HealBonus",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "HP%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Yangyang",
+    "name": {
+      "en": "Yangyang",
+      "fr": "Yangyang"
+    },
+    "element": "Aero",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 816,
+    "hp_max": 10200,
+    "atk_base": 20,
+    "atk_max": 250,
+    "def_base": 90,
+    "def_max": 1100,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "AeroDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Aalto",
+    "name": {
+      "en": "Aalto",
+      "fr": "Aalto"
+    },
+    "element": "Aero",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 788,
+    "hp_max": 9850,
+    "atk_base": 21,
+    "atk_max": 263,
+    "def_base": 88,
+    "def_max": 1076,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 150,
+    "passives": {
+      "spe15": {
+        "stat": "AeroDMG",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Jiyan",
+    "name": {
+      "en": "Jiyan",
+      "fr": "Jiyan"
+    },
+    "element": "Aero",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 839,
+    "hp_max": 10488,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 97,
+    "def_max": 1186,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Yinlin",
+    "name": {
+      "en": "Yinlin",
+      "fr": "Yinlin"
+    },
+    "element": "Electro",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 880,
+    "hp_max": 11000,
+    "atk_base": 32,
+    "atk_max": 400,
+    "def_base": 105,
+    "def_max": 1283,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Jinhsi",
+    "name": {
+      "en": "Jinhsi",
+      "fr": "Jinhsi"
+    },
+    "element": "Spectro",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 866,
+    "hp_max": 10825,
+    "atk_base": 33,
+    "atk_max": 413,
+    "def_base": 103,
+    "def_max": 1259,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 150,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Changli",
+    "name": {
+      "en": "Changli",
+      "fr": "Changli"
+    },
+    "element": "Fusion",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 831,
+    "hp_max": 10388,
+    "atk_base": 37,
+    "atk_max": 463,
+    "def_base": 90,
+    "def_max": 1100,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Zhezhi",
+    "name": {
+      "en": "Zhezhi",
+      "fr": "Zhezhi"
+    },
+    "element": "Glacio",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 980,
+    "hp_max": 12250,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 98,
+    "def_max": 1198,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Xiangli Yao",
+    "name": {
+      "en": "Xiangli Yao",
+      "fr": "Xiangli Yao"
+    },
+    "element": "Electro",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 850,
+    "hp_max": 10625,
+    "atk_base": 34,
+    "atk_max": 425,
+    "def_base": 100,
+    "def_max": 1222,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Shorekeeper",
+    "name": {
+      "en": "Shorekeeper",
+      "fr": "Gardienne du littoral"
+    },
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "stat": "HP",
+    "hp_base": 1337,
+    "hp_max": 16713,
+    "atk_base": 23,
+    "atk_max": 288,
+    "def_base": 90,
+    "def_max": 1100,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 175,
+    "passives": {
+      "spe15": {
+        "stat": "HealBonus",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "HP%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Youhu",
+    "name": {
+      "en": "Youhu",
+      "fr": "Youhu"
+    },
+    "element": "Glacio",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 798,
+    "hp_max": 9975,
+    "atk_base": 21,
+    "atk_max": 263,
+    "def_base": 86,
+    "def_max": 1051,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Camellya",
+    "name": {
+      "en": "Camellya",
+      "fr": "Camellya"
+    },
+    "element": "Havoc",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 826,
+    "hp_max": 10325,
+    "atk_base": 36,
+    "atk_max": 450,
+    "def_base": 95,
+    "def_max": 1161,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Lumi",
+    "name": {
+      "en": "Lumi",
+      "fr": "Lumi"
+    },
+    "element": "Electro",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 680,
+    "hp_max": 8500,
+    "atk_base": 27,
+    "atk_max": 338,
+    "def_base": 72,
+    "def_max": 880,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Carlotta",
+    "name": {
+      "en": "Carlotta",
+      "fr": "Carlotta"
+    },
+    "element": "Glacio",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 996,
+    "hp_max": 12450,
+    "atk_base": 37,
+    "atk_max": 463,
+    "def_base": 98,
+    "def_max": 1198,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Roccia",
+    "name": {
+      "en": "Roccia",
+      "fr": "Roccia"
+    },
+    "element": "Havoc",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 980,
+    "hp_max": 12250,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 98,
+    "def_max": 1198,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Phoebe",
+    "name": {
+      "en": "Phoebe",
+      "fr": "Phoebe"
+    },
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 866,
+    "hp_max": 10825,
+    "atk_base": 33,
+    "atk_max": 413,
+    "def_base": 103,
+    "def_max": 1259,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Brant",
+    "name": {
+      "en": "Brant",
+      "fr": "Brant"
+    },
+    "element": "Fusion",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 934,
+    "hp_max": 11675,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 107,
+    "def_max": 1308,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 175,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Cantarella",
+    "name": {
+      "en": "Cantarella",
+      "fr": "Cantarella"
+    },
+    "element": "Havoc",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 928,
+    "hp_max": 11600,
+    "atk_base": 32,
+    "atk_max": 400,
+    "def_base": 90,
+    "def_max": 1100,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Zani",
+    "name": {
+      "en": "Zani",
+      "fr": "Zani"
+    },
+    "element": "Spectro",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 862,
+    "hp_max": 10775,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 93,
+    "def_max": 1137,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Ciaccona",
+    "name": {
+      "en": "Ciaccona",
+      "fr": "Ciaccona"
+    },
+    "element": "Aero",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 979,
+    "hp_max": 12238,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 98,
+    "def_max": 1198,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Cartethyia",
+    "name": {
+      "en": "Cartethyia",
+      "fr": "Cartethyia"
+    },
+    "element": "Aero",
+    "weapon": "Sword",
+    "stat": "HP",
+    "hp_base": 1184,
+    "hp_max": 14800,
+    "atk_base": 25,
+    "atk_max": 313,
+    "def_base": 50,
+    "def_max": 611,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "HP%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Lupa",
+    "name": {
+      "en": "Lupa",
+      "fr": "Lupa"
+    },
+    "element": "Fusion",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 953,
+    "hp_max": 11913,
+    "atk_base": 31,
+    "atk_max": 388,
+    "def_base": 97,
+    "def_max": 1186,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Phrolova",
+    "name": {
+      "en": "Phrolova",
+      "fr": "Phrolova"
+    },
+    "element": "Havoc",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 862,
+    "hp_max": 10775,
+    "atk_base": 35,
+    "atk_max": 438,
+    "def_base": 93,
+    "def_max": 1137,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Augusta",
+    "name": {
+      "en": "Augusta",
+      "fr": "Augusta"
+    },
+    "element": "Electro",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 824,
+    "hp_max": 10300,
+    "atk_base": 37,
+    "atk_max": 463,
+    "def_base": 91,
+    "def_max": 1112,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Chisa",
+    "name": {
+      "en": "Chisa",
+      "fr": "Chisa"
+    },
+    "element": "Havoc",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "hp_base": 826,
+    "hp_max": 10325,
+    "atk_base": 36,
+    "atk_max": 450,
+    "def_base": 95,
+    "def_max": 1161,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Buling",
+    "name": {
+      "en": "Buling",
+      "fr": "Buling"
+    },
+    "element": "Electro",
+    "weapon": "Rectifier",
+    "stat": "ATK",
+    "hp_base": 850,
+    "hp_max": 10625,
+    "atk_base": 18,
+    "atk_max": 225,
+    "def_base": 103,
+    "def_max": 1258,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "HealBonus",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Iuno",
+    "name": {
+      "en": "Iuno",
+      "fr": "Iuno"
+    },
+    "element": "Aero",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 842,
+    "hp_max": 10525,
+    "atk_base": 36,
+    "atk_max": 450,
+    "def_base": 92,
+    "def_max": 1124,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Qiuyuan",
+    "name": {
+      "en": "Qiuyuan",
+      "fr": "Qiuyuan"
+    },
+    "element": "Aero",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 839,
+    "hp_max": 10487,
+    "atk_base": 35,
+    "atk_max": 437,
+    "def_base": 97,
+    "def_max": 1185,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Sigrika",
+    "name": {
+      "en": "Sigrika",
+      "fr": "Sigrika"
+    },
+    "element": "Aero",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 0,
+    "hp_max": 0,
+    "atk_base": 0,
+    "atk_max": 0,
+    "def_base": 0,
+    "def_max": 0,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Aemeath",
+    "name": {
+      "en": "Aemeath",
+      "fr": "Aemeath"
+    },
+    "element": "Fusion",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 953,
+    "hp_max": 11912,
+    "atk_base": 31,
+    "atk_max": 387,
+    "def_base": 97,
+    "def_max": 1185,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Galbrena",
+    "name": {
+      "en": "Galbrena",
+      "fr": "Galbrena"
+    },
+    "element": "Fusion",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 824,
+    "hp_max": 10300,
+    "atk_base": 37,
+    "atk_max": 462,
+    "def_base": 91,
+    "def_max": 1112,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Mornye",
+    "name": {
+      "en": "Mornye",
+      "fr": "Mornye"
+    },
+    "element": "Fusion",
+    "weapon": "BroadBlade",
+    "stat": "DEF",
+    "hp_base": 934,
+    "hp_max": 11675,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 107,
+    "def_max": 1307,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "HealBonus",
+        "lv1": 1.8,
+        "lv2": 4.2
+      },
+      "spe24": {
+        "stat": "DEF%",
+        "lv1": 2.28,
+        "lv2": 5.32
+      }
+    }
+  },
+  {
+    "id": "Luuk Herssen",
+    "name": {
+      "en": "Luuk Herssen",
+      "fr": "Luuk Herssen"
+    },
+    "element": "Spectro",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 824,
+    "hp_max": 10300,
+    "atk_base": 37,
+    "atk_max": 462,
+    "def_base": 91,
+    "def_max": 1112,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  },
+  {
+    "id": "Lynae",
+    "name": {
+      "en": "Lynae",
+      "fr": "Lynae"
+    },
+    "element": "Spectro",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 979,
+    "hp_max": 12237,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 98,
+    "def_max": 1197,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
+  }
 ]
