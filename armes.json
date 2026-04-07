@@ -1,131 +1,1364 @@
 [
-  {"id":"Ages of Harvest","name":{"en":"Ages of Harvest","fr":"Cycles des saisons"},"rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":587},
-  {"id":"Kumokiri","name":{"en":"Kumokiri","fr":"Kumokiri"},"rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":500},
-  {"id":"Lustrous Razor","name":{"en":"Lustrous Razor","fr":"Lame lustrée"},"rarity":5,"type":"BroadBlade","stat":"Atk","atkLv90":587},
-  {"id":"Radiance Cleaver","name":{"en":"Radiance Cleaver","fr":"Fendoir radieux"},"rarity":5,"type":"BroadBlade","stat":"DC","atkLv90":587},
-  {"id":"Thunderflare Dominion","name":{"en":"Thunderflare Dominion","fr":"Règne foudroyant"},"rarity":5,"type":"BroadBlade","stat":"CC","atkLv90":675},
-  {"id":"Verdant Summit","name":{"en":"Verdant Summit","fr":"Sommet verdoyant"},"rarity":5,"type":"BroadBlade","stat":"DC","atkLv90":587},
-  {"id":"Starfield Calibrator","name":{"en":"Starfield Calibrator","fr":"Calibrateur stellaire"},"rarity":5,"type":"BroadBlade","stat":"RR","atkLv90":412},
-  {"id":"Wildfire Mark","name":{"en":"Wildfire Mark","fr":"Marque du Feu indompté"},"rarity":5,"type":"BroadBlade","stat":"DC","atkLv90":587},
-
-  {"id":"Aureate Zenith","name":{"en":"Aureate Zenith","fr":"Zénith doré"},"rarity":4,"type":"BroadBlade","stat":"DC","atkLv90":412},
-  {"id":"Autumntrace","name":{"en":"Autumntrace","fr":"Trace d'automne"},"rarity":4,"type":"BroadBlade","stat":"CC","atkLv90":412},
-  {"id":"Broadblade#41","name":{"en":"Broadblade#41","fr":"Epée #41"},"rarity":4,"type":"BroadBlade","stat":"RR","atkLv90":337},
-  {"id":"Dauntless Evernight","name":{"en":"Dauntless Evernight","fr":"Intrépide éternel"},"rarity":4,"type":"BroadBlade","stat":"Def","atkLv90":337},
-  {"id":"Discord","name":{"en":"Discord","fr":"Discorde"},"rarity":4,"type":"BroadBlade","stat":"RR","atkLv90":337},
-  {"id":"Helios Cleaver","name":{"en":"Helios Cleaver","fr":"Tailleur d'Hélios"},"rarity":4,"type":"BroadBlade","stat":"Atk","atkLv90":412},
-  {"id":"Meditations on Mercy","name":{"en":"Meditations on Mercy","fr":"Méditations sur la Miséricorde"},"rarity":4,"type":"BroadBlade","stat":"Atk","atkLv90":462},
-  {"id":"Waning Redshift","name":{"en":"Waning Redshift","fr":"Spectre en déclin"},"rarity":4,"type":"BroadBlade","stat":"Atk","atkLv90":462},
-
-  {"id":"Beguiling Melody","name":{"en":"Beguiling Melody","fr":"Voix céleste"},"rarity":3,"type":"BroadBlade","stat":"Atk","atkLv90":325},
-  {"id":"Broadblade of Night","name":{"en":"Broadblade of Night","fr":"Epée de nuit"},"rarity":3,"type":"BroadBlade","stat":"Atk","atkLv90":325},
-  {"id":"Broadblade of Voyager","name":{"en":"Broadblade of Voyager","fr":"Epée du Voyageur"},"rarity":3,"type":"BroadBlade","stat":"RR","atkLv90":325},
-  {"id":"Guardian Broadblade","name":{"en":"Guardian Broadblade","fr":"Epée du Gardien"},"rarity":3,"type":"BroadBlade","stat":"Atk","atkLv90":325},
-  {"id":"Originite: Type I","name":{"en":"Originite: Type I","fr":"Originite : Type I"},"rarity":3,"type":"BroadBlade","stat":"Def","atkLv90":325},
-
-  {"id":"Blazing Brilliance","name":{"en":"Blazing Brilliance","fr":"Flamme rayonnée"},"rarity":5,"type":"Sword","stat":"DC","atkLv90":587},
-  {"id":"Bloodpact's Pledge","name":{"en":"Bloodpact's Pledge","fr":"Serment de sang"},"rarity":5,"type":"Sword","stat":"DC","atkLv90":587},
-  {"id":"Defier's Thorn","name":{"en":"Defier's Thorn","fr":"Épine de l'insoumise"},"rarity":5,"type":"Sword","stat":"HP","atkLv90":412},
-  {"id":"Emerald of Genesis","name":{"en":"Emerald of Genesis","fr":"Émeraude éternelle"},"rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
-  {"id":"Emerald Sentence","name":{"en":"Emerald Sentence","fr":"Sentence émeraude"},"rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
-  {"id":"Everbright Polestar","name":{"en":"Everbright Polestar","fr":"Polaire éternelle"},"rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
-  {"id":"Laser Shearer","name":{"en":"Laser Shearer","fr":"Cisailles laser"},"rarity":5,"type":"Sword","stat":"RR","atkLv90":587},
-  {"id":"Red Spring","name":{"en":"Red Spring","fr":"Printemps acéré"},"rarity":5,"type":"Sword","stat":"CC","atkLv90":587},
-  {"id":"Unflickering Valor","name":{"en":"Unflickering Valor","fr":"Courage impérissable"},"rarity":5,"type":"Sword","stat":"RR","atkLv90":412},
-
-  {"id":"Commando of Conviction","name":{"en":"Commando of Conviction","fr":"Commando de la Conviction"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":412},
-  {"id":"Endless Collapse","name":{"en":"Endless Collapse","fr":"Effondrement éternel"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":462},
-  {"id":"Fables of Wisdom","name":{"en":"Fables of Wisdom","fr":"Fables de Sagesse"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":462},
-  {"id":"Feather Edge","name":{"en":"Feather Edge","fr":"Lame de plume"},"rarity":4,"type":"Sword","stat":"CC","atkLv90":412},
-  {"id":"Lumingloss","name":{"en":"Lumingloss","fr":"Lumineux"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":387},
-  {"id":"Lunar Cutter","name":{"en":"Lunar Cutter","fr":"Tailleur lunaire"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":412},
-  {"id":"Overture","name":{"en":"Overture","fr":"Le Fendeur"},"rarity":4,"type":"Sword","stat":"RR","atkLv90":337},
-  {"id":"Somnoire Anchor","name":{"en":"Somnoire Anchor","fr":"Ancre du Somnoire"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":462},
-  {"id":"Sword#18","name":{"en":"Sword#18","fr":"Sabre #18"},"rarity":4,"type":"Sword","stat":"Atk","atkLv90":387},
-
-  {"id":"Guardian Sword","name":{"en":"Guardian Sword","fr":"Sabre du Gardien"},"rarity":3,"type":"Sword","stat":"HP","atkLv90":325},
-  {"id":"Originite: Type II","name":{"en":"Originite: Type II","fr":"Originite : Type II"},"rarity":3,"type":"Sword","stat":"Atk","atkLv90":325},
-  {"id":"Sword of Night","name":{"en":"Sword of Night","fr":"Sabre de nuit"},"rarity":3,"type":"Sword","stat":"Atk","atkLv90":325},
-  {"id":"Sword of Voyager","name":{"en":"Sword of Voyager","fr":"Sabre du Voyageur"},"rarity":3,"type":"Sword","stat":"RR","atkLv90":325},
-
-  {"id":"Lux & Umbra","name":{"en":"Lux & Umbra","fr":"Lux & Umbra"},"rarity":5,"type":"Pistol","stat":"DC","atkLv90":587},
-  {"id":"Phasic Homogenizer","name":{"en":"Phasic Homogenizer","fr":"Homogénéiseur phasique"},"rarity":5,"type":"Pistol","stat":"DC","atkLv90":587},
-  {"id":"Spectrum Blaster","name":{"en":"Spectrum Blaster","fr":"Éclateur spectral"},"rarity":5,"type":"Pistol","stat":"CC","atkLv90":587},
-  {"id":"Static Mist","name":{"en":"Static Mist","fr":"Brouillard stable"},"rarity":5,"type":"Pistol","stat":"CC","atkLv90":587},
-  {"id":"The Last Dance","name":{"en":"The Last Dance","fr":"La dernière danse"},"rarity":5,"type":"Pistol","stat":"DC","atkLv90":500},
-  {"id":"Woodland Aria","name":{"en":"Woodland Aria","fr":"Aria de la clairière"},"rarity":5,"type":"Pistol","stat":"CC","atkLv90":587},
-
-  {"id":"Cadenza","name":{"en":"Cadenza","fr":"Cadenza"},"rarity":4,"type":"Pistol","stat":"RR","atkLv90":337},
-  {"id":"Novaburst","name":{"en":"Novaburst","fr":"Éclat de Nova"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":412},
-  {"id":"Pistols#26","name":{"en":"Pistols#26","fr":"Pistolets #26"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":387},
-  {"id":"Relativistic Jet","name":{"en":"Relativistic Jet","fr":"Jets relativistes"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":462},
-  {"id":"Romance in Farewell","name":{"en":"Romance in Farewell","fr":"Romance en Adieu"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":462},
-  {"id":"Solar Flame","name":{"en":"Solar Flame","fr":"Flamme solaire"},"rarity":4,"type":"Pistol","stat":"CC","atkLv90":412},
-  {"id":"Thunderbolt","name":{"en":"Thunderbolt","fr":"Tonnerre"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":387},
-  {"id":"Undying Flame","name":{"en":"Undying Flame","fr":"Flamme divine"},"rarity":4,"type":"Pistol","stat":"Atk","atkLv90":412},
-
-  {"id":"Guardian Pistols","name":{"en":"Guardian Pistols","fr":"Pistolets du Gardien"},"rarity":3,"type":"Pistol","stat":"Atk","atkLv90":325},
-  {"id":"Originite: Type III","name":{"en":"Originite: Type III","fr":"Originite : Type III"},"rarity":3,"type":"Pistol","stat":"Atk","atkLv90":325},
-  {"id":"Pistols of Night","name":{"en":"Pistols of Night","fr":"Pistolets de Nuit"},"rarity":3,"type":"Pistol","stat":"Atk","atkLv90":325},
-  {"id":"Pistols of Voyager","name":{"en":"Pistols of Voyager","fr":"Pistolets du Voyageur"},"rarity":3,"type":"Pistol","stat":"Atk","atkLv90":325},
-
-  {"id":"Abyss Surges","name":{"en":"Abyss Surges","fr":"Flux de l'Abîme"},"rarity":5,"type":"Gauntlet","stat":"Atk","atkLv90":587},
-  {"id":"Blazing Justice","name":{"en":"Blazing Justice","fr":"Justice ardente"},"rarity":5,"type":"Gauntlet","stat":"DC","atkLv90":587},
-  {"id":"Daybreaker's Spine","name":{"en":"Daybreaker's Spine","fr":"Échine de l'aube"},"rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
-  {"id":"Moongazer's Sigil","name":{"en":"Moongazer's Sigil","fr":"Sceau de veilleuse lunaire"},"rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":500},
-  {"id":"Pulsation Bracer","name":{"en":"Pulsation Bracer","fr":"Brassard à pulsation"},"rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
-  {"id":"Solsworn Ciphers","name":{"en":"Solsworn Ciphers","fr":"Interprétation illuminée"},"rarity":5,"type":"Gauntlet","stat":"DC","atkLv90":587},
-  {"id":"Tragicomedy","name":{"en":"Tragicomedy","fr":"Tragi-comédie"},"rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
-  {"id":"Verity's Handle","name":{"en":"Verity's Handle","fr":"Poignée de la Vérité"},"rarity":5,"type":"Gauntlet","stat":"CC","atkLv90":587},
-
-  {"id":"Aether Strike","name":{"en":"Aether Strike","fr":"Assaut d'éther"},"rarity":4,"type":"Gauntlet","stat":"DC","atkLv90":412},
-  {"id":"Amity Accord","name":{"en":"Amity Accord","fr":"Accord d'Amity"},"rarity":4,"type":"Gauntlet","stat":"Def","atkLv90":337},
-  {"id":"Celestial Spiral","name":{"en":"Celestial Spiral","fr":"Spirale céleste"},"rarity":4,"type":"Gauntlet","stat":"Atk","atkLv90":462},
-  {"id":"Gauntlets#21D","name":{"en":"Gauntlets#21D","fr":"Gantelets #21D"},"rarity":4,"type":"Gauntlet","stat":"RR","atkLv90":337},
-  {"id":"Hollow Mirage","name":{"en":"Hollow Mirage","fr":"Mirage creux"},"rarity":4,"type":"Gauntlet","stat":"Atk","atkLv90":412},
-  {"id":"Legend of Drunken Hero","name":{"en":"Legend of Drunken Hero","fr":"Légende du Héros Ivre"},"rarity":4,"type":"Gauntlet","stat":"Atk","atkLv90":462},
-  {"id":"Marcato","name":{"en":"Marcato","fr":"Marcato"},"rarity":4,"type":"Gauntlet","stat":"RR","atkLv90":337},
-  {"id":"Stonard","name":{"en":"Stonard","fr":"Main d'or"},"rarity":4,"type":"Gauntlet","stat":"CC","atkLv90":412},
-
-  {"id":"Guardian Gauntlets","name":{"en":"Guardian Gauntlets","fr":"Gantelets du Gardien"},"rarity":3,"type":"Gauntlet","stat":"Def","atkLv90":325},
-  {"id":"Gauntlets of Night","name":{"en":"Gauntlets of Night","fr":"Gantelets de Nuit"},"rarity":3,"type":"Gauntlet","stat":"Atk","atkLv90":325},
-  {"id":"Gauntlets of Voyager","name":{"en":"Gauntlets of Voyager","fr":"Gantelets du Voyageur"},"rarity":3,"type":"Gauntlet","stat":"Def","atkLv90":325},
-  {"id":"Originite: Type IV","name":{"en":"Originite: Type IV","fr":"Originite : Type IV"},"rarity":3,"type":"Gauntlet","stat":"DC","atkLv90":325},
-
-  {"id":"Boson Astrolabe","name":{"en":"Boson Astrolabe","fr":"Astrolabe à bosons"},"rarity":5,"type":"Rectifier","stat":"RR","atkLv90":525,"budget":700},
-  {"id":"Cosmic Ripples","name":{"en":"Cosmic Ripples","fr":"Ondes cosmiques"},"rarity":5,"type":"Rectifier","stat":"Atk","atkLv90":500},
-  {"id":"Lethean Elegy","name":{"en":"Lethean Elegy","fr":"Élégie de Léthé"},"rarity":5,"type":"Rectifier","stat":"CC","atkLv90":587},
-  {"id":"Luminous Hymn","name":{"en":"Luminous Hymn","fr":"Symphonie des lueurs"},"rarity":5,"type":"Rectifier","stat":"CC","atkLv90":500},
-  {"id":"Rime-Draped Sprouts","name":{"en":"Rime-Draped Sprouts","fr":"Germe de glacier"},"rarity":5,"type":"Rectifier","stat":"DC","atkLv90":500},
-  {"id":"Stellar Symphony","name":{"en":"Stellar Symphony","fr":"Symphonie stellaire"},"rarity":5,"type":"Rectifier","stat":"RR","atkLv90":412},
-  {"id":"Stringmaster","name":{"en":"Stringmaster","fr":"Main du marionnettiste"},"rarity":5,"type":"Rectifier","stat":"CC","atkLv90":587},
-  {"id":"Whispers of Sirens","name":{"en":"Whispers of Sirens","fr":"Murmures des sirènes"},"rarity":5,"type":"Rectifier","stat":"DC","atkLv90":500},
-
-  {"id":"Augment","name":{"en":"Augment","fr":"Dévoisant"},"rarity":4,"type":"Rectifier","stat":"CC","atkLv90":412},
-  {"id":"Call of the Abyss","name":{"en":"Call of the Abyss","fr":"Voix de l'Abîme"},"rarity":4,"type":"Rectifier","stat":"RR","atkLv90":337},
-  {"id":"Comet Flare","name":{"en":"Comet Flare","fr":"Comète éclatante"},"rarity":4,"type":"Rectifier","stat":"HP","atkLv90":412},
-  {"id":"Fusion Accretion","name":{"en":"Fusion Accretion","fr":"Accrétion de fusion"},"rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":462},
-  {"id":"Jinzhou Keeper","name":{"en":"Jinzhou Keeper","fr":"Gardien de Jinzhou"},"rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":387},
-  {"id":"Ocean's Gift","name":{"en":"Ocean's Gift","fr":"Don des mers"},"rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":462},
-  {"id":"Radiant Dawn","name":{"en":"Radiant Dawn","fr":"Aube radieuse"},"rarity":4,"type":"Rectifier","stat":"DC","atkLv90":412},
-  {"id":"Rectifier#25","name":{"en":"Rectifier#25","fr":"Amplificateur#25"},"rarity":4,"type":"Rectifier","stat":"RR","atkLv90":337},
-  {"id":"Variation","name":{"en":"Variation","fr":"Variation fantastique"},"rarity":4,"type":"Rectifier","stat":"RR","atkLv90":337},
-  {"id":"Waltz in Masquerade","name":{"en":"Waltz in Masquerade","fr":"Valse en Masque"},"rarity":4,"type":"Rectifier","stat":"Atk","atkLv90":462},
-
-  {"id":"Guardian Rectifier","name":{"en":"Guardian Rectifier","fr":"Amplificateur du Gardien"},"rarity":3,"type":"Rectifier","stat":"Atk","atkLv90":325},
-  {"id":"Originite: Type V","name":{"en":"Originite: Type V","fr":"Originite : Type V"},"rarity":3,"type":"Rectifier","stat":"HP","atkLv90":325},
-  {"id":"Rectifier of Night","name":{"en":"Rectifier of Night","fr":"Amplificateur de Nuit"},"rarity":3,"type":"Rectifier","stat":"Atk","atkLv90":325},
-  {"id":"Rectifier of Voyager","name":{"en":"Rectifier of Voyager","fr":"Amplificateur du Voyageur"},"rarity":3,"type":"Rectifier","stat":"RR","atkLv90":325},
-
-  {"id":"Tyro Broadblade","name":{"en":"Tyro Broadblade","fr":"Epée Tyro"},"rarity":2,"type":"BroadBlade","stat":"Atk","atkLv90":250},
-  {"id":"Tyro Sword","name":{"en":"Tyro Sword","fr":"Sabre Tyro"},"rarity":2,"type":"Sword","stat":"Atk","atkLv90":250},
-  {"id":"Tyro Pistols","name":{"en":"Tyro Pistols","fr":"Pistolets Tyro"},"rarity":2,"type":"Pistol","stat":"Atk","atkLv90":250},
-  {"id":"Tyro Gauntlets","name":{"en":"Tyro Gauntlets","fr":"Gantelets Tyro"},"rarity":2,"type":"Gauntlet","stat":"Atk","atkLv90":250},
-  {"id":"Tyro Rectifier","name":{"en":"Tyro Rectifier","fr":"Amplificateur Tyro"},"rarity":2,"type":"Rectifier","stat":"Atk","atkLv90":250},
-
-  {"id":"Training Broadblade","name":{"en":"Training Broadblade","fr":"Epée Novice"},"rarity":1,"type":"BroadBlade","stat":"Atk","atkLv90":175,"isDefault":true},
-  {"id":"Training Sword","name":{"en":"Training Sword","fr":"Sabre Novice"},"rarity":1,"type":"Sword","stat":"Atk","atkLv90":175,"isDefault":true},
-  {"id":"Training Pistols","name":{"en":"Training Pistols","fr":"Pistolets Novices"},"rarity":1,"type":"Pistol","stat":"Atk","atkLv90":175,"isDefault":true},
-  {"id":"Training Gauntlets","name":{"en":"Training Gauntlets","fr":"Gantelets Novices"},"rarity":1,"type":"Gauntlet","stat":"Atk","atkLv90":175,"isDefault":true},
-  {"id":"Training Rectifier","name":{"en":"Training Rectifier","fr":"Amplificateur Novice"},"rarity":1,"type":"Rectifier","stat":"Atk","atkLv90":175,"isDefault":true}
+  {
+    "id": "Ages of Harvest",
+    "name": {
+      "en": "Ages of Harvest",
+      "fr": "Cycles des saisons"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Kumokiri",
+    "name": {
+      "en": "Kumokiri",
+      "fr": "Kumokiri"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "CC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Lustrous Razor",
+    "name": {
+      "en": "Lustrous Razor",
+      "fr": "Lame lustrée"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Radiance Cleaver",
+    "name": {
+      "en": "Radiance Cleaver",
+      "fr": "Fendoir radieux"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Thunderflare Dominion",
+    "name": {
+      "en": "Thunderflare Dominion",
+      "fr": "Règne foudroyant"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "CC",
+    "atkLv90": 675,
+    "base_atk": 54
+  },
+  {
+    "id": "Verdant Summit",
+    "name": {
+      "en": "Verdant Summit",
+      "fr": "Sommet verdoyant"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Starfield Calibrator",
+    "name": {
+      "en": "Starfield Calibrator",
+      "fr": "Calibrateur stellaire"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "RR",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Wildfire Mark",
+    "name": {
+      "en": "Wildfire Mark",
+      "fr": "Marque du Feu indompté"
+    },
+    "rarity": 5,
+    "type": "BroadBlade",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Aureate Zenith",
+    "name": {
+      "en": "Aureate Zenith",
+      "fr": "Zénith doré"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "DC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Autumntrace",
+    "name": {
+      "en": "Autumntrace",
+      "fr": "Trace d'automne"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "CC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Broadblade#41",
+    "name": {
+      "en": "Broadblade#41",
+      "fr": "Epée #41"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Dauntless Evernight",
+    "name": {
+      "en": "Dauntless Evernight",
+      "fr": "Intrépide éternel"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "Def",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Discord",
+    "name": {
+      "en": "Discord",
+      "fr": "Discorde"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Helios Cleaver",
+    "name": {
+      "en": "Helios Cleaver",
+      "fr": "Tailleur d'Hélios"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Meditations on Mercy",
+    "name": {
+      "en": "Meditations on Mercy",
+      "fr": "Méditations sur la Miséricorde"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Waning Redshift",
+    "name": {
+      "en": "Waning Redshift",
+      "fr": "Spectre en déclin"
+    },
+    "rarity": 4,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Beguiling Melody",
+    "name": {
+      "en": "Beguiling Melody",
+      "fr": "Voix céleste"
+    },
+    "rarity": 3,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Broadblade of Night",
+    "name": {
+      "en": "Broadblade of Night",
+      "fr": "Epée de nuit"
+    },
+    "rarity": 3,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Broadblade of Voyager",
+    "name": {
+      "en": "Broadblade of Voyager",
+      "fr": "Epée du Voyageur"
+    },
+    "rarity": 3,
+    "type": "BroadBlade",
+    "stat": "RR",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Guardian Broadblade",
+    "name": {
+      "en": "Guardian Broadblade",
+      "fr": "Epée du Gardien"
+    },
+    "rarity": 3,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Originite: Type I",
+    "name": {
+      "en": "Originite: Type I",
+      "fr": "Originite : Type I"
+    },
+    "rarity": 3,
+    "type": "BroadBlade",
+    "stat": "Def",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Blazing Brilliance",
+    "name": {
+      "en": "Blazing Brilliance",
+      "fr": "Flamme rayonnée"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Bloodpact's Pledge",
+    "name": {
+      "en": "Bloodpact's Pledge",
+      "fr": "Serment de sang"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Defier's Thorn",
+    "name": {
+      "en": "Defier's Thorn",
+      "fr": "Épine de l'insoumise"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "HP",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Emerald of Genesis",
+    "name": {
+      "en": "Emerald of Genesis",
+      "fr": "Émeraude éternelle"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Emerald Sentence",
+    "name": {
+      "en": "Emerald Sentence",
+      "fr": "Sentence émeraude"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Everbright Polestar",
+    "name": {
+      "en": "Everbright Polestar",
+      "fr": "Polaire éternelle"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Laser Shearer",
+    "name": {
+      "en": "Laser Shearer",
+      "fr": "Cisailles laser"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "RR",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Red Spring",
+    "name": {
+      "en": "Red Spring",
+      "fr": "Printemps acéré"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Unflickering Valor",
+    "name": {
+      "en": "Unflickering Valor",
+      "fr": "Courage impérissable"
+    },
+    "rarity": 5,
+    "type": "Sword",
+    "stat": "RR",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Commando of Conviction",
+    "name": {
+      "en": "Commando of Conviction",
+      "fr": "Commando de la Conviction"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Endless Collapse",
+    "name": {
+      "en": "Endless Collapse",
+      "fr": "Effondrement éternel"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Fables of Wisdom",
+    "name": {
+      "en": "Fables of Wisdom",
+      "fr": "Fables de Sagesse"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Feather Edge",
+    "name": {
+      "en": "Feather Edge",
+      "fr": "Lame de plume"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "CC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Lumingloss",
+    "name": {
+      "en": "Lumingloss",
+      "fr": "Lumineux"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 387,
+    "base_atk": 31
+  },
+  {
+    "id": "Lunar Cutter",
+    "name": {
+      "en": "Lunar Cutter",
+      "fr": "Tailleur lunaire"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Overture",
+    "name": {
+      "en": "Overture",
+      "fr": "Le Fendeur"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Somnoire Anchor",
+    "name": {
+      "en": "Somnoire Anchor",
+      "fr": "Ancre du Somnoire"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Sword#18",
+    "name": {
+      "en": "Sword#18",
+      "fr": "Sabre #18"
+    },
+    "rarity": 4,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 387,
+    "base_atk": 31
+  },
+  {
+    "id": "Guardian Sword",
+    "name": {
+      "en": "Guardian Sword",
+      "fr": "Sabre du Gardien"
+    },
+    "rarity": 3,
+    "type": "Sword",
+    "stat": "HP",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Originite: Type II",
+    "name": {
+      "en": "Originite: Type II",
+      "fr": "Originite : Type II"
+    },
+    "rarity": 3,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Sword of Night",
+    "name": {
+      "en": "Sword of Night",
+      "fr": "Sabre de nuit"
+    },
+    "rarity": 3,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Sword of Voyager",
+    "name": {
+      "en": "Sword of Voyager",
+      "fr": "Sabre du Voyageur"
+    },
+    "rarity": 3,
+    "type": "Sword",
+    "stat": "RR",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Lux & Umbra",
+    "name": {
+      "en": "Lux & Umbra",
+      "fr": "Lux & Umbra"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Phasic Homogenizer",
+    "name": {
+      "en": "Phasic Homogenizer",
+      "fr": "Homogénéiseur phasique"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Spectrum Blaster",
+    "name": {
+      "en": "Spectrum Blaster",
+      "fr": "Éclateur spectral"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Static Mist",
+    "name": {
+      "en": "Static Mist",
+      "fr": "Brouillard stable"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "The Last Dance",
+    "name": {
+      "en": "The Last Dance",
+      "fr": "La dernière danse"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "DC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Woodland Aria",
+    "name": {
+      "en": "Woodland Aria",
+      "fr": "Aria de la clairière"
+    },
+    "rarity": 5,
+    "type": "Pistol",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Cadenza",
+    "name": {
+      "en": "Cadenza",
+      "fr": "Cadenza"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Novaburst",
+    "name": {
+      "en": "Novaburst",
+      "fr": "Éclat de Nova"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Pistols#26",
+    "name": {
+      "en": "Pistols#26",
+      "fr": "Pistolets #26"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 387,
+    "base_atk": 31
+  },
+  {
+    "id": "Relativistic Jet",
+    "name": {
+      "en": "Relativistic Jet",
+      "fr": "Jets relativistes"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Romance in Farewell",
+    "name": {
+      "en": "Romance in Farewell",
+      "fr": "Romance en Adieu"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Solar Flame",
+    "name": {
+      "en": "Solar Flame",
+      "fr": "Flamme solaire"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "CC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Thunderbolt",
+    "name": {
+      "en": "Thunderbolt",
+      "fr": "Tonnerre"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 387,
+    "base_atk": 31
+  },
+  {
+    "id": "Undying Flame",
+    "name": {
+      "en": "Undying Flame",
+      "fr": "Flamme divine"
+    },
+    "rarity": 4,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Guardian Pistols",
+    "name": {
+      "en": "Guardian Pistols",
+      "fr": "Pistolets du Gardien"
+    },
+    "rarity": 3,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Originite: Type III",
+    "name": {
+      "en": "Originite: Type III",
+      "fr": "Originite : Type III"
+    },
+    "rarity": 3,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Pistols of Night",
+    "name": {
+      "en": "Pistols of Night",
+      "fr": "Pistolets de Nuit"
+    },
+    "rarity": 3,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Pistols of Voyager",
+    "name": {
+      "en": "Pistols of Voyager",
+      "fr": "Pistolets du Voyageur"
+    },
+    "rarity": 3,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Abyss Surges",
+    "name": {
+      "en": "Abyss Surges",
+      "fr": "Flux de l'Abîme"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Blazing Justice",
+    "name": {
+      "en": "Blazing Justice",
+      "fr": "Justice ardente"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Daybreaker's Spine",
+    "name": {
+      "en": "Daybreaker's Spine",
+      "fr": "Échine de l'aube"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Moongazer's Sigil",
+    "name": {
+      "en": "Moongazer's Sigil",
+      "fr": "Sceau de veilleuse lunaire"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Pulsation Bracer",
+    "name": {
+      "en": "Pulsation Bracer",
+      "fr": "Brassard à pulsation"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Solsworn Ciphers",
+    "name": {
+      "en": "Solsworn Ciphers",
+      "fr": "Interprétation illuminée"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "DC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Tragicomedy",
+    "name": {
+      "en": "Tragicomedy",
+      "fr": "Tragi-comédie"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Verity's Handle",
+    "name": {
+      "en": "Verity's Handle",
+      "fr": "Poignée de la Vérité"
+    },
+    "rarity": 5,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Aether Strike",
+    "name": {
+      "en": "Aether Strike",
+      "fr": "Assaut d'éther"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "DC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Amity Accord",
+    "name": {
+      "en": "Amity Accord",
+      "fr": "Accord d'Amity"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "Def",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Celestial Spiral",
+    "name": {
+      "en": "Celestial Spiral",
+      "fr": "Spirale céleste"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Gauntlets#21D",
+    "name": {
+      "en": "Gauntlets#21D",
+      "fr": "Gantelets #21D"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Hollow Mirage",
+    "name": {
+      "en": "Hollow Mirage",
+      "fr": "Mirage creux"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Legend of Drunken Hero",
+    "name": {
+      "en": "Legend of Drunken Hero",
+      "fr": "Légende du Héros Ivre"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Marcato",
+    "name": {
+      "en": "Marcato",
+      "fr": "Marcato"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Stonard",
+    "name": {
+      "en": "Stonard",
+      "fr": "Main d'or"
+    },
+    "rarity": 4,
+    "type": "Gauntlet",
+    "stat": "CC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Guardian Gauntlets",
+    "name": {
+      "en": "Guardian Gauntlets",
+      "fr": "Gantelets du Gardien"
+    },
+    "rarity": 3,
+    "type": "Gauntlet",
+    "stat": "Def",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Gauntlets of Night",
+    "name": {
+      "en": "Gauntlets of Night",
+      "fr": "Gantelets de Nuit"
+    },
+    "rarity": 3,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Gauntlets of Voyager",
+    "name": {
+      "en": "Gauntlets of Voyager",
+      "fr": "Gantelets du Voyageur"
+    },
+    "rarity": 3,
+    "type": "Gauntlet",
+    "stat": "Def",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Originite: Type IV",
+    "name": {
+      "en": "Originite: Type IV",
+      "fr": "Originite : Type IV"
+    },
+    "rarity": 3,
+    "type": "Gauntlet",
+    "stat": "DC",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Boson Astrolabe",
+    "name": {
+      "en": "Boson Astrolabe",
+      "fr": "Astrolabe à bosons"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 525,
+    "budget": 700,
+    "base_atk": 42
+  },
+  {
+    "id": "Cosmic Ripples",
+    "name": {
+      "en": "Cosmic Ripples",
+      "fr": "Ondes cosmiques"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Lethean Elegy",
+    "name": {
+      "en": "Lethean Elegy",
+      "fr": "Élégie de Léthé"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Luminous Hymn",
+    "name": {
+      "en": "Luminous Hymn",
+      "fr": "Symphonie des lueurs"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "CC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Rime-Draped Sprouts",
+    "name": {
+      "en": "Rime-Draped Sprouts",
+      "fr": "Germe de glacier"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "DC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Stellar Symphony",
+    "name": {
+      "en": "Stellar Symphony",
+      "fr": "Symphonie stellaire"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Stringmaster",
+    "name": {
+      "en": "Stringmaster",
+      "fr": "Main du marionnettiste"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "CC",
+    "atkLv90": 587,
+    "base_atk": 47
+  },
+  {
+    "id": "Whispers of Sirens",
+    "name": {
+      "en": "Whispers of Sirens",
+      "fr": "Murmures des sirènes"
+    },
+    "rarity": 5,
+    "type": "Rectifier",
+    "stat": "DC",
+    "atkLv90": 500,
+    "base_atk": 40
+  },
+  {
+    "id": "Augment",
+    "name": {
+      "en": "Augment",
+      "fr": "Dévoisant"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "CC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Call of the Abyss",
+    "name": {
+      "en": "Call of the Abyss",
+      "fr": "Voix de l'Abîme"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Comet Flare",
+    "name": {
+      "en": "Comet Flare",
+      "fr": "Comète éclatante"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "HP",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Fusion Accretion",
+    "name": {
+      "en": "Fusion Accretion",
+      "fr": "Accrétion de fusion"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Jinzhou Keeper",
+    "name": {
+      "en": "Jinzhou Keeper",
+      "fr": "Gardien de Jinzhou"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 387,
+    "base_atk": 31
+  },
+  {
+    "id": "Ocean's Gift",
+    "name": {
+      "en": "Ocean's Gift",
+      "fr": "Don des mers"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Radiant Dawn",
+    "name": {
+      "en": "Radiant Dawn",
+      "fr": "Aube radieuse"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "DC",
+    "atkLv90": 412,
+    "base_atk": 33
+  },
+  {
+    "id": "Rectifier#25",
+    "name": {
+      "en": "Rectifier#25",
+      "fr": "Amplificateur#25"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Variation",
+    "name": {
+      "en": "Variation",
+      "fr": "Variation fantastique"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 337,
+    "base_atk": 27
+  },
+  {
+    "id": "Waltz in Masquerade",
+    "name": {
+      "en": "Waltz in Masquerade",
+      "fr": "Valse en Masque"
+    },
+    "rarity": 4,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 462,
+    "base_atk": 37
+  },
+  {
+    "id": "Guardian Rectifier",
+    "name": {
+      "en": "Guardian Rectifier",
+      "fr": "Amplificateur du Gardien"
+    },
+    "rarity": 3,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Originite: Type V",
+    "name": {
+      "en": "Originite: Type V",
+      "fr": "Originite : Type V"
+    },
+    "rarity": 3,
+    "type": "Rectifier",
+    "stat": "HP",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Rectifier of Night",
+    "name": {
+      "en": "Rectifier of Night",
+      "fr": "Amplificateur de Nuit"
+    },
+    "rarity": 3,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Rectifier of Voyager",
+    "name": {
+      "en": "Rectifier of Voyager",
+      "fr": "Amplificateur du Voyageur"
+    },
+    "rarity": 3,
+    "type": "Rectifier",
+    "stat": "RR",
+    "atkLv90": 325,
+    "base_atk": 26
+  },
+  {
+    "id": "Tyro Broadblade",
+    "name": {
+      "en": "Tyro Broadblade",
+      "fr": "Epée Tyro"
+    },
+    "rarity": 2,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 250,
+    "base_atk": 22
+  },
+  {
+    "id": "Tyro Sword",
+    "name": {
+      "en": "Tyro Sword",
+      "fr": "Sabre Tyro"
+    },
+    "rarity": 2,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 250,
+    "base_atk": 22
+  },
+  {
+    "id": "Tyro Pistols",
+    "name": {
+      "en": "Tyro Pistols",
+      "fr": "Pistolets Tyro"
+    },
+    "rarity": 2,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 250,
+    "base_atk": 22
+  },
+  {
+    "id": "Tyro Gauntlets",
+    "name": {
+      "en": "Tyro Gauntlets",
+      "fr": "Gantelets Tyro"
+    },
+    "rarity": 2,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 250,
+    "base_atk": 22
+  },
+  {
+    "id": "Tyro Rectifier",
+    "name": {
+      "en": "Tyro Rectifier",
+      "fr": "Amplificateur Tyro"
+    },
+    "rarity": 2,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 250,
+    "base_atk": 22
+  },
+  {
+    "id": "Training Broadblade",
+    "name": {
+      "en": "Training Broadblade",
+      "fr": "Epée Novice"
+    },
+    "rarity": 1,
+    "type": "BroadBlade",
+    "stat": "Atk",
+    "atkLv90": 175,
+    "isDefault": true,
+    "base_atk": 20
+  },
+  {
+    "id": "Training Sword",
+    "name": {
+      "en": "Training Sword",
+      "fr": "Sabre Novice"
+    },
+    "rarity": 1,
+    "type": "Sword",
+    "stat": "Atk",
+    "atkLv90": 175,
+    "isDefault": true,
+    "base_atk": 20
+  },
+  {
+    "id": "Training Pistols",
+    "name": {
+      "en": "Training Pistols",
+      "fr": "Pistolets Novices"
+    },
+    "rarity": 1,
+    "type": "Pistol",
+    "stat": "Atk",
+    "atkLv90": 175,
+    "isDefault": true,
+    "base_atk": 20
+  },
+  {
+    "id": "Training Gauntlets",
+    "name": {
+      "en": "Training Gauntlets",
+      "fr": "Gantelets Novices"
+    },
+    "rarity": 1,
+    "type": "Gauntlet",
+    "stat": "Atk",
+    "atkLv90": 175,
+    "isDefault": true,
+    "base_atk": 20
+  },
+  {
+    "id": "Training Rectifier",
+    "name": {
+      "en": "Training Rectifier",
+      "fr": "Amplificateur Novice"
+    },
+    "rarity": 1,
+    "type": "Rectifier",
+    "stat": "Atk",
+    "atkLv90": 175,
+    "isDefault": true,
+    "base_atk": 20
+  }
 ]
