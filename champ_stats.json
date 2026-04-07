@@ -694,9 +694,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "CC",
-          "lv1": 1.2,
-          "lv2": 2.8
+          "stat": "SpectroDMG",
+          "lv1": 1.8,
+          "lv2": 4.2
         },
         "spe24": {
           "stat": "ATK%",
@@ -1102,9 +1102,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "AeroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1150,9 +1150,9 @@
       "energy_regen": 150,
       "passives": {
         "spe15": {
-          "stat": "SpectroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1318,9 +1318,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "ElectroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1414,9 +1414,9 @@
       "energy_regen": 175,
       "passives": {
         "spe15": {
-          "stat": "FusionDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1510,9 +1510,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "AeroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "HP%",
@@ -1534,9 +1534,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "FusionDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1582,9 +1582,9 @@
       "energy_regen": 125,
       "passives": {
         "spe15": {
-          "stat": "ElectroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1606,9 +1606,9 @@
       "energy_regen": 100,
       "passives": {
         "spe15": {
-          "stat": "HavocDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1678,9 +1678,9 @@
       "energy_regen": 100,
       "passives": {
         "spe15": {
-          "stat": "AeroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1702,9 +1702,9 @@
       "energy_regen": 100,
       "passives": {
         "spe15": {
-          "stat": "AeroDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1726,9 +1726,9 @@
       "energy_regen": 100,
       "passives": {
         "spe15": {
-          "stat": "FusionDMG",
-          "lv1": 1.8,
-          "lv2": 4.2
+          "stat": "CC",
+          "lv1": 1.2,
+          "lv2": 2.8
         },
         "spe24": {
           "stat": "ATK%",
@@ -1774,7 +1774,7 @@
       "energy_regen": 100,
       "passives": {
         "spe15": {
-          "stat": "FusionDMG",
+          "stat": "HealBonus",
           "lv1": 1.8,
           "lv2": 4.2
         },
