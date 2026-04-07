@@ -1486,5 +1486,36 @@
         "lv2": 4.2
       }
     }
+  },
+  {
+    "id": "Geshu Lin",
+    "name": {
+      "en": "Geshu Lin",
+      "fr": "Geshu Lin"
+    },
+    "element": "Havoc",
+    "weapon": "BroadBlade",
+    "stat": "ATK",
+    "base_hp": 802,
+    "max_hp": 10825,
+    "base_atk": 33,
+    "max_atk": 445,
+    "base_def": 102,
+    "max_def": 1377,
+    "crit_rate": 5.0,
+    "crit_dmg": 150.0,
+    "energy_regen": 100.0,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    }
   }
 ]
