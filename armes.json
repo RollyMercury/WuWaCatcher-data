@@ -9,7 +9,8 @@
     "type": "BroadBlade",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Kumokiri",
@@ -21,7 +22,8 @@
     "type": "BroadBlade",
     "stat": "CC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.08
   },
   {
     "id": "Lustrous Razor",
@@ -33,7 +35,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.081
   },
   {
     "id": "Radiance Cleaver",
@@ -45,7 +48,8 @@
     "type": "BroadBlade",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Thunderflare Dominion",
@@ -57,7 +61,8 @@
     "type": "BroadBlade",
     "stat": "CC",
     "atkLv90": 675,
-    "base_atk": 54
+    "base_atk": 54,
+    "base_sec": 0.027
   },
   {
     "id": "Verdant Summit",
@@ -69,7 +74,8 @@
     "type": "BroadBlade",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Starfield Calibrator",
@@ -81,7 +87,8 @@
     "type": "BroadBlade",
     "stat": "RR",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.1712
   },
   {
     "id": "Wildfire Mark",
@@ -93,7 +100,8 @@
     "type": "BroadBlade",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Aureate Zenith",
@@ -105,7 +113,8 @@
     "type": "BroadBlade",
     "stat": "DC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.09
   },
   {
     "id": "Autumntrace",
@@ -117,7 +126,8 @@
     "type": "BroadBlade",
     "stat": "CC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.045
   },
   {
     "id": "Broadblade#41",
@@ -129,7 +139,8 @@
     "type": "BroadBlade",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Dauntless Evernight",
@@ -141,7 +152,8 @@
     "type": "BroadBlade",
     "stat": "Def",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1368
   },
   {
     "id": "Discord",
@@ -153,7 +165,8 @@
     "type": "BroadBlade",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Helios Cleaver",
@@ -165,7 +178,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Meditations on Mercy",
@@ -177,7 +191,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Waning Redshift",
@@ -189,7 +204,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Beguiling Melody",
@@ -201,7 +217,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Broadblade of Night",
@@ -213,7 +230,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Broadblade of Voyager",
@@ -225,7 +243,8 @@
     "type": "BroadBlade",
     "stat": "RR",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0576
   },
   {
     "id": "Guardian Broadblade",
@@ -237,7 +256,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Originite: Type I",
@@ -249,7 +269,8 @@
     "type": "BroadBlade",
     "stat": "Def",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0684
   },
   {
     "id": "Blazing Brilliance",
@@ -261,7 +282,8 @@
     "type": "Sword",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Bloodpact's Pledge",
@@ -273,7 +295,8 @@
     "type": "Sword",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Defier's Thorn",
@@ -285,7 +308,8 @@
     "type": "Sword",
     "stat": "HP",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.1605
   },
   {
     "id": "Emerald of Genesis",
@@ -297,7 +321,8 @@
     "type": "Sword",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Emerald Sentence",
@@ -309,7 +334,8 @@
     "type": "Sword",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Everbright Polestar",
@@ -321,7 +347,8 @@
     "type": "Sword",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Laser Shearer",
@@ -333,7 +360,8 @@
     "type": "Sword",
     "stat": "RR",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.0864
   },
   {
     "id": "Red Spring",
@@ -345,7 +373,8 @@
     "type": "Sword",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Unflickering Valor",
@@ -357,7 +386,8 @@
     "type": "Sword",
     "stat": "RR",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.1712
   },
   {
     "id": "Commando of Conviction",
@@ -369,7 +399,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Endless Collapse",
@@ -381,7 +412,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Fables of Wisdom",
@@ -393,7 +425,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Feather Edge",
@@ -405,7 +438,8 @@
     "type": "Sword",
     "stat": "CC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.045
   },
   {
     "id": "Lumingloss",
@@ -417,7 +451,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 387,
-    "base_atk": 31
+    "base_atk": 31,
+    "base_sec": 0.081
   },
   {
     "id": "Lunar Cutter",
@@ -429,7 +464,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Overture",
@@ -441,7 +477,8 @@
     "type": "Sword",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Somnoire Anchor",
@@ -453,7 +490,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Sword#18",
@@ -465,7 +503,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 387,
-    "base_atk": 31
+    "base_atk": 31,
+    "base_sec": 0.081
   },
   {
     "id": "Guardian Sword",
@@ -477,7 +516,8 @@
     "type": "Sword",
     "stat": "HP",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Originite: Type II",
@@ -489,7 +529,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Sword of Night",
@@ -501,7 +542,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Sword of Voyager",
@@ -513,7 +555,8 @@
     "type": "Sword",
     "stat": "RR",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0576
   },
   {
     "id": "Lux & Umbra",
@@ -525,7 +568,8 @@
     "type": "Pistol",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Phasic Homogenizer",
@@ -537,7 +581,8 @@
     "type": "Pistol",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Spectrum Blaster",
@@ -549,7 +594,8 @@
     "type": "Pistol",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Static Mist",
@@ -561,7 +607,8 @@
     "type": "Pistol",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "The Last Dance",
@@ -573,7 +620,8 @@
     "type": "Pistol",
     "stat": "DC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.16
   },
   {
     "id": "Woodland Aria",
@@ -585,7 +633,8 @@
     "type": "Pistol",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Cadenza",
@@ -597,7 +646,8 @@
     "type": "Pistol",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Novaburst",
@@ -609,7 +659,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Pistols#26",
@@ -621,7 +672,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 387,
-    "base_atk": 31
+    "base_atk": 31,
+    "base_sec": 0.081
   },
   {
     "id": "Relativistic Jet",
@@ -633,7 +685,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Romance in Farewell",
@@ -645,7 +698,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Solar Flame",
@@ -657,7 +711,8 @@
     "type": "Pistol",
     "stat": "CC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.045
   },
   {
     "id": "Thunderbolt",
@@ -669,7 +724,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 387,
-    "base_atk": 31
+    "base_atk": 31,
+    "base_sec": 0.081
   },
   {
     "id": "Undying Flame",
@@ -681,7 +737,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Guardian Pistols",
@@ -693,7 +750,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Originite: Type III",
@@ -705,7 +763,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Pistols of Night",
@@ -717,7 +776,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Pistols of Voyager",
@@ -729,7 +789,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Abyss Surges",
@@ -741,7 +802,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.081
   },
   {
     "id": "Blazing Justice",
@@ -753,7 +815,8 @@
     "type": "Gauntlet",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Daybreaker's Spine",
@@ -765,7 +828,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Moongazer's Sigil",
@@ -777,7 +841,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.08
   },
   {
     "id": "Pulsation Bracer",
@@ -789,7 +854,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Solsworn Ciphers",
@@ -801,7 +867,8 @@
     "type": "Gauntlet",
     "stat": "DC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.108
   },
   {
     "id": "Tragicomedy",
@@ -813,7 +880,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Verity's Handle",
@@ -825,7 +893,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Aether Strike",
@@ -837,7 +906,8 @@
     "type": "Gauntlet",
     "stat": "DC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.09
   },
   {
     "id": "Amity Accord",
@@ -849,7 +919,8 @@
     "type": "Gauntlet",
     "stat": "Def",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1368
   },
   {
     "id": "Celestial Spiral",
@@ -861,7 +932,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Gauntlets#21D",
@@ -873,7 +945,8 @@
     "type": "Gauntlet",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Hollow Mirage",
@@ -885,7 +958,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Legend of Drunken Hero",
@@ -897,7 +971,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Marcato",
@@ -909,7 +984,8 @@
     "type": "Gauntlet",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Stonard",
@@ -921,7 +997,8 @@
     "type": "Gauntlet",
     "stat": "CC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.045
   },
   {
     "id": "Guardian Gauntlets",
@@ -933,7 +1010,8 @@
     "type": "Gauntlet",
     "stat": "Def",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0684
   },
   {
     "id": "Gauntlets of Night",
@@ -945,7 +1023,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Gauntlets of Voyager",
@@ -957,7 +1036,8 @@
     "type": "Gauntlet",
     "stat": "Def",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0684
   },
   {
     "id": "Originite: Type IV",
@@ -969,7 +1049,8 @@
     "type": "Gauntlet",
     "stat": "DC",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.072
   },
   {
     "id": "Boson Astrolabe",
@@ -982,7 +1063,8 @@
     "stat": "RR",
     "atkLv90": 525,
     "budget": 700,
-    "base_atk": 42
+    "base_atk": 42,
+    "base_sec": 0.0864
   },
   {
     "id": "Cosmic Ripples",
@@ -994,7 +1076,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.12
   },
   {
     "id": "Lethean Elegy",
@@ -1006,7 +1089,8 @@
     "type": "Rectifier",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Luminous Hymn",
@@ -1018,7 +1102,8 @@
     "type": "Rectifier",
     "stat": "CC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.08
   },
   {
     "id": "Rime-Draped Sprouts",
@@ -1030,7 +1115,8 @@
     "type": "Rectifier",
     "stat": "DC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.16
   },
   {
     "id": "Stellar Symphony",
@@ -1042,7 +1128,8 @@
     "type": "Rectifier",
     "stat": "RR",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.1712
   },
   {
     "id": "Stringmaster",
@@ -1054,7 +1141,8 @@
     "type": "Rectifier",
     "stat": "CC",
     "atkLv90": 587,
-    "base_atk": 47
+    "base_atk": 47,
+    "base_sec": 0.054
   },
   {
     "id": "Whispers of Sirens",
@@ -1066,7 +1154,8 @@
     "type": "Rectifier",
     "stat": "DC",
     "atkLv90": 500,
-    "base_atk": 40
+    "base_atk": 40,
+    "base_sec": 0.16
   },
   {
     "id": "Augment",
@@ -1078,7 +1167,8 @@
     "type": "Rectifier",
     "stat": "CC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.045
   },
   {
     "id": "Call of the Abyss",
@@ -1090,7 +1180,8 @@
     "type": "Rectifier",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Comet Flare",
@@ -1102,7 +1193,8 @@
     "type": "Rectifier",
     "stat": "HP",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.0675
   },
   {
     "id": "Fusion Accretion",
@@ -1114,7 +1206,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Jinzhou Keeper",
@@ -1126,7 +1219,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 387,
-    "base_atk": 31
+    "base_atk": 31,
+    "base_sec": 0.081
   },
   {
     "id": "Ocean's Gift",
@@ -1138,7 +1232,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Radiant Dawn",
@@ -1150,7 +1245,8 @@
     "type": "Rectifier",
     "stat": "DC",
     "atkLv90": 412,
-    "base_atk": 33
+    "base_atk": 33,
+    "base_sec": 0.09
   },
   {
     "id": "Rectifier#25",
@@ -1162,7 +1258,8 @@
     "type": "Rectifier",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Variation",
@@ -1174,7 +1271,8 @@
     "type": "Rectifier",
     "stat": "RR",
     "atkLv90": 337,
-    "base_atk": 27
+    "base_atk": 27,
+    "base_sec": 0.1152
   },
   {
     "id": "Waltz in Masquerade",
@@ -1186,7 +1284,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 462,
-    "base_atk": 37
+    "base_atk": 37,
+    "base_sec": 0.0405
   },
   {
     "id": "Guardian Rectifier",
@@ -1198,7 +1297,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Originite: Type V",
@@ -1210,7 +1310,8 @@
     "type": "Rectifier",
     "stat": "HP",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Rectifier of Night",
@@ -1222,7 +1323,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.054
   },
   {
     "id": "Rectifier of Voyager",
@@ -1234,7 +1336,8 @@
     "type": "Rectifier",
     "stat": "RR",
     "atkLv90": 325,
-    "base_atk": 26
+    "base_atk": 26,
+    "base_sec": 0.0576
   },
   {
     "id": "Tyro Broadblade",
@@ -1246,7 +1349,8 @@
     "type": "BroadBlade",
     "stat": "Atk",
     "atkLv90": 250,
-    "base_atk": 22
+    "base_atk": 22,
+    "base_sec": 0.033
   },
   {
     "id": "Tyro Sword",
@@ -1258,7 +1362,8 @@
     "type": "Sword",
     "stat": "Atk",
     "atkLv90": 250,
-    "base_atk": 22
+    "base_atk": 22,
+    "base_sec": 0.033
   },
   {
     "id": "Tyro Pistols",
@@ -1270,7 +1375,8 @@
     "type": "Pistol",
     "stat": "Atk",
     "atkLv90": 250,
-    "base_atk": 22
+    "base_atk": 22,
+    "base_sec": 0.033
   },
   {
     "id": "Tyro Gauntlets",
@@ -1282,7 +1388,8 @@
     "type": "Gauntlet",
     "stat": "Atk",
     "atkLv90": 250,
-    "base_atk": 22
+    "base_atk": 22,
+    "base_sec": 0.033
   },
   {
     "id": "Tyro Rectifier",
@@ -1294,7 +1401,8 @@
     "type": "Rectifier",
     "stat": "Atk",
     "atkLv90": 250,
-    "base_atk": 22
+    "base_atk": 22,
+    "base_sec": 0.033
   },
   {
     "id": "Training Broadblade",
@@ -1307,7 +1415,8 @@
     "stat": "Atk",
     "atkLv90": 175,
     "isDefault": true,
-    "base_atk": 20
+    "base_atk": 20,
+    "base_sec": 0.0255
   },
   {
     "id": "Training Sword",
@@ -1320,7 +1429,8 @@
     "stat": "Atk",
     "atkLv90": 175,
     "isDefault": true,
-    "base_atk": 20
+    "base_atk": 20,
+    "base_sec": 0.0255
   },
   {
     "id": "Training Pistols",
@@ -1333,7 +1443,8 @@
     "stat": "Atk",
     "atkLv90": 175,
     "isDefault": true,
-    "base_atk": 20
+    "base_atk": 20,
+    "base_sec": 0.0255
   },
   {
     "id": "Training Gauntlets",
@@ -1346,7 +1457,8 @@
     "stat": "Atk",
     "atkLv90": 175,
     "isDefault": true,
-    "base_atk": 20
+    "base_atk": 20,
+    "base_sec": 0.0255
   },
   {
     "id": "Training Rectifier",
@@ -1359,6 +1471,7 @@
     "stat": "Atk",
     "atkLv90": 175,
     "isDefault": true,
-    "base_atk": 20
+    "base_atk": 20,
+    "base_sec": 0.0255
   }
 ]
