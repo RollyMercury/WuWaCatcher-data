@@ -1,0 +1,1453 @@
+{
+  "version": 1,
+  "description": "Character base stats, growth curve, and passive bonuses for WuWaCatcher",
+  "sources": {
+    "base_stats": "juanweih0424/wuwa_db",
+    "growth_curve": "Dimbreath/WutheringData ConfigDB/RolePropertyGrowth.json",
+    "passives": "Dimbreath/WutheringData ConfigDB/SkillTree.json + public data"
+  },
+  "growth_curve": [
+    {
+      "lv": 1,
+      "breach": 0,
+      "hp": 10000,
+      "atk": 10000,
+      "def": 10000
+    },
+    {
+      "lv": 2,
+      "breach": 0,
+      "hp": 10842,
+      "atk": 10842,
+      "def": 10823
+    },
+    {
+      "lv": 3,
+      "breach": 0,
+      "hp": 11685,
+      "atk": 11685,
+      "def": 11647
+    },
+    {
+      "lv": 4,
+      "breach": 0,
+      "hp": 12528,
+      "atk": 12528,
+      "def": 12471
+    },
+    {
+      "lv": 5,
+      "breach": 0,
+      "hp": 13370,
+      "atk": 13370,
+      "def": 13295
+    },
+    {
+      "lv": 6,
+      "breach": 0,
+      "hp": 14213,
+      "atk": 14213,
+      "def": 14119
+    },
+    {
+      "lv": 7,
+      "breach": 0,
+      "hp": 15056,
+      "atk": 15056,
+      "def": 14943
+    },
+    {
+      "lv": 8,
+      "breach": 0,
+      "hp": 15898,
+      "atk": 15898,
+      "def": 15767
+    },
+    {
+      "lv": 9,
+      "breach": 0,
+      "hp": 16741,
+      "atk": 16741,
+      "def": 16591
+    },
+    {
+      "lv": 10,
+      "breach": 0,
+      "hp": 17584,
+      "atk": 17584,
+      "def": 17415
+    },
+    {
+      "lv": 11,
+      "breach": 0,
+      "hp": 18426,
+      "atk": 18426,
+      "def": 18239
+    },
+    {
+      "lv": 12,
+      "breach": 0,
+      "hp": 19269,
+      "atk": 19269,
+      "def": 19063
+    },
+    {
+      "lv": 13,
+      "breach": 0,
+      "hp": 20112,
+      "atk": 20112,
+      "def": 19887
+    },
+    {
+      "lv": 14,
+      "breach": 0,
+      "hp": 20955,
+      "atk": 20955,
+      "def": 20711
+    },
+    {
+      "lv": 15,
+      "breach": 0,
+      "hp": 21797,
+      "atk": 21797,
+      "def": 21535
+    },
+    {
+      "lv": 16,
+      "breach": 0,
+      "hp": 22640,
+      "atk": 22640,
+      "def": 22359
+    },
+    {
+      "lv": 17,
+      "breach": 0,
+      "hp": 23483,
+      "atk": 23483,
+      "def": 23183
+    },
+    {
+      "lv": 18,
+      "breach": 0,
+      "hp": 24325,
+      "atk": 24325,
+      "def": 24007
+    },
+    {
+      "lv": 19,
+      "breach": 0,
+      "hp": 25168,
+      "atk": 25168,
+      "def": 24831
+    },
+    {
+      "lv": 20,
+      "breach": 0,
+      "hp": 26011,
+      "atk": 26011,
+      "def": 25655
+    },
+    {
+      "lv": 20,
+      "breach": 1,
+      "hp": 32677,
+      "atk": 33511,
+      "def": 32136
+    },
+    {
+      "lv": 21,
+      "breach": 0,
+      "hp": 33520,
+      "atk": 34353,
+      "def": 32960
+    },
+    {
+      "lv": 22,
+      "breach": 0,
+      "hp": 34363,
+      "atk": 35196,
+      "def": 33784
+    },
+    {
+      "lv": 23,
+      "breach": 0,
+      "hp": 35205,
+      "atk": 36039,
+      "def": 34608
+    },
+    {
+      "lv": 24,
+      "breach": 0,
+      "hp": 36048,
+      "atk": 36882,
+      "def": 35432
+    },
+    {
+      "lv": 25,
+      "breach": 0,
+      "hp": 36891,
+      "atk": 37724,
+      "def": 36256
+    },
+    {
+      "lv": 26,
+      "breach": 0,
+      "hp": 37734,
+      "atk": 38567,
+      "def": 37080
+    },
+    {
+      "lv": 27,
+      "breach": 0,
+      "hp": 38576,
+      "atk": 39410,
+      "def": 37904
+    },
+    {
+      "lv": 28,
+      "breach": 0,
+      "hp": 39419,
+      "atk": 40252,
+      "def": 38728
+    },
+    {
+      "lv": 29,
+      "breach": 0,
+      "hp": 40262,
+      "atk": 41095,
+      "def": 39552
+    },
+    {
+      "lv": 30,
+      "breach": 0,
+      "hp": 41104,
+      "atk": 41938,
+      "def": 40376
+    },
+    {
+      "lv": 31,
+      "breach": 0,
+      "hp": 41947,
+      "atk": 42780,
+      "def": 41200
+    },
+    {
+      "lv": 32,
+      "breach": 0,
+      "hp": 42790,
+      "atk": 43623,
+      "def": 42024
+    },
+    {
+      "lv": 33,
+      "breach": 0,
+      "hp": 43632,
+      "atk": 44466,
+      "def": 42848
+    },
+    {
+      "lv": 34,
+      "breach": 0,
+      "hp": 44475,
+      "atk": 45308,
+      "def": 43672
+    },
+    {
+      "lv": 35,
+      "breach": 0,
+      "hp": 45318,
+      "atk": 46151,
+      "def": 44496
+    },
+    {
+      "lv": 36,
+      "breach": 0,
+      "hp": 46161,
+      "atk": 46994,
+      "def": 45320
+    },
+    {
+      "lv": 37,
+      "breach": 0,
+      "hp": 47003,
+      "atk": 47837,
+      "def": 46144
+    },
+    {
+      "lv": 38,
+      "breach": 0,
+      "hp": 47846,
+      "atk": 48679,
+      "def": 46968
+    },
+    {
+      "lv": 39,
+      "breach": 0,
+      "hp": 48689,
+      "atk": 49522,
+      "def": 47792
+    },
+    {
+      "lv": 40,
+      "breach": 0,
+      "hp": 49531,
+      "atk": 50365,
+      "def": 48616
+    },
+    {
+      "lv": 40,
+      "breach": 1,
+      "hp": 56198,
+      "atk": 57865,
+      "def": 55097
+    },
+    {
+      "lv": 41,
+      "breach": 0,
+      "hp": 57041,
+      "atk": 58707,
+      "def": 55921
+    },
+    {
+      "lv": 42,
+      "breach": 0,
+      "hp": 57883,
+      "atk": 59550,
+      "def": 56745
+    },
+    {
+      "lv": 43,
+      "breach": 0,
+      "hp": 58726,
+      "atk": 60393,
+      "def": 57569
+    },
+    {
+      "lv": 44,
+      "breach": 0,
+      "hp": 59569,
+      "atk": 61235,
+      "def": 58393
+    },
+    {
+      "lv": 45,
+      "breach": 0,
+      "hp": 60411,
+      "atk": 62078,
+      "def": 59217
+    },
+    {
+      "lv": 46,
+      "breach": 0,
+      "hp": 61254,
+      "atk": 62921,
+      "def": 60041
+    },
+    {
+      "lv": 47,
+      "breach": 0,
+      "hp": 62097,
+      "atk": 63764,
+      "def": 60865
+    },
+    {
+      "lv": 48,
+      "breach": 0,
+      "hp": 62940,
+      "atk": 64606,
+      "def": 61689
+    },
+    {
+      "lv": 49,
+      "breach": 0,
+      "hp": 63782,
+      "atk": 65449,
+      "def": 62513
+    },
+    {
+      "lv": 50,
+      "breach": 0,
+      "hp": 64625,
+      "atk": 66292,
+      "def": 63337
+    },
+    {
+      "lv": 50,
+      "breach": 1,
+      "hp": 71292,
+      "atk": 73792,
+      "def": 69818
+    },
+    {
+      "lv": 51,
+      "breach": 0,
+      "hp": 72134,
+      "atk": 74634,
+      "def": 70642
+    },
+    {
+      "lv": 52,
+      "breach": 0,
+      "hp": 72977,
+      "atk": 75477,
+      "def": 71466
+    },
+    {
+      "lv": 53,
+      "breach": 0,
+      "hp": 73820,
+      "atk": 76320,
+      "def": 72290
+    },
+    {
+      "lv": 54,
+      "breach": 0,
+      "hp": 74662,
+      "atk": 77162,
+      "def": 73114
+    },
+    {
+      "lv": 55,
+      "breach": 0,
+      "hp": 75505,
+      "atk": 78005,
+      "def": 73938
+    },
+    {
+      "lv": 56,
+      "breach": 0,
+      "hp": 76348,
+      "atk": 78848,
+      "def": 74762
+    },
+    {
+      "lv": 57,
+      "breach": 0,
+      "hp": 77191,
+      "atk": 79691,
+      "def": 75586
+    },
+    {
+      "lv": 58,
+      "breach": 0,
+      "hp": 78033,
+      "atk": 80533,
+      "def": 76410
+    },
+    {
+      "lv": 59,
+      "breach": 0,
+      "hp": 78876,
+      "atk": 81376,
+      "def": 77234
+    },
+    {
+      "lv": 60,
+      "breach": 0,
+      "hp": 79719,
+      "atk": 82219,
+      "def": 78058
+    },
+    {
+      "lv": 60,
+      "breach": 1,
+      "hp": 86385,
+      "atk": 89719,
+      "def": 84540
+    },
+    {
+      "lv": 61,
+      "breach": 0,
+      "hp": 87228,
+      "atk": 90561,
+      "def": 85364
+    },
+    {
+      "lv": 62,
+      "breach": 0,
+      "hp": 88071,
+      "atk": 91404,
+      "def": 86188
+    },
+    {
+      "lv": 63,
+      "breach": 0,
+      "hp": 88913,
+      "atk": 92247,
+      "def": 87012
+    },
+    {
+      "lv": 64,
+      "breach": 0,
+      "hp": 89756,
+      "atk": 93089,
+      "def": 87836
+    },
+    {
+      "lv": 65,
+      "breach": 0,
+      "hp": 90599,
+      "atk": 93932,
+      "def": 88660
+    },
+    {
+      "lv": 66,
+      "breach": 0,
+      "hp": 91441,
+      "atk": 94775,
+      "def": 89483
+    },
+    {
+      "lv": 67,
+      "breach": 0,
+      "hp": 92284,
+      "atk": 95617,
+      "def": 90307
+    },
+    {
+      "lv": 68,
+      "breach": 0,
+      "hp": 93127,
+      "atk": 96460,
+      "def": 91131
+    },
+    {
+      "lv": 69,
+      "breach": 0,
+      "hp": 93970,
+      "atk": 97303,
+      "def": 91955
+    },
+    {
+      "lv": 70,
+      "breach": 0,
+      "hp": 94812,
+      "atk": 98146,
+      "def": 92779
+    },
+    {
+      "lv": 70,
+      "breach": 1,
+      "hp": 101479,
+      "atk": 103146,
+      "def": 99261
+    },
+    {
+      "lv": 71,
+      "breach": 0,
+      "hp": 102322,
+      "atk": 103988,
+      "def": 100085
+    },
+    {
+      "lv": 72,
+      "breach": 0,
+      "hp": 103164,
+      "atk": 104831,
+      "def": 100909
+    },
+    {
+      "lv": 73,
+      "breach": 0,
+      "hp": 104007,
+      "atk": 105674,
+      "def": 101733
+    },
+    {
+      "lv": 74,
+      "breach": 0,
+      "hp": 104850,
+      "atk": 106516,
+      "def": 102557
+    },
+    {
+      "lv": 75,
+      "breach": 0,
+      "hp": 105692,
+      "atk": 107359,
+      "def": 103381
+    },
+    {
+      "lv": 76,
+      "breach": 0,
+      "hp": 106535,
+      "atk": 108202,
+      "def": 104205
+    },
+    {
+      "lv": 77,
+      "breach": 0,
+      "hp": 107378,
+      "atk": 109044,
+      "def": 105029
+    },
+    {
+      "lv": 78,
+      "breach": 0,
+      "hp": 108220,
+      "atk": 109887,
+      "def": 105853
+    },
+    {
+      "lv": 79,
+      "breach": 0,
+      "hp": 109063,
+      "atk": 110730,
+      "def": 106677
+    },
+    {
+      "lv": 80,
+      "breach": 0,
+      "hp": 109906,
+      "atk": 111573,
+      "def": 107501
+    },
+    {
+      "lv": 80,
+      "breach": 1,
+      "hp": 116573,
+      "atk": 116573,
+      "def": 113982
+    },
+    {
+      "lv": 81,
+      "breach": 0,
+      "hp": 117415,
+      "atk": 117415,
+      "def": 114806
+    },
+    {
+      "lv": 82,
+      "breach": 0,
+      "hp": 118258,
+      "atk": 118258,
+      "def": 115630
+    },
+    {
+      "lv": 83,
+      "breach": 0,
+      "hp": 119101,
+      "atk": 119101,
+      "def": 116454
+    },
+    {
+      "lv": 84,
+      "breach": 0,
+      "hp": 119943,
+      "atk": 119943,
+      "def": 117278
+    },
+    {
+      "lv": 85,
+      "breach": 0,
+      "hp": 120786,
+      "atk": 120786,
+      "def": 118102
+    },
+    {
+      "lv": 86,
+      "breach": 0,
+      "hp": 121629,
+      "atk": 121629,
+      "def": 118926
+    },
+    {
+      "lv": 87,
+      "breach": 0,
+      "hp": 122471,
+      "atk": 122471,
+      "def": 119750
+    },
+    {
+      "lv": 88,
+      "breach": 0,
+      "hp": 123314,
+      "atk": 123314,
+      "def": 120574
+    },
+    {
+      "lv": 89,
+      "breach": 0,
+      "hp": 124157,
+      "atk": 124157,
+      "def": 121398
+    },
+    {
+      "lv": 90,
+      "breach": 0,
+      "hp": 125000,
+      "atk": 125000,
+      "def": 122222
+    }
+  ],
+  "characters": [
+    {
+      "id": "Rover (Spectro)",
+      "hp_base": 912,
+      "hp_max": 11400,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 112,
+      "def_max": 1369,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Rover (Havoc)",
+      "hp_base": 816,
+      "hp_max": 10825,
+      "atk_base": 33,
+      "atk_max": 413,
+      "def_base": 103,
+      "def_max": 1259,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "HavocDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Rover (Aero)",
+      "hp_base": 862,
+      "hp_max": 10775,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 93,
+      "def_max": 1137,
+      "crit_rate": 0.05,
+      "crit_dmg": 0.5,
+      "energy_regen": 125,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Jianxin",
+      "hp_base": 1129,
+      "hp_max": 14113,
+      "atk_base": 27,
+      "atk_max": 338,
+      "def_base": 92,
+      "def_max": 1124,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 150,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Lingyang",
+      "hp_base": 831,
+      "hp_max": 10388,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 99,
+      "def_max": 1210,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "GlacioDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Calcharo",
+      "hp_base": 840,
+      "hp_max": 10500,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 97,
+      "def_max": 1186,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "ATK%": 12.0,
+        "DC": 16.0
+      }
+    },
+    {
+      "id": "Verina",
+      "hp_base": 1139,
+      "hp_max": 14238,
+      "atk_base": 27,
+      "atk_max": 338,
+      "def_base": 90,
+      "def_max": 1100,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 175,
+      "passives": {
+        "HealBonus": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Encore",
+      "hp_base": 841,
+      "hp_max": 10513,
+      "atk_base": 34,
+      "atk_max": 425,
+      "def_base": 102,
+      "def_max": 1247,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Yuanwu",
+      "hp_base": 682,
+      "hp_max": 8525,
+      "atk_base": 18,
+      "atk_max": 225,
+      "def_base": 134,
+      "def_max": 1638,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "ElectroDMG": 12.0,
+        "DEF%": 15.2
+      }
+    },
+    {
+      "id": "Taoqi",
+      "hp_base": 716,
+      "hp_max": 8950,
+      "atk_base": 18,
+      "atk_max": 225,
+      "def_base": 128,
+      "def_max": 1564,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "HavocDMG": 12.0,
+        "DEF%": 15.2
+      }
+    },
+    {
+      "id": "Sanhua",
+      "hp_base": 805,
+      "hp_max": 10063,
+      "atk_base": 22,
+      "atk_max": 275,
+      "def_base": 77,
+      "def_max": 941,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "GlacioDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Mortefi",
+      "hp_base": 802,
+      "hp_max": 10025,
+      "atk_base": 20,
+      "atk_max": 250,
+      "def_base": 93,
+      "def_max": 1137,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Danjin",
+      "hp_base": 755,
+      "hp_max": 9438,
+      "atk_base": 21,
+      "atk_max": 263,
+      "def_base": 94,
+      "def_max": 1149,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "HavocDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Chixia",
+      "hp_base": 727,
+      "hp_max": 9088,
+      "atk_base": 24,
+      "atk_max": 300,
+      "def_base": 78,
+      "def_max": 953,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 150,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Baizhi",
+      "hp_base": 1025,
+      "hp_max": 12813,
+      "atk_base": 17,
+      "atk_max": 213,
+      "def_base": 82,
+      "def_max": 1002,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 175,
+      "passives": {
+        "HealBonus": 12.0,
+        "HP%": 12.0
+      }
+    },
+    {
+      "id": "Yangyang",
+      "hp_base": 816,
+      "hp_max": 10200,
+      "atk_base": 20,
+      "atk_max": 250,
+      "def_base": 90,
+      "def_max": 1100,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Aalto",
+      "hp_base": 788,
+      "hp_max": 9850,
+      "atk_base": 21,
+      "atk_max": 263,
+      "def_base": 88,
+      "def_max": 1076,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 150,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Jiyan",
+      "hp_base": 839,
+      "hp_max": 10488,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 97,
+      "def_max": 1186,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Yinlin",
+      "hp_base": 880,
+      "hp_max": 11000,
+      "atk_base": 32,
+      "atk_max": 400,
+      "def_base": 105,
+      "def_max": 1283,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Jinhsi",
+      "hp_base": 866,
+      "hp_max": 10825,
+      "atk_base": 33,
+      "atk_max": 413,
+      "def_base": 103,
+      "def_max": 1259,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 150,
+      "passives": {
+        "SpectroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Changli",
+      "hp_base": 831,
+      "hp_max": 10388,
+      "atk_base": 37,
+      "atk_max": 463,
+      "def_base": 90,
+      "def_max": 1100,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Zhezhi",
+      "hp_base": 980,
+      "hp_max": 12250,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 98,
+      "def_max": 1198,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Xiangli Yao",
+      "hp_base": 850,
+      "hp_max": 10625,
+      "atk_base": 34,
+      "atk_max": 425,
+      "def_base": 100,
+      "def_max": 1222,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Shorekeeper",
+      "hp_base": 1337,
+      "hp_max": 16713,
+      "atk_base": 23,
+      "atk_max": 288,
+      "def_base": 90,
+      "def_max": 1100,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 175,
+      "passives": {
+        "HealBonus": 12.0,
+        "HP%": 12.0
+      }
+    },
+    {
+      "id": "Youhu",
+      "hp_base": 798,
+      "hp_max": 9975,
+      "atk_base": 21,
+      "atk_max": 263,
+      "def_base": 86,
+      "def_max": 1051,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Camellya",
+      "hp_base": 826,
+      "hp_max": 10325,
+      "atk_base": 36,
+      "atk_max": 450,
+      "def_base": 95,
+      "def_max": 1161,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Lumi",
+      "hp_base": 680,
+      "hp_max": 8500,
+      "atk_base": 27,
+      "atk_max": 338,
+      "def_base": 72,
+      "def_max": 880,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "ElectroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Carlotta",
+      "hp_base": 996,
+      "hp_max": 12450,
+      "atk_base": 37,
+      "atk_max": 463,
+      "def_base": 98,
+      "def_max": 1198,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Roccia",
+      "hp_base": 980,
+      "hp_max": 12250,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 98,
+      "def_max": 1198,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Phoebe",
+      "hp_base": 866,
+      "hp_max": 10825,
+      "atk_base": 33,
+      "atk_max": 413,
+      "def_base": 103,
+      "def_max": 1259,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Brant",
+      "hp_base": 934,
+      "hp_max": 11675,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 107,
+      "def_max": 1308,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 175,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Cantarella",
+      "hp_base": 928,
+      "hp_max": 11600,
+      "atk_base": 32,
+      "atk_max": 400,
+      "def_base": 90,
+      "def_max": 1100,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Zani",
+      "hp_base": 862,
+      "hp_max": 10775,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 93,
+      "def_max": 1137,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Ciaccona",
+      "hp_base": 979,
+      "hp_max": 12238,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 98,
+      "def_max": 1198,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Cartethyia",
+      "hp_base": 1184,
+      "hp_max": 14800,
+      "atk_base": 25,
+      "atk_max": 313,
+      "def_base": 50,
+      "def_max": 611,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "AeroDMG": 12.0,
+        "HP%": 12.0
+      }
+    },
+    {
+      "id": "Lupa",
+      "hp_base": 953,
+      "hp_max": 11913,
+      "atk_base": 31,
+      "atk_max": 388,
+      "def_base": 97,
+      "def_max": 1186,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Phrolova",
+      "hp_base": 862,
+      "hp_max": 10775,
+      "atk_base": 35,
+      "atk_max": 438,
+      "def_base": 93,
+      "def_max": 1137,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Augusta",
+      "hp_base": 824,
+      "hp_max": 10300,
+      "atk_base": 37,
+      "atk_max": 463,
+      "def_base": 91,
+      "def_max": 1112,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "ElectroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Chisa",
+      "hp_base": 826,
+      "hp_max": 10325,
+      "atk_base": 36,
+      "atk_max": 450,
+      "def_base": 95,
+      "def_max": 1161,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "HavocDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Buling",
+      "hp_base": 850,
+      "hp_max": 10625,
+      "atk_base": 18,
+      "atk_max": 225,
+      "def_base": 103,
+      "def_max": 1258,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "HealBonus": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Iuno",
+      "hp_base": 842,
+      "hp_max": 10525,
+      "atk_base": 36,
+      "atk_max": 450,
+      "def_base": 92,
+      "def_max": 1124,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 125,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Qiuyuan",
+      "hp_base": 839,
+      "hp_max": 10487,
+      "atk_base": 35,
+      "atk_max": 437,
+      "def_base": 97,
+      "def_max": 1185,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Sigrika",
+      "hp_base": 0,
+      "hp_max": 0,
+      "atk_base": 0,
+      "atk_max": 0,
+      "def_base": 0,
+      "def_max": 0,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "AeroDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Aemeath",
+      "hp_base": 953,
+      "hp_max": 11912,
+      "atk_base": 31,
+      "atk_max": 387,
+      "def_base": 97,
+      "def_max": 1185,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "FusionDMG": 12.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Galbrena",
+      "hp_base": 824,
+      "hp_max": 10300,
+      "atk_base": 37,
+      "atk_max": 462,
+      "def_base": 91,
+      "def_max": 1112,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "DC": 16.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Mornye",
+      "hp_base": 934,
+      "hp_max": 11675,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 107,
+      "def_max": 1307,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "FusionDMG": 12.0,
+        "DEF%": 15.2
+      }
+    },
+    {
+      "id": "Luuk Herssen",
+      "hp_base": 824,
+      "hp_max": 10300,
+      "atk_base": 37,
+      "atk_max": 462,
+      "def_base": 91,
+      "def_max": 1112,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    },
+    {
+      "id": "Lynae",
+      "hp_base": 979,
+      "hp_max": 12237,
+      "atk_base": 30,
+      "atk_max": 375,
+      "def_base": 98,
+      "def_max": 1197,
+      "crit_rate": 0.05,
+      "crit_dmg": 1.5,
+      "energy_regen": 100,
+      "passives": {
+        "CC": 8.0,
+        "ATK%": 12.0
+      }
+    }
+  ]
+}
