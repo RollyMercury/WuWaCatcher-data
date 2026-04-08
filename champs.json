@@ -28,7 +28,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Emerald of Genesis"
   },
   {
     "id": "Rover (Havoc)",
@@ -59,7 +60,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Blazing Brilliance"
   },
   {
     "id": "Rover (Aero)",
@@ -90,7 +92,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Bloodpact's Pledge"
   },
   {
     "id": "Jianxin",
@@ -121,7 +124,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Abyss Surges"
   },
   {
     "id": "Lingyang",
@@ -152,7 +156,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Abyss Surges"
   },
   {
     "id": "Calcharo",
@@ -183,7 +188,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Ages of Harvest"
   },
   {
     "id": "Verina",
@@ -214,7 +220,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Variation"
   },
   {
     "id": "Encore",
@@ -245,7 +252,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Stringmaster"
   },
   {
     "id": "Yuanwu",
@@ -276,7 +284,8 @@
         "lv1": 2.28,
         "lv2": 5.32
       }
-    }
+    },
+    "bestWeapon": "Amity Accord"
   },
   {
     "id": "Taoqi",
@@ -307,7 +316,8 @@
         "lv1": 2.28,
         "lv2": 5.32
       }
-    }
+    },
+    "bestWeapon": "Discord"
   },
   {
     "id": "Sanhua",
@@ -338,7 +348,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Emerald of Genesis"
   },
   {
     "id": "Mortefi",
@@ -369,7 +380,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Static Mist"
   },
   {
     "id": "Danjin",
@@ -400,7 +412,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Emerald of Genesis"
   },
   {
     "id": "Chixia",
@@ -431,7 +444,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Static Mist"
   },
   {
     "id": "Baizhi",
@@ -462,7 +476,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Variation"
   },
   {
     "id": "Yangyang",
@@ -493,7 +508,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Emerald of Genesis"
   },
   {
     "id": "Aalto",
@@ -524,7 +540,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Static Mist"
   },
   {
     "id": "Jiyan",
@@ -555,7 +572,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Verdant Summit"
   },
   {
     "id": "Yinlin",
@@ -586,7 +604,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Stringmaster"
   },
   {
     "id": "Jinhsi",
@@ -617,7 +636,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Ages of Harvest"
   },
   {
     "id": "Changli",
@@ -648,7 +668,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Blazing Brilliance"
   },
   {
     "id": "Zhezhi",
@@ -679,7 +700,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Rime-Draped Sprouts"
   },
   {
     "id": "Xiangli Yao",
@@ -710,7 +732,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Verity's Handle"
   },
   {
     "id": "Shorekeeper",
@@ -741,7 +764,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Stellar Symphony"
   },
   {
     "id": "Youhu",
@@ -772,7 +796,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Abyss Surges"
   },
   {
     "id": "Camellya",
@@ -803,7 +828,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Red Spring"
   },
   {
     "id": "Lumi",
@@ -834,7 +860,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Ages of Harvest"
   },
   {
     "id": "Carlotta",
@@ -865,7 +892,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "The Last Dance"
   },
   {
     "id": "Roccia",
@@ -896,7 +924,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Tragicomedy"
   },
   {
     "id": "Phoebe",
@@ -927,7 +956,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Luminous Hymn"
   },
   {
     "id": "Brant",
@@ -958,7 +988,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Unflickering Valor"
   },
   {
     "id": "Cantarella",
@@ -989,7 +1020,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Whispers of Sirens"
   },
   {
     "id": "Zani",
@@ -1020,7 +1052,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Blazing Justice"
   },
   {
     "id": "Ciaccona",
@@ -1051,7 +1084,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Woodland Aria"
   },
   {
     "id": "Cartethyia",
@@ -1082,7 +1116,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Defier's Thorn"
   },
   {
     "id": "Lupa",
@@ -1113,7 +1148,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Wildfire Mark"
   },
   {
     "id": "Phrolova",
@@ -1144,7 +1180,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Lethean Elegy"
   },
   {
     "id": "Augusta",
@@ -1175,7 +1212,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Thunderflare Dominion"
   },
   {
     "id": "Chisa",
@@ -1206,7 +1244,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Kumokiri"
   },
   {
     "id": "Buling",
@@ -1237,7 +1276,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Cosmic Ripples"
   },
   {
     "id": "Iuno",
@@ -1268,7 +1308,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Moongazer's Sigil"
   },
   {
     "id": "Qiuyuan",
@@ -1299,7 +1340,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Emerald Sentence"
   },
   {
     "id": "Sigrika",
@@ -1330,7 +1372,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Solsworn Ciphers"
   },
   {
     "id": "Aemeath",
@@ -1361,7 +1404,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Everbright Polestar"
   },
   {
     "id": "Galbrena",
@@ -1392,7 +1436,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Lux & Umbra"
   },
   {
     "id": "Mornye",
@@ -1423,7 +1468,8 @@
         "lv1": 2.28,
         "lv2": 5.32
       }
-    }
+    },
+    "bestWeapon": "Starfield Calibrator"
   },
   {
     "id": "Luuk Herssen",
@@ -1454,7 +1500,8 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
+    },
+    "bestWeapon": "Daybreaker's Spine"
   },
   {
     "id": "Lynae",
@@ -1485,37 +1532,7 @@
         "lv1": 1.8,
         "lv2": 4.2
       }
-    }
-  },
-  {
-    "id": "Geshu Lin",
-    "name": {
-      "en": "Geshu Lin",
-      "fr": "Geshu Lin"
     },
-    "element": "Havoc",
-    "weapon": "BroadBlade",
-    "stat": "ATK",
-    "base_hp": 802,
-    "max_hp": 10825,
-    "base_atk": 33,
-    "max_atk": 445,
-    "base_def": 102,
-    "max_def": 1377,
-    "crit_rate": 5.0,
-    "crit_dmg": 150.0,
-    "energy_regen": 100.0,
-    "passives": {
-      "spe15": {
-        "stat": "CC",
-        "lv1": 1.2,
-        "lv2": 2.8
-      },
-      "spe24": {
-        "stat": "ATK%",
-        "lv1": 1.8,
-        "lv2": 4.2
-      }
-    }
+    "bestWeapon": "Spectrum Blaster"
   }
 ]

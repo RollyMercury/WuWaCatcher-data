@@ -1,50 +1,722 @@
 [
-  {"name":"Aalto","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"CC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Aemeath","sonataSet":"Trailblazing Star","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Augusta","sonataSet":"Crown of Valor+Void Thunder","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Electro%","echoMainE1":"Atk%"},
-  {"name":"Baizhi","sonataSet":"Rejuvenating Glow","substatPriority":["Hp","Hp%","Def%","RR","Atk"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Hp%"},
-  {"name":"Brant","sonataSet":"Tidebreaking Courage","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"RR","echoMainE1":"Atk%"},
-  {"name":"Buling","sonataSet":"Rejuvenating Glow","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Atk%"},
-  {"name":"Calcharo","sonataSet":"Void Thunder","substatPriority":["Atk","Atk%","CC","DC","An"],"echoMainE4":"CC","echoMainE3":"Electro%","echoMainE1":"Atk%"},
-  {"name":"Camellya","sonataSet":"Havoc Eclipse","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Cantarella","sonataSet":"Midnight Veil","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Carlotta","sonataSet":"Frosty Resolve","substatPriority":["Atk","Atk%","CC","DC","Lib"],"echoMainE4":"CC","echoMainE3":"Glacio%","echoMainE1":"Atk%"},
-  {"name":"Cartethyia","sonataSet":"Windward Pilgrimage","substatPriority":["Atk","Hp%","Atk%","CC","DC"],"echoMainE4":"CC","echoMainE3":"Aero%","echoMainE1":"Hp%"},
-  {"name":"Changli","sonataSet":"Molten Rift","substatPriority":["Atk%","CC","DC","Comp","Lib"],"echoMainE4":"CC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Chisa","sonataSet":"Thread of Severed Fate+Havoc Eclipse","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"DC","echoMainE3":"Atk%","echoMainE1":"Atk%"},
-  {"name":"Chixia","sonataSet":"Molten Rift","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Ciaccona","sonataSet":"Gusts of Welkin","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Danjin","sonataSet":"Havoc Eclipse","substatPriority":["Atk","Atk%","CC","DC","Comp"],"echoMainE4":"CC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Encore","sonataSet":"Molten Rift","substatPriority":["Atk","Atk%","CC","DC","Comp"],"echoMainE4":"DC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Galbrena","sonataSet":"Flamewing's Shadow+Flaming Clawprint","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"CC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Iuno","sonataSet":"Crown of Valor+Sierra Gale","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"DC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Jianxin","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","Comp","CC","DC"],"echoMainE4":"DC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Jinhsi","sonataSet":"Celestial Light","substatPriority":["Atk","Atk%","CC","DC","Comp"],"echoMainE4":"DC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Jiyan","sonataSet":"Sierra Gale","substatPriority":["Atk","Atk%","CC","DC","Al"],"echoMainE4":"CC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Lingyang","sonataSet":"Frosty Resolve","substatPriority":["Atk","Atk%","CC","DC","An"],"echoMainE4":"CC","echoMainE3":"Glacio%","echoMainE1":"Atk%"},
-  {"name":"Lumi","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"CC","echoMainE3":"Electro%","echoMainE1":"Atk%"},
-  {"name":"Lupa","sonataSet":"Flaming Clawprint","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Luuk Herssen","sonataSet":"Rite of Gilded Revelation","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Lynae","sonataSet":"Pact of Neonlight Leap","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Mornye","sonataSet":"Halo of Starry Radiance","substatPriority":["Atk%","Def%","CC","DC","RR"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Def%"},
-  {"name":"Mortefi","sonataSet":"Empyrean Anthem","substatPriority":["Atk%","CC","DC","Comp","Atk"],"echoMainE4":"DC","echoMainE3":"Fusion%","echoMainE1":"Atk%"},
-  {"name":"Rover (Aero)","sonataSet":"Windward Pilgrimage","substatPriority":["Atk","Atk%","CC","DC","Comp"],"echoMainE4":"CC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Rover (Havoc)","sonataSet":"Havoc Eclipse","substatPriority":["Atk%","CC","DC","Comp","Lib"],"echoMainE4":"DC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Rover (Spectro)","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Phoebe","sonataSet":"Eternal Radiance","substatPriority":["Atk%","CC","DC","RR","Al"],"echoMainE4":"DC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Phrolova","sonataSet":"Dream of the Lost+Havoc Eclipse","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"DC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Qiuyuan","sonataSet":"Law of Harmony+Sierra Gale","substatPriority":["Atk","Atk%","CC","DC","-"],"echoMainE4":"DC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Roccia","sonataSet":"Midnight Veil","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Havoc%","echoMainE1":"Atk%"},
-  {"name":"Sanhua","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Glacio%","echoMainE1":"Atk%"},
-  {"name":"Shorekeeper","sonataSet":"Rejuvenating Glow","substatPriority":["Hp","Def","CC","DC","RR"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Hp%"},
-  {"name":"Sigrika","sonataSet":"Sound of True Name","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"RR","echoMainE1":"Atk%"},
-  {"name":"Taoqi","sonataSet":"Moonlit Clouds","substatPriority":["Atk%","Def%","CC","DC","Atk"],"echoMainE4":"CC","echoMainE3":"Havoc%","echoMainE1":"Def%"},
-  {"name":"Verina","sonataSet":"Rejuvenating Glow","substatPriority":["Def","Hp%","Atk%","Def%","RR"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Atk%"},
-  {"name":"Xiangli Yao","sonataSet":"Void Thunder","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"DC","echoMainE3":"Electro%","echoMainE1":"Atk%"},
-  {"name":"Yangyang","sonataSet":"Moonlit Clouds","substatPriority":["Atk%","CC","DC","An","Atk"],"echoMainE4":"DC","echoMainE3":"Aero%","echoMainE1":"Atk%"},
-  {"name":"Yinlin","sonataSet":"Moonlit Clouds","substatPriority":["Atk","Atk%","CC","DC","Comp"],"echoMainE4":"DC","echoMainE3":"Electro%","echoMainE1":"Atk%"},
-  {"name":"Youhu","sonataSet":"Rejuvenating Glow","substatPriority":["Def","Def%","CC","RR","Atk"],"echoMainE4":"Heal","echoMainE3":"RR","echoMainE1":"Atk%"},
-  {"name":"Yuanwu","sonataSet":"Empyrean Anthem","substatPriority":["Atk%","Def%","CC","DC","Atk"],"echoMainE4":"CC","echoMainE3":"Electro%","echoMainE1":"Def%"},
-  {"name":"Zani","sonataSet":"Eternal Radiance","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"Spectro%","echoMainE1":"Atk%"},
-  {"name":"Zhezhi","sonataSet":"Empyrean Anthem","substatPriority":["Atk","Atk%","CC","DC","RR"],"echoMainE4":"CC","echoMainE3":"Glacio%","echoMainE1":"Atk%"}
+  {
+    "name": "Aalto",
+    "sonataSet": "Moonlit Clouds",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Aemeath",
+    "sonataSet": "Trailblazing Star",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Augusta",
+    "sonataSet": "Crown of Valor",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Baizhi",
+    "sonataSet": "Rejuvenating Glow",
+    "substatPriority": [
+      "Hp%",
+      "Hp",
+      "Def%",
+      "RR",
+      "Def"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "Hp%",
+    "echoMainE1": "Hp%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Brant",
+    "sonataSet": "Tidebreaking Courage",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Buling",
+    "sonataSet": "Rejuvenating Glow",
+    "substatPriority": [
+      "Atk%",
+      "Atk",
+      "CC",
+      "DC",
+      "RR"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "Atk%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "Atk"
+  },
+  {
+    "name": "Calcharo",
+    "sonataSet": "Void Thunder",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "An"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Camellya",
+    "sonataSet": "Havoc Eclipse",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "An"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Cantarella",
+    "sonataSet": "Midnight Veil",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Carlotta",
+    "sonataSet": "Frosty Resolve",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Comp",
+      "Atk"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Cartethyia",
+    "sonataSet": "Windward Pilgrimage",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Hp%",
+      "Atk%",
+      "Atk"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Hp%",
+    "weaponStat": "HP"
+  },
+  {
+    "name": "Changli",
+    "sonataSet": "Molten Rift",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Comp",
+      "Lib"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Chisa",
+    "sonataSet": "Thread of Severed Fate",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Chixia",
+    "sonataSet": "Molten Rift",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Ciaccona",
+    "sonataSet": "Gusts of Welkin",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Danjin",
+    "sonataSet": "Havoc Eclipse",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Encore",
+    "sonataSet": "Molten Rift",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Galbrena",
+    "sonataSet": "Flamewing's Shadow",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Iuno",
+    "sonataSet": "Crown of Valor",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Jianxin",
+    "sonataSet": "Moonlit Clouds",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "Atk"
+  },
+  {
+    "name": "Jinhsi",
+    "sonataSet": "Celestial Light",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Jiyan",
+    "sonataSet": "Sierra Gale",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Al"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Lingyang",
+    "sonataSet": "Freezing Frost",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "An"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "Atk"
+  },
+  {
+    "name": "Lumi",
+    "sonataSet": "Void Thunder",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "An"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Lupa",
+    "sonataSet": "Flaming Clawprint",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Luuk Herssen",
+    "sonataSet": "Rite of Gilded Revelation",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Lynae",
+    "sonataSet": "Pact of Neonlight Leap",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Mornye",
+    "sonataSet": "Halo of Starry Radiance",
+    "substatPriority": [
+      "Atk%",
+      "Def%",
+      "CC",
+      "DC",
+      "RR"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "RR",
+    "echoMainE1": "Def%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Mortefi",
+    "sonataSet": "Empyrean Anthem",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Comp",
+      "Atk"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Fusion%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Rover (Aero)",
+    "sonataSet": "Windward Pilgrimage",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Atk%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Rover (Havoc)",
+    "sonataSet": "Havoc Eclipse",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Comp",
+      "Lib"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Rover (Spectro)",
+    "sonataSet": "Celestial Light",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Phoebe",
+    "sonataSet": "Eternal Radiance",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Al",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Phrolova",
+    "sonataSet": "Dream of the Lost",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Qiuyuan",
+    "sonataSet": "Law of Harmony",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Roccia",
+    "sonataSet": "Midnight Veil",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Sanhua",
+    "sonataSet": "Freezing Frost",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Shorekeeper",
+    "sonataSet": "Moonlit Clouds",
+    "substatPriority": [
+      "Hp%",
+      "Hp",
+      "Def%",
+      "RR",
+      "DC"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "RR",
+    "echoMainE1": "Hp%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Sigrika",
+    "sonataSet": "Sound of True Name",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Taoqi",
+    "sonataSet": "Moonlit Clouds",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Def%",
+      "Def",
+      "Atk%"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Havoc%",
+    "echoMainE1": "Def%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Verina",
+    "sonataSet": "Rejuvenating Glow",
+    "substatPriority": [
+      "Atk%",
+      "Atk",
+      "Def%",
+      "Hp%",
+      "RR"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "RR",
+    "echoMainE1": "Atk%",
+    "weaponStat": "RR"
+  },
+  {
+    "name": "Xiangli Yao",
+    "sonataSet": "Void Thunder",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Yangyang",
+    "sonataSet": "Sierra Gale",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "An",
+      "Atk"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Aero%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Yinlin",
+    "sonataSet": "Void Thunder",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "Comp"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
+  },
+  {
+    "name": "Youhu",
+    "sonataSet": "Rejuvenating Glow",
+    "substatPriority": [
+      "Def%",
+      "Def",
+      "CC",
+      "DC",
+      "RR"
+    ],
+    "echoMainE4": "Heal",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "Atk"
+  },
+  {
+    "name": "Yuanwu",
+    "sonataSet": "Moonlit Clouds",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Def%",
+      "Def",
+      "Atk%"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Electro%",
+    "echoMainE1": "Def%",
+    "weaponStat": "Def"
+  },
+  {
+    "name": "Zani",
+    "sonataSet": "Eternal Radiance",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Spectro%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  },
+  {
+    "name": "Zhezhi",
+    "sonataSet": "Empyrean Anthem",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Atk",
+      "RR"
+    ],
+    "echoMainE4": "CC",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "DC"
+  }
 ]
