@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.3.1/WuWaCatcher.exe",
-  "changelog": "Migration save v1.0.0 (anciens noms d'armes FR), correction casse perso, ajout Geshu Lin"
+  "version": "1.3.2",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.3.2/WuWaCatcher.exe",
+  "changelog": "Stats armes corrigees (courbes datamine, arrondi, Stringmaster/Woodland Aria), hotkey FR, migration v1"
 }
