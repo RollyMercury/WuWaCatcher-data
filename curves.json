@@ -683,7 +683,7 @@
     {
       "lv": 2,
       "breach": 0,
-      "ratio": 10843
+      "ratio": 10842
     },
     {
       "lv": 3,
@@ -698,7 +698,7 @@
     {
       "lv": 5,
       "breach": 0,
-      "ratio": 13371
+      "ratio": 13370
     },
     {
       "lv": 6,
@@ -713,7 +713,7 @@
     {
       "lv": 8,
       "breach": 0,
-      "ratio": 15899
+      "ratio": 15898
     },
     {
       "lv": 9,
@@ -728,12 +728,12 @@
     {
       "lv": 11,
       "breach": 0,
-      "ratio": 18427
+      "ratio": 18426
     },
     {
       "lv": 12,
       "breach": 0,
-      "ratio": 19270
+      "ratio": 19269
     },
     {
       "lv": 13,
@@ -748,7 +748,7 @@
     {
       "lv": 15,
       "breach": 0,
-      "ratio": 21798
+      "ratio": 21797
     },
     {
       "lv": 16,
@@ -763,7 +763,7 @@
     {
       "lv": 18,
       "breach": 0,
-      "ratio": 24326
+      "ratio": 24325
     },
     {
       "lv": 19,
@@ -788,7 +788,7 @@
     {
       "lv": 22,
       "breach": 1,
-      "ratio": 34362
+      "ratio": 34363
     },
     {
       "lv": 23,
@@ -803,12 +803,12 @@
     {
       "lv": 25,
       "breach": 1,
-      "ratio": 36890
+      "ratio": 36891
     },
     {
       "lv": 26,
       "breach": 1,
-      "ratio": 37733
+      "ratio": 37734
     },
     {
       "lv": 27,
@@ -823,7 +823,7 @@
     {
       "lv": 29,
       "breach": 1,
-      "ratio": 40261
+      "ratio": 40262
     },
     {
       "lv": 30,
@@ -838,7 +838,7 @@
     {
       "lv": 32,
       "breach": 1,
-      "ratio": 42789
+      "ratio": 42790
     },
     {
       "lv": 33,
@@ -858,7 +858,7 @@
     {
       "lv": 36,
       "breach": 1,
-      "ratio": 46160
+      "ratio": 46161
     },
     {
       "lv": 37,
@@ -873,286 +873,286 @@
     {
       "lv": 39,
       "breach": 1,
-      "ratio": 48688
-    },
-    {
-      "lv": 40,
-      "breach": 0,
-      "ratio": 49531
+      "ratio": 48689
     },
     {
       "lv": 40,
       "breach": 1,
       "ratio": 49531
+    },
+    {
+      "lv": 40,
+      "breach": 2,
+      "ratio": 56198
     },
     {
       "lv": 41,
-      "breach": 1,
+      "breach": 2,
       "ratio": 57041
     },
     {
       "lv": 42,
-      "breach": 1,
+      "breach": 2,
       "ratio": 57883
     },
     {
       "lv": 43,
-      "breach": 1,
+      "breach": 2,
       "ratio": 58726
     },
     {
       "lv": 44,
-      "breach": 1,
+      "breach": 2,
       "ratio": 59569
     },
     {
       "lv": 45,
-      "breach": 1,
-      "ratio": 60412
+      "breach": 2,
+      "ratio": 60411
     },
     {
       "lv": 46,
-      "breach": 1,
+      "breach": 2,
       "ratio": 61254
     },
     {
       "lv": 47,
-      "breach": 1,
+      "breach": 2,
       "ratio": 62097
     },
     {
       "lv": 48,
-      "breach": 1,
+      "breach": 2,
       "ratio": 62940
     },
     {
       "lv": 49,
-      "breach": 1,
+      "breach": 2,
       "ratio": 63782
     },
     {
       "lv": 50,
-      "breach": 0,
+      "breach": 2,
       "ratio": 64625
     },
     {
       "lv": 50,
-      "breach": 1,
-      "ratio": 64625
+      "breach": 3,
+      "ratio": 71292
     },
     {
       "lv": 51,
-      "breach": 1,
-      "ratio": 72135
+      "breach": 3,
+      "ratio": 72134
     },
     {
       "lv": 52,
-      "breach": 1,
+      "breach": 3,
       "ratio": 72977
     },
     {
       "lv": 53,
-      "breach": 1,
+      "breach": 3,
       "ratio": 73820
     },
     {
       "lv": 54,
-      "breach": 1,
-      "ratio": 74663
+      "breach": 3,
+      "ratio": 74662
     },
     {
       "lv": 55,
-      "breach": 1,
-      "ratio": 75506
+      "breach": 3,
+      "ratio": 75505
     },
     {
       "lv": 56,
-      "breach": 1,
+      "breach": 3,
       "ratio": 76348
     },
     {
       "lv": 57,
-      "breach": 1,
+      "breach": 3,
       "ratio": 77191
     },
     {
       "lv": 58,
-      "breach": 1,
-      "ratio": 78034
+      "breach": 3,
+      "ratio": 78033
     },
     {
       "lv": 59,
-      "breach": 1,
+      "breach": 3,
       "ratio": 78876
     },
     {
       "lv": 60,
-      "breach": 0,
+      "breach": 3,
       "ratio": 79719
     },
     {
       "lv": 60,
-      "breach": 1,
-      "ratio": 79719
+      "breach": 4,
+      "ratio": 86385
     },
     {
       "lv": 61,
-      "breach": 1,
+      "breach": 4,
       "ratio": 87228
     },
     {
       "lv": 62,
-      "breach": 1,
-      "ratio": 88070
+      "breach": 4,
+      "ratio": 88071
     },
     {
       "lv": 63,
-      "breach": 1,
+      "breach": 4,
       "ratio": 88913
     },
     {
       "lv": 64,
-      "breach": 1,
+      "breach": 4,
       "ratio": 89756
     },
     {
       "lv": 65,
-      "breach": 1,
-      "ratio": 90598
+      "breach": 4,
+      "ratio": 90599
     },
     {
       "lv": 66,
-      "breach": 1,
+      "breach": 4,
       "ratio": 91441
     },
     {
       "lv": 67,
-      "breach": 1,
+      "breach": 4,
       "ratio": 92284
     },
     {
       "lv": 68,
-      "breach": 1,
+      "breach": 4,
       "ratio": 93127
     },
     {
       "lv": 69,
-      "breach": 1,
-      "ratio": 93969
+      "breach": 4,
+      "ratio": 93970
     },
     {
       "lv": 70,
-      "breach": 0,
+      "breach": 4,
       "ratio": 94812
     },
     {
       "lv": 70,
-      "breach": 1,
-      "ratio": 94812
+      "breach": 5,
+      "ratio": 101479
     },
     {
       "lv": 71,
-      "breach": 1,
+      "breach": 5,
       "ratio": 102322
     },
     {
       "lv": 72,
-      "breach": 1,
+      "breach": 5,
       "ratio": 103164
     },
     {
       "lv": 73,
-      "breach": 1,
+      "breach": 5,
       "ratio": 104007
     },
     {
       "lv": 74,
-      "breach": 1,
+      "breach": 5,
       "ratio": 104850
     },
     {
       "lv": 75,
-      "breach": 1,
+      "breach": 5,
       "ratio": 105692
     },
     {
       "lv": 76,
-      "breach": 1,
+      "breach": 5,
       "ratio": 106535
     },
     {
       "lv": 77,
-      "breach": 1,
+      "breach": 5,
       "ratio": 107378
     },
     {
       "lv": 78,
-      "breach": 1,
-      "ratio": 108221
+      "breach": 5,
+      "ratio": 108220
     },
     {
       "lv": 79,
-      "breach": 1,
+      "breach": 5,
       "ratio": 109063
     },
     {
       "lv": 80,
-      "breach": 0,
+      "breach": 5,
       "ratio": 109906
     },
     {
       "lv": 80,
-      "breach": 1,
-      "ratio": 109906
+      "breach": 6,
+      "ratio": 116573
     },
     {
       "lv": 81,
-      "breach": 1,
-      "ratio": 117416
+      "breach": 6,
+      "ratio": 117415
     },
     {
       "lv": 82,
-      "breach": 1,
+      "breach": 6,
       "ratio": 118258
     },
     {
       "lv": 83,
-      "breach": 1,
+      "breach": 6,
       "ratio": 119101
     },
     {
       "lv": 84,
-      "breach": 1,
-      "ratio": 119944
+      "breach": 6,
+      "ratio": 119943
     },
     {
       "lv": 85,
-      "breach": 1,
+      "breach": 6,
       "ratio": 120786
     },
     {
       "lv": 86,
-      "breach": 1,
+      "breach": 6,
       "ratio": 121629
     },
     {
       "lv": 87,
-      "breach": 1,
-      "ratio": 122472
+      "breach": 6,
+      "ratio": 122471
     },
     {
       "lv": 88,
-      "breach": 1,
-      "ratio": 123315
+      "breach": 6,
+      "ratio": 123314
     },
     {
       "lv": 89,
-      "breach": 1,
+      "breach": 6,
       "ratio": 124157
     },
     {
       "lv": 90,
-      "breach": 1,
+      "breach": 6,
       "ratio": 125000
     }
   ],
@@ -1175,7 +1175,7 @@
     },
     {
       "lv": 5,
-      "ratio": 10000
+      "ratio": 11944
     },
     {
       "lv": 6,
@@ -1195,7 +1195,7 @@
     },
     {
       "lv": 10,
-      "ratio": 11944
+      "ratio": 13888
     },
     {
       "lv": 11,
@@ -1215,7 +1215,7 @@
     },
     {
       "lv": 15,
-      "ratio": 13888
+      "ratio": 15833
     },
     {
       "lv": 16,
@@ -1235,7 +1235,7 @@
     },
     {
       "lv": 20,
-      "ratio": 15833
+      "ratio": 17777
     },
     {
       "lv": 21,
@@ -1255,7 +1255,7 @@
     },
     {
       "lv": 25,
-      "ratio": 17777
+      "ratio": 19722
     },
     {
       "lv": 26,
@@ -1275,7 +1275,7 @@
     },
     {
       "lv": 30,
-      "ratio": 19722
+      "ratio": 21666
     },
     {
       "lv": 31,
@@ -1295,7 +1295,7 @@
     },
     {
       "lv": 35,
-      "ratio": 21666
+      "ratio": 23611
     },
     {
       "lv": 36,
@@ -1315,7 +1315,7 @@
     },
     {
       "lv": 40,
-      "ratio": 23611
+      "ratio": 25555
     },
     {
       "lv": 41,
@@ -1335,7 +1335,7 @@
     },
     {
       "lv": 45,
-      "ratio": 25555
+      "ratio": 27500
     },
     {
       "lv": 46,
@@ -1355,7 +1355,7 @@
     },
     {
       "lv": 50,
-      "ratio": 27500
+      "ratio": 29444
     },
     {
       "lv": 51,
@@ -1375,7 +1375,7 @@
     },
     {
       "lv": 55,
-      "ratio": 29444
+      "ratio": 31388
     },
     {
       "lv": 56,
@@ -1395,7 +1395,7 @@
     },
     {
       "lv": 60,
-      "ratio": 31388
+      "ratio": 33333
     },
     {
       "lv": 61,
@@ -1415,7 +1415,7 @@
     },
     {
       "lv": 65,
-      "ratio": 33333
+      "ratio": 35277
     },
     {
       "lv": 66,
@@ -1435,7 +1435,7 @@
     },
     {
       "lv": 70,
-      "ratio": 35277
+      "ratio": 37222
     },
     {
       "lv": 71,
@@ -1455,7 +1455,7 @@
     },
     {
       "lv": 75,
-      "ratio": 37222
+      "ratio": 39166
     },
     {
       "lv": 76,
@@ -1475,7 +1475,7 @@
     },
     {
       "lv": 80,
-      "ratio": 39166
+      "ratio": 41111
     },
     {
       "lv": 81,
@@ -1495,7 +1495,7 @@
     },
     {
       "lv": 85,
-      "ratio": 41111
+      "ratio": 43055
     },
     {
       "lv": 86,

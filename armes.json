@@ -632,9 +632,9 @@
     "rarity": 5,
     "type": "Pistol",
     "stat": "CC",
-    "atkLv90": 587,
-    "base_atk": 47,
-    "base_sec": 0.054
+    "atkLv90": 500,
+    "base_atk": 40,
+    "base_sec": 0.08
   },
   {
     "id": "Cadenza",
@@ -1140,9 +1140,9 @@
     "rarity": 5,
     "type": "Rectifier",
     "stat": "CC",
-    "atkLv90": 587,
-    "base_atk": 47,
-    "base_sec": 0.054
+    "atkLv90": 500,
+    "base_atk": 40,
+    "base_sec": 0.08
   },
   {
     "id": "Whispers of Sirens",
