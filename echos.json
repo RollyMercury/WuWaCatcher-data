@@ -37,7 +37,7 @@
     "id": "Dreamless",
     "name": {
       "en": "Dreamless",
-      "fr": "Le Sans-dÃ©lire"
+      "fr": "Le Sans-dÃƒÂ©lire"
     },
     "cost": 4,
     "sonatas": [
@@ -74,6 +74,7 @@
     },
     "cost": 4,
     "sonatas": [
+      "Empyrean Anthem",
       "Freezing Frost",
       "Molten Rift",
       "Sierra Gale",
@@ -98,7 +99,7 @@
     "id": "Impermanence Heron",
     "name": {
       "en": "Impermanence Heron",
-      "fr": "HÃ©ron impermanent"
+      "fr": "HÃƒÂ©ron impermanent"
     },
     "cost": 4,
     "sonatas": [
@@ -117,9 +118,9 @@
     ]
   },
   {
-    "id": "JuÃ©",
+    "id": "JuÃƒÂ©",
     "name": {
-      "en": "JuÃ©",
+      "en": "JuÃƒÂ©",
       "fr": "Jiao"
     },
     "cost": 4,
@@ -175,7 +176,7 @@
     "id": "Mech Abomination",
     "name": {
       "en": "Mech Abomination",
-      "fr": "Abomination mÃ©canique"
+      "fr": "Abomination mÃƒÂ©canique"
     },
     "cost": 4,
     "sonatas": [
@@ -241,7 +242,7 @@
     "id": "Nightmare: Impermanence Heron",
     "name": {
       "en": "Nightmare: Impermanence Heron",
-      "fr": "Cauchemar : HÃ©ron impermanent"
+      "fr": "Cauchemar : HÃƒÂ©ron impermanent"
     },
     "cost": 4,
     "sonatas": [
@@ -310,7 +311,7 @@
     "id": "Nightmare: Thundering Mephis",
     "name": {
       "en": "Nightmare: Thundering Mephis",
-      "fr": "Cauchemar : Mephis Ã©clatant"
+      "fr": "Cauchemar : Mephis ÃƒÂ©clatant"
     },
     "cost": 4,
     "sonatas": [
@@ -332,7 +333,7 @@
     "id": "Phantom: Dreamless",
     "name": {
       "en": "Phantom: Dreamless",
-      "fr": "Variante : le Sans dÃ©lire"
+      "fr": "Variante : le Sans dÃƒÂ©lire"
     },
     "cost": 4,
     "sonatas": [
@@ -343,7 +344,7 @@
     "id": "Phantom: Dreamless",
     "name": {
       "en": "Phantom: Dreamless",
-      "fr": "Variante : le Sans dÃ©lire"
+      "fr": "Variante : le Sans dÃƒÂ©lire"
     },
     "cost": 4,
     "sonatas": [
@@ -376,7 +377,7 @@
     "id": "Phantom: Impermanence Heron",
     "name": {
       "en": "Phantom: Impermanence Heron",
-      "fr": "Variante : HÃ©ron impermanent"
+      "fr": "Variante : HÃƒÂ©ron impermanent"
     },
     "cost": 4,
     "sonatas": [
@@ -475,7 +476,7 @@
     "id": "Phantom: Thundering Mephis",
     "name": {
       "en": "Phantom: Thundering Mephis",
-      "fr": "Variante : Mephis Ã©clatant"
+      "fr": "Variante : Mephis ÃƒÂ©clatant"
     },
     "cost": 4,
     "sonatas": [
@@ -486,7 +487,7 @@
     "id": "Reactor Husk",
     "name": {
       "en": "Reactor Husk",
-      "fr": "Coque du rÃ©acteur"
+      "fr": "Coque du rÃƒÂ©acteur"
     },
     "cost": 4,
     "sonatas": [
@@ -498,7 +499,7 @@
     "id": "Reminiscence: Fenrico",
     "name": {
       "en": "Reminiscence: Fenrico",
-      "fr": "RÃ©sidu rÃ©sonnant : Fenrico"
+      "fr": "RÃƒÂ©sidu rÃƒÂ©sonnant : Fenrico"
     },
     "cost": 4,
     "sonatas": [
@@ -510,7 +511,7 @@
     "id": "Reminiscence: Fleurdelys",
     "name": {
       "en": "Reminiscence: Fleurdelys",
-      "fr": "RÃ©sidu rÃ©sonnant : Fleurdelys"
+      "fr": "RÃƒÂ©sidu rÃƒÂ©sonnant : Fleurdelys"
     },
     "cost": 4,
     "sonatas": [
@@ -522,7 +523,7 @@
     "id": "Reminiscence: Threnodian - Leviathan",
     "name": {
       "en": "Reminiscence: Threnodian - Leviathan",
-      "fr": "RÃ©sidu rÃ©sonnant : LÃ©viathan le RÃ©primantum"
+      "fr": "RÃƒÂ©sidu rÃƒÂ©sonnant : LÃƒÂ©viathan le RÃƒÂ©primantum"
     },
     "cost": 4,
     "sonatas": [
@@ -578,7 +579,7 @@
     "id": "Thundering Mephis",
     "name": {
       "en": "Thundering Mephis",
-      "fr": "Mephis Ã©clatant"
+      "fr": "Mephis ÃƒÂ©clatant"
     },
     "cost": 4,
     "sonatas": [
@@ -626,7 +627,7 @@
     "id": "Autopuppet Scout",
     "name": {
       "en": "Autopuppet Scout",
-      "fr": "Imitateur : VÃ©hicule de combat"
+      "fr": "Imitateur : VÃƒÂ©hicule de combat"
     },
     "cost": 3,
     "sonatas": [
@@ -663,7 +664,7 @@
     "id": "Chasm Guardian",
     "name": {
       "en": "Chasm Guardian",
-      "fr": "Gardien de l'abÃ®me"
+      "fr": "Gardien de l'abÃƒÂ®me"
     },
     "cost": 3,
     "sonatas": [
@@ -700,7 +701,7 @@
     "id": "Cuddle Wuddle",
     "name": {
       "en": "Cuddle Wuddle",
-      "fr": "Nounours gÃ©ant"
+      "fr": "Nounours gÃƒÂ©ant"
     },
     "cost": 3,
     "sonatas": [
@@ -714,7 +715,7 @@
     "id": "Cyan-Feathered Heron",
     "name": {
       "en": "Cyan-Feathered Heron",
-      "fr": "HÃ©ron cyan"
+      "fr": "HÃƒÂ©ron cyan"
     },
     "cost": 3,
     "sonatas": [
@@ -738,7 +739,7 @@
     "id": "Flautist",
     "name": {
       "en": "Flautist",
-      "fr": "FlÃ»tiste"
+      "fr": "FlÃƒÂ»tiste"
     },
     "cost": 3,
     "sonatas": [
@@ -761,7 +762,7 @@
     "id": "Frostbite Coleoid",
     "name": {
       "en": "Frostbite Coleoid",
-      "fr": "ColÃ©oÃ¯de du givre"
+      "fr": "ColÃƒÂ©oÃƒÂ¯de du givre"
     },
     "cost": 3,
     "sonatas": [
@@ -843,7 +844,7 @@
     "id": "Kerasaur",
     "name": {
       "en": "Kerasaur",
-      "fr": "KÃ©rasaure"
+      "fr": "KÃƒÂ©rasaure"
     },
     "cost": 3,
     "sonatas": [
@@ -856,7 +857,7 @@
     "id": "Kronablight",
     "name": {
       "en": "Kronablight",
-      "fr": "FlÃ©auronne"
+      "fr": "FlÃƒÂ©auronne"
     },
     "cost": 3,
     "sonatas": [
@@ -868,7 +869,7 @@
     "id": "Lightcrusher",
     "name": {
       "en": "Lightcrusher",
-      "fr": "Casseur de lumiÃ¨re"
+      "fr": "Casseur de lumiÃƒÂ¨re"
     },
     "cost": 3,
     "sonatas": [
@@ -879,7 +880,7 @@
     "id": "Lumiscale Construct",
     "name": {
       "en": "Lumiscale Construct",
-      "fr": "Golem des Ã©cailles"
+      "fr": "Golem des ÃƒÂ©cailles"
     },
     "cost": 3,
     "sonatas": [
@@ -902,7 +903,7 @@
     "id": "Nightmare: Cyan-Feathered Heron",
     "name": {
       "en": "Nightmare: Cyan-Feathered Heron",
-      "fr": "Cauchemar : HÃ©ron cyan"
+      "fr": "Cauchemar : HÃƒÂ©ron cyan"
     },
     "cost": 3,
     "sonatas": [
@@ -935,7 +936,7 @@
     "id": "Nightmare: Violet-Feathered Heron",
     "name": {
       "en": "Nightmare: Violet-Feathered Heron",
-      "fr": "Cauchemar : HÃ©ron violet"
+      "fr": "Cauchemar : HÃƒÂ©ron violet"
     },
     "cost": 3,
     "sonatas": [
@@ -946,7 +947,7 @@
     "id": "Nightmare: Viridblaze Saurian",
     "name": {
       "en": "Nightmare: Viridblaze Saurian",
-      "fr": "Cauchemar : LÃ©zard lavique vert"
+      "fr": "Cauchemar : LÃƒÂ©zard lavique vert"
     },
     "cost": 3,
     "sonatas": [
@@ -994,7 +995,7 @@
     "id": "Phantom: Cuddle Wuddle",
     "name": {
       "en": "Phantom: Cuddle Wuddle",
-      "fr": "Variante : Nounours gÃ©ant"
+      "fr": "Variante : Nounours gÃƒÂ©ant"
     },
     "cost": 3,
     "sonatas": [
@@ -1006,7 +1007,7 @@
     "id": "Phantom: Kerasaur",
     "name": {
       "en": "Phantom: Kerasaur",
-      "fr": "Variante : KÃ©rasaure"
+      "fr": "Variante : KÃƒÂ©rasaure"
     },
     "cost": 3,
     "sonatas": [
@@ -1018,7 +1019,7 @@
     "id": "Phantom: Lightcrusher",
     "name": {
       "en": "Phantom: Lightcrusher",
-      "fr": "Variante : Casseur de lumiÃ¨re"
+      "fr": "Variante : Casseur de lumiÃƒÂ¨re"
     },
     "cost": 3,
     "sonatas": [
@@ -1029,7 +1030,7 @@
     "id": "Phantom: Lumiscale Construct",
     "name": {
       "en": "Phantom: Lumiscale Construct",
-      "fr": "Variante : Golem des Ã©cailles"
+      "fr": "Variante : Golem des ÃƒÂ©cailles"
     },
     "cost": 3,
     "sonatas": [
@@ -1076,7 +1077,7 @@
     "id": "Phantom: Twin Nova - Nebulous Cannon",
     "name": {
       "en": "Phantom: Twin Nova - Nebulous Cannon",
-      "fr": "Variante - Nova jumelle : Canon nÃ©buleux"
+      "fr": "Variante - Nova jumelle : Canon nÃƒÂ©buleux"
     },
     "cost": 3,
     "sonatas": [
@@ -1099,7 +1100,7 @@
     "id": "Pilgrim's Shell",
     "name": {
       "en": "Pilgrim's Shell",
-      "fr": "Carapace du pÃ¨lerin"
+      "fr": "Carapace du pÃƒÂ¨lerin"
     },
     "cost": 3,
     "sonatas": [
@@ -1136,7 +1137,7 @@
     "id": "Reminiscence: Kronaclaw",
     "name": {
       "en": "Reminiscence: Kronaclaw",
-      "fr": "RÃ©sidu rÃ©sonnant : Griffouronne"
+      "fr": "RÃƒÂ©sidu rÃƒÂ©sonnant : Griffouronne"
     },
     "cost": 3,
     "sonatas": [
@@ -1172,7 +1173,7 @@
     "id": "Sabercat Prowler",
     "name": {
       "en": "Sabercat Prowler",
-      "fr": "RÃ´deur Ã  dents de sabre"
+      "fr": "RÃƒÂ´deur ÃƒÂ  dents de sabre"
     },
     "cost": 3,
     "sonatas": [
@@ -1185,7 +1186,7 @@
     "id": "Sabercat Reaver",
     "name": {
       "en": "Sabercat Reaver",
-      "fr": "Saccageur Ã  dents de sabre"
+      "fr": "Saccageur ÃƒÂ  dents de sabre"
     },
     "cost": 3,
     "sonatas": [
@@ -1211,7 +1212,7 @@
     "id": "Spearback",
     "name": {
       "en": "Spearback",
-      "fr": "LanÃ§ours"
+      "fr": "LanÃƒÂ§ours"
     },
     "cost": 3,
     "sonatas": [
@@ -1260,7 +1261,7 @@
     "id": "Twin Nova: Nebulous Cannon",
     "name": {
       "en": "Twin Nova: Nebulous Cannon",
-      "fr": "Nova jumelle : Canon nÃ©buleux"
+      "fr": "Nova jumelle : Canon nÃƒÂ©buleux"
     },
     "cost": 3,
     "sonatas": [
@@ -1272,7 +1273,7 @@
     "id": "Violet-Feathered Heron",
     "name": {
       "en": "Violet-Feathered Heron",
-      "fr": "HÃ©ron violet"
+      "fr": "HÃƒÂ©ron violet"
     },
     "cost": 3,
     "sonatas": [
@@ -1284,7 +1285,7 @@
     "id": "Viridblaze Saurian",
     "name": {
       "en": "Viridblaze Saurian",
-      "fr": "LÃ©zard lavique vert"
+      "fr": "LÃƒÂ©zard lavique vert"
     },
     "cost": 3,
     "sonatas": [
@@ -1308,7 +1309,7 @@
     "id": "Windlash Coleoid",
     "name": {
       "en": "Windlash Coleoid",
-      "fr": "ColeoÃ¯de des rafales"
+      "fr": "ColeoÃƒÂ¯de des rafales"
     },
     "cost": 3,
     "sonatas": [
@@ -1332,7 +1333,7 @@
     "id": "Aero Predator",
     "name": {
       "en": "Aero Predator",
-      "fr": "PrÃ©dateur Aero"
+      "fr": "PrÃƒÂ©dateur Aero"
     },
     "cost": 1,
     "sonatas": [
@@ -1368,7 +1369,7 @@
     "id": "Baby Viridblaze Saurian",
     "name": {
       "en": "Baby Viridblaze Saurian",
-      "fr": "LÃ©zard lavique vert (Petit)"
+      "fr": "LÃƒÂ©zard lavique vert (Petit)"
     },
     "cost": 1,
     "sonatas": [
@@ -1419,7 +1420,7 @@
     "id": "Chop Chop: Headless",
     "name": {
       "en": "Chop Chop: Headless",
-      "fr": "Hache hache : TÃªte"
+      "fr": "Hache hache : TÃƒÂªte"
     },
     "cost": 1,
     "sonatas": [
@@ -1467,7 +1468,7 @@
     "id": "Cruisewing",
     "name": {
       "en": "Cruisewing",
-      "fr": "FiÃ§aile"
+      "fr": "FiÃƒÂ§aile"
     },
     "cost": 1,
     "sonatas": [
@@ -1480,7 +1481,7 @@
     "id": "Devotee's Flesh",
     "name": {
       "en": "Devotee's Flesh",
-      "fr": "Chair du dÃ©vot"
+      "fr": "Chair du dÃƒÂ©vot"
     },
     "cost": 1,
     "sonatas": [
@@ -1542,7 +1543,7 @@
     "id": "Electro Predator",
     "name": {
       "en": "Electro Predator",
-      "fr": "PrÃ©dateur Electro"
+      "fr": "PrÃƒÂ©dateur Electro"
     },
     "cost": 1,
     "sonatas": [
@@ -1566,7 +1567,7 @@
     "id": "Fae Ignis",
     "name": {
       "en": "Fae Ignis",
-      "fr": "Fae ignÃ©"
+      "fr": "Fae ignÃƒÂ©"
     },
     "cost": 1,
     "sonatas": [
@@ -1579,7 +1580,7 @@
     "id": "Fission Junrock",
     "name": {
       "en": "Fission Junrock",
-      "fr": "Jeunpierre fissurÃ©e"
+      "fr": "Jeunpierre fissurÃƒÂ©e"
     },
     "cost": 1,
     "sonatas": [
@@ -1679,7 +1680,7 @@
     "id": "Geospider S4",
     "name": {
       "en": "Geospider S4",
-      "fr": "AraignÃ©e de la Terre S4"
+      "fr": "AraignÃƒÂ©e de la Terre S4"
     },
     "cost": 1,
     "sonatas": [
@@ -1704,7 +1705,7 @@
     "id": "Glacio Predator",
     "name": {
       "en": "Glacio Predator",
-      "fr": "PrÃ©dateur Glacio"
+      "fr": "PrÃƒÂ©dateur Glacio"
     },
     "cost": 1,
     "sonatas": [
@@ -1892,7 +1893,7 @@
     "id": "Nightmare: Aero Predator",
     "name": {
       "en": "Nightmare: Aero Predator",
-      "fr": "Cauchemar : PrÃ©dateur Aero"
+      "fr": "Cauchemar : PrÃƒÂ©dateur Aero"
     },
     "cost": 1,
     "sonatas": [
@@ -1914,7 +1915,7 @@
     "id": "Nightmare: Baby Viridblaze Saurian",
     "name": {
       "en": "Nightmare: Baby Viridblaze Saurian",
-      "fr": "Cauchemar : LÃ©zard lavique vert (Petit)"
+      "fr": "Cauchemar : LÃƒÂ©zard lavique vert (Petit)"
     },
     "cost": 1,
     "sonatas": [
@@ -1947,7 +1948,7 @@
     "id": "Nightmare: Electro Predator",
     "name": {
       "en": "Nightmare: Electro Predator",
-      "fr": "Cauchemar : PrÃ©dateur Electro"
+      "fr": "Cauchemar : PrÃƒÂ©dateur Electro"
     },
     "cost": 1,
     "sonatas": [
@@ -1958,7 +1959,7 @@
     "id": "Nightmare: Glacio Predator",
     "name": {
       "en": "Nightmare: Glacio Predator",
-      "fr": "Cauchemar : PrÃ©dateur Glacio"
+      "fr": "Cauchemar : PrÃƒÂ©dateur Glacio"
     },
     "cost": 1,
     "sonatas": [
@@ -2053,7 +2054,7 @@
     "id": "Phantom: Fae Ignis",
     "name": {
       "en": "Phantom: Fae Ignis",
-      "fr": "Variante : Fae ignÃ©"
+      "fr": "Variante : Fae ignÃƒÂ©"
     },
     "cost": 1,
     "sonatas": [
