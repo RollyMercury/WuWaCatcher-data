@@ -1216,6 +1216,102 @@
     "bestWeapon": "Thunderflare Dominion"
   },
   {
+    "id": "Iuno",
+    "name": {
+      "en": "Iuno",
+      "fr": "Iuno"
+    },
+    "element": "Aero",
+    "weapon": "Gauntlet",
+    "stat": "ATK",
+    "hp_base": 842,
+    "hp_max": 10525,
+    "atk_base": 36,
+    "atk_max": 450,
+    "def_base": 92,
+    "def_max": 1124,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 125,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    },
+    "bestWeapon": "Moongazer's Sigil"
+  },
+  {
+    "id": "Galbrena",
+    "name": {
+      "en": "Galbrena",
+      "fr": "Galbrena"
+    },
+    "element": "Fusion",
+    "weapon": "Pistol",
+    "stat": "ATK",
+    "hp_base": 824,
+    "hp_max": 10300,
+    "atk_base": 37,
+    "atk_max": 462,
+    "def_base": 91,
+    "def_max": 1112,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "DC",
+        "lv1": 2.4,
+        "lv2": 5.6
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    },
+    "bestWeapon": "Lux & Umbra"
+  },
+  {
+    "id": "Qiuyuan",
+    "name": {
+      "en": "Qiuyuan",
+      "fr": "Qiuyuan"
+    },
+    "element": "Aero",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 839,
+    "hp_max": 10487,
+    "atk_base": 35,
+    "atk_max": 437,
+    "def_base": 97,
+    "def_max": 1185,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    },
+    "bestWeapon": "Emerald Sentence"
+  },
+  {
     "id": "Chisa",
     "name": {
       "en": "Chisa",
@@ -1280,156 +1376,28 @@
     "bestWeapon": "Cosmic Ripples"
   },
   {
-    "id": "Iuno",
+    "id": "Lynae",
     "name": {
-      "en": "Iuno",
-      "fr": "Iuno"
+      "en": "Lynae",
+      "fr": "Lynae"
     },
-    "element": "Aero",
-    "weapon": "Gauntlet",
-    "stat": "ATK",
-    "hp_base": 842,
-    "hp_max": 10525,
-    "atk_base": 36,
-    "atk_max": 450,
-    "def_base": 92,
-    "def_max": 1124,
-    "crit_rate": 0.05,
-    "crit_dmg": 1.5,
-    "energy_regen": 125,
-    "passives": {
-      "spe15": {
-        "stat": "CC",
-        "lv1": 1.2,
-        "lv2": 2.8
-      },
-      "spe24": {
-        "stat": "ATK%",
-        "lv1": 1.8,
-        "lv2": 4.2
-      }
-    },
-    "bestWeapon": "Moongazer's Sigil"
-  },
-  {
-    "id": "Qiuyuan",
-    "name": {
-      "en": "Qiuyuan",
-      "fr": "Qiuyuan"
-    },
-    "element": "Aero",
-    "weapon": "Sword",
-    "stat": "ATK",
-    "hp_base": 839,
-    "hp_max": 10487,
-    "atk_base": 35,
-    "atk_max": 437,
-    "def_base": 97,
-    "def_max": 1185,
-    "crit_rate": 0.05,
-    "crit_dmg": 1.5,
-    "energy_regen": 100,
-    "passives": {
-      "spe15": {
-        "stat": "CC",
-        "lv1": 1.2,
-        "lv2": 2.8
-      },
-      "spe24": {
-        "stat": "ATK%",
-        "lv1": 1.8,
-        "lv2": 4.2
-      }
-    },
-    "bestWeapon": "Emerald Sentence"
-  },
-  {
-    "id": "Sigrika",
-    "name": {
-      "en": "Sigrika",
-      "fr": "Sigrika"
-    },
-    "element": "Aero",
-    "weapon": "Gauntlet",
-    "stat": "ATK",
-    "hp_base": 0,
-    "hp_max": 0,
-    "atk_base": 0,
-    "atk_max": 0,
-    "def_base": 0,
-    "def_max": 0,
-    "crit_rate": 0.05,
-    "crit_dmg": 1.5,
-    "energy_regen": 100,
-    "passives": {
-      "spe15": {
-        "stat": "CC",
-        "lv1": 1.2,
-        "lv2": 2.8
-      },
-      "spe24": {
-        "stat": "ATK%",
-        "lv1": 1.8,
-        "lv2": 4.2
-      }
-    },
-    "bestWeapon": "Solsworn Ciphers"
-  },
-  {
-    "id": "Aemeath",
-    "name": {
-      "en": "Aemeath",
-      "fr": "Aemeath"
-    },
-    "element": "Fusion",
-    "weapon": "Sword",
-    "stat": "ATK",
-    "hp_base": 953,
-    "hp_max": 11912,
-    "atk_base": 31,
-    "atk_max": 387,
-    "def_base": 97,
-    "def_max": 1185,
-    "crit_rate": 0.05,
-    "crit_dmg": 1.5,
-    "energy_regen": 100,
-    "passives": {
-      "spe15": {
-        "stat": "CC",
-        "lv1": 1.2,
-        "lv2": 2.8
-      },
-      "spe24": {
-        "stat": "ATK%",
-        "lv1": 1.8,
-        "lv2": 4.2
-      }
-    },
-    "bestWeapon": "Everbright Polestar"
-  },
-  {
-    "id": "Galbrena",
-    "name": {
-      "en": "Galbrena",
-      "fr": "Galbrena"
-    },
-    "element": "Fusion",
+    "element": "Spectro",
     "weapon": "Pistol",
     "stat": "ATK",
-    "hp_base": 824,
-    "hp_max": 10300,
-    "atk_base": 37,
-    "atk_max": 462,
-    "def_base": 91,
-    "def_max": 1112,
+    "hp_base": 979,
+    "hp_max": 12237,
+    "atk_base": 30,
+    "atk_max": 375,
+    "def_base": 98,
+    "def_max": 1197,
     "crit_rate": 0.05,
     "crit_dmg": 1.5,
     "energy_regen": 100,
     "passives": {
       "spe15": {
-        "stat": "DC",
-        "lv1": 2.4,
-        "lv2": 5.6
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
       },
       "spe24": {
         "stat": "ATK%",
@@ -1437,7 +1405,7 @@
         "lv2": 4.2
       }
     },
-    "bestWeapon": "Lux & Umbra"
+    "bestWeapon": "Spectrum Blaster"
   },
   {
     "id": "Mornye",
@@ -1472,6 +1440,38 @@
     "bestWeapon": "Starfield Calibrator"
   },
   {
+    "id": "Aemeath",
+    "name": {
+      "en": "Aemeath",
+      "fr": "Aemeath"
+    },
+    "element": "Fusion",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 953,
+    "hp_max": 11912,
+    "atk_base": 31,
+    "atk_max": 387,
+    "def_base": 97,
+    "def_max": 1185,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "CC",
+        "lv1": 1.2,
+        "lv2": 2.8
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 1.8,
+        "lv2": 4.2
+      }
+    },
+    "bestWeapon": "Everbright Polestar"
+  },
+  {
     "id": "Luuk Herssen",
     "name": {
       "en": "Luuk Herssen",
@@ -1504,20 +1504,20 @@
     "bestWeapon": "Daybreaker's Spine"
   },
   {
-    "id": "Lynae",
+    "id": "Sigrika",
     "name": {
-      "en": "Lynae",
-      "fr": "Lynae"
+      "en": "Sigrika",
+      "fr": "Sigrika"
     },
-    "element": "Spectro",
-    "weapon": "Pistol",
+    "element": "Aero",
+    "weapon": "Gauntlet",
     "stat": "ATK",
-    "hp_base": 979,
-    "hp_max": 12237,
-    "atk_base": 30,
-    "atk_max": 375,
-    "def_base": 98,
-    "def_max": 1197,
+    "hp_base": 0,
+    "hp_max": 0,
+    "atk_base": 0,
+    "atk_max": 0,
+    "def_base": 0,
+    "def_max": 0,
     "crit_rate": 0.05,
     "crit_dmg": 1.5,
     "energy_regen": 100,
@@ -1533,6 +1533,6 @@
         "lv2": 4.2
       }
     },
-    "bestWeapon": "Spectrum Blaster"
+    "bestWeapon": "Solsworn Ciphers"
   }
 ]
