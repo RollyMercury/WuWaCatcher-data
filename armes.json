@@ -29,7 +29,7 @@
     "id": "Lustrous Razor",
     "name": {
       "en": "Lustrous Razor",
-      "fr": "Lame lustrée"
+      "fr": "Lame lustree"
     },
     "rarity": 5,
     "type": "BroadBlade",
@@ -55,7 +55,7 @@
     "id": "Thunderflare Dominion",
     "name": {
       "en": "Thunderflare Dominion",
-      "fr": "Règne foudroyant"
+      "fr": "Regne foudroyant"
     },
     "rarity": 5,
     "type": "BroadBlade",
@@ -94,7 +94,7 @@
     "id": "Wildfire Mark",
     "name": {
       "en": "Wildfire Mark",
-      "fr": "Marque du Feu indompté"
+      "fr": "Marque du Feu indompte"
     },
     "rarity": 5,
     "type": "BroadBlade",
@@ -107,7 +107,7 @@
     "id": "Aureate Zenith",
     "name": {
       "en": "Aureate Zenith",
-      "fr": "Zénith doré"
+      "fr": "Zenith dore"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -133,7 +133,7 @@
     "id": "Broadblade#41",
     "name": {
       "en": "Broadblade#41",
-      "fr": "Epée #41"
+      "fr": "Epee #41"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -146,7 +146,7 @@
     "id": "Dauntless Evernight",
     "name": {
       "en": "Dauntless Evernight",
-      "fr": "Intrépide éternel"
+      "fr": "Intrepide eternel"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -172,7 +172,7 @@
     "id": "Helios Cleaver",
     "name": {
       "en": "Helios Cleaver",
-      "fr": "Tailleur d'Hélios"
+      "fr": "Tailleur d'Helios"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -185,7 +185,7 @@
     "id": "Meditations on Mercy",
     "name": {
       "en": "Meditations on Mercy",
-      "fr": "Méditations sur la Miséricorde"
+      "fr": "Meditations sur la Misericorde"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -198,7 +198,7 @@
     "id": "Waning Redshift",
     "name": {
       "en": "Waning Redshift",
-      "fr": "Spectre en déclin"
+      "fr": "Spectre en declin"
     },
     "rarity": 4,
     "type": "BroadBlade",
@@ -211,7 +211,7 @@
     "id": "Beguiling Melody",
     "name": {
       "en": "Beguiling Melody",
-      "fr": "Voix céleste"
+      "fr": "Voix celeste"
     },
     "rarity": 3,
     "type": "BroadBlade",
@@ -224,7 +224,7 @@
     "id": "Broadblade of Night",
     "name": {
       "en": "Broadblade of Night",
-      "fr": "Epée de nuit"
+      "fr": "Epee de nuit"
     },
     "rarity": 3,
     "type": "BroadBlade",
@@ -237,7 +237,7 @@
     "id": "Broadblade of Voyager",
     "name": {
       "en": "Broadblade of Voyager",
-      "fr": "Epée du Voyageur"
+      "fr": "Epee du Voyageur"
     },
     "rarity": 3,
     "type": "BroadBlade",
@@ -250,7 +250,7 @@
     "id": "Guardian Broadblade",
     "name": {
       "en": "Guardian Broadblade",
-      "fr": "Epée du Gardien"
+      "fr": "Epee du Gardien"
     },
     "rarity": 3,
     "type": "BroadBlade",
@@ -276,7 +276,7 @@
     "id": "Blazing Brilliance",
     "name": {
       "en": "Blazing Brilliance",
-      "fr": "Flamme rayonnée"
+      "fr": "Flamme rayonnee"
     },
     "rarity": 5,
     "type": "Sword",
@@ -302,7 +302,7 @@
     "id": "Defier's Thorn",
     "name": {
       "en": "Defier's Thorn",
-      "fr": "Épine de l'insoumise"
+      "fr": "Epine de l'insoumise"
     },
     "rarity": 5,
     "type": "Sword",
@@ -315,7 +315,7 @@
     "id": "Emerald of Genesis",
     "name": {
       "en": "Emerald of Genesis",
-      "fr": "Émeraude éternelle"
+      "fr": "Emeraude eternelle"
     },
     "rarity": 5,
     "type": "Sword",
@@ -328,7 +328,7 @@
     "id": "Emerald Sentence",
     "name": {
       "en": "Emerald Sentence",
-      "fr": "Sentence émeraude"
+      "fr": "Sentence emeraude"
     },
     "rarity": 5,
     "type": "Sword",
@@ -341,7 +341,7 @@
     "id": "Everbright Polestar",
     "name": {
       "en": "Everbright Polestar",
-      "fr": "Polaire éternelle"
+      "fr": "Polaire eternelle"
     },
     "rarity": 5,
     "type": "Sword",
@@ -367,7 +367,7 @@
     "id": "Red Spring",
     "name": {
       "en": "Red Spring",
-      "fr": "Printemps acéré"
+      "fr": "Printemps acere"
     },
     "rarity": 5,
     "type": "Sword",
@@ -380,7 +380,7 @@
     "id": "Unflickering Valor",
     "name": {
       "en": "Unflickering Valor",
-      "fr": "Courage impérissable"
+      "fr": "Courage imperissable"
     },
     "rarity": 5,
     "type": "Sword",
@@ -406,7 +406,7 @@
     "id": "Endless Collapse",
     "name": {
       "en": "Endless Collapse",
-      "fr": "Effondrement éternel"
+      "fr": "Effondrement eternel"
     },
     "rarity": 4,
     "type": "Sword",
@@ -575,7 +575,7 @@
     "id": "Phasic Homogenizer",
     "name": {
       "en": "Phasic Homogenizer",
-      "fr": "Homogénéiseur phasique"
+      "fr": "Homogeneiseur phasique"
     },
     "rarity": 5,
     "type": "Pistol",
@@ -588,7 +588,7 @@
     "id": "Spectrum Blaster",
     "name": {
       "en": "Spectrum Blaster",
-      "fr": "Éclateur spectral"
+      "fr": "Eclateur spectral"
     },
     "rarity": 5,
     "type": "Pistol",
@@ -614,7 +614,7 @@
     "id": "The Last Dance",
     "name": {
       "en": "The Last Dance",
-      "fr": "La dernière danse"
+      "fr": "La derniere danse"
     },
     "rarity": 5,
     "type": "Pistol",
@@ -627,7 +627,7 @@
     "id": "Woodland Aria",
     "name": {
       "en": "Woodland Aria",
-      "fr": "Aria de la clairière"
+      "fr": "Aria de la clairiere"
     },
     "rarity": 5,
     "type": "Pistol",
@@ -653,7 +653,7 @@
     "id": "Novaburst",
     "name": {
       "en": "Novaburst",
-      "fr": "Éclat de Nova"
+      "fr": "Eclat de Nova"
     },
     "rarity": 4,
     "type": "Pistol",
@@ -796,7 +796,7 @@
     "id": "Abyss Surges",
     "name": {
       "en": "Abyss Surges",
-      "fr": "Flux de l'Abîme"
+      "fr": "Flux de l'Abime"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -822,7 +822,7 @@
     "id": "Daybreaker's Spine",
     "name": {
       "en": "Daybreaker's Spine",
-      "fr": "Échine de l'aube"
+      "fr": "Echine de l'aube"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -848,7 +848,7 @@
     "id": "Pulsation Bracer",
     "name": {
       "en": "Pulsation Bracer",
-      "fr": "Brassard à pulsation"
+      "fr": "Brassard a pulsation"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -861,7 +861,7 @@
     "id": "Solsworn Ciphers",
     "name": {
       "en": "Solsworn Ciphers",
-      "fr": "Interprétation illuminée"
+      "fr": "Interpretation illuminee"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -874,7 +874,7 @@
     "id": "Tragicomedy",
     "name": {
       "en": "Tragicomedy",
-      "fr": "Tragi-comédie"
+      "fr": "Tragi-comedie"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -887,7 +887,7 @@
     "id": "Verity's Handle",
     "name": {
       "en": "Verity's Handle",
-      "fr": "Poignée de la Vérité"
+      "fr": "Poignee de la Verite"
     },
     "rarity": 5,
     "type": "Gauntlet",
@@ -900,7 +900,7 @@
     "id": "Aether Strike",
     "name": {
       "en": "Aether Strike",
-      "fr": "Assaut d'éther"
+      "fr": "Assaut d'ether"
     },
     "rarity": 4,
     "type": "Gauntlet",
@@ -926,7 +926,7 @@
     "id": "Celestial Spiral",
     "name": {
       "en": "Celestial Spiral",
-      "fr": "Spirale céleste"
+      "fr": "Spirale celeste"
     },
     "rarity": 4,
     "type": "Gauntlet",
@@ -965,7 +965,7 @@
     "id": "Legend of Drunken Hero",
     "name": {
       "en": "Legend of Drunken Hero",
-      "fr": "Légende du Héros Ivre"
+      "fr": "Legende du Heros Ivre"
     },
     "rarity": 4,
     "type": "Gauntlet",
@@ -1056,7 +1056,7 @@
     "id": "Boson Astrolabe",
     "name": {
       "en": "Boson Astrolabe",
-      "fr": "Astrolabe à bosons"
+      "fr": "Astrolabe a bosons"
     },
     "rarity": 5,
     "type": "Rectifier",
@@ -1083,7 +1083,7 @@
     "id": "Lethean Elegy",
     "name": {
       "en": "Lethean Elegy",
-      "fr": "Élégie de Léthé"
+      "fr": "Elegie de Lethe"
     },
     "rarity": 5,
     "type": "Rectifier",
@@ -1148,7 +1148,7 @@
     "id": "Whispers of Sirens",
     "name": {
       "en": "Whispers of Sirens",
-      "fr": "Murmures des sirènes"
+      "fr": "Murmures des sirenes"
     },
     "rarity": 5,
     "type": "Rectifier",
@@ -1161,7 +1161,7 @@
     "id": "Augment",
     "name": {
       "en": "Augment",
-      "fr": "Dévoisant"
+      "fr": "Devoisant"
     },
     "rarity": 4,
     "type": "Rectifier",
@@ -1174,7 +1174,7 @@
     "id": "Call of the Abyss",
     "name": {
       "en": "Call of the Abyss",
-      "fr": "Voix de l'Abîme"
+      "fr": "Voix de l'Abime"
     },
     "rarity": 4,
     "type": "Rectifier",
@@ -1187,7 +1187,7 @@
     "id": "Comet Flare",
     "name": {
       "en": "Comet Flare",
-      "fr": "Comète éclatante"
+      "fr": "Comete eclatante"
     },
     "rarity": 4,
     "type": "Rectifier",
@@ -1200,7 +1200,7 @@
     "id": "Fusion Accretion",
     "name": {
       "en": "Fusion Accretion",
-      "fr": "Accrétion de fusion"
+      "fr": "Accretion de fusion"
     },
     "rarity": 4,
     "type": "Rectifier",
@@ -1343,7 +1343,7 @@
     "id": "Tyro Broadblade",
     "name": {
       "en": "Tyro Broadblade",
-      "fr": "Epée Tyro"
+      "fr": "Epee Tyro"
     },
     "rarity": 2,
     "type": "BroadBlade",
@@ -1408,7 +1408,7 @@
     "id": "Training Broadblade",
     "name": {
       "en": "Training Broadblade",
-      "fr": "Epée Novice"
+      "fr": "Epee Novice"
     },
     "rarity": 1,
     "type": "BroadBlade",
