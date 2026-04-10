@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.4.1/WuWaCatcher.exe",
-  "changelog": "Echo+ multi-persos (jusqu'a 3), lignes colorees par slot, raccourci transparence, sonataSet2 dans scoring, fix Hecate, fix accents UTF-8"
+  "version": "1.4.2",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.4.2/WuWaCatcher.exe",
+  "changelog": "Les cases cochees dans les onglets Perso-Pts, Lv/Comp, Arme, Echo et EchoSS sont maintenant persistees entre les sessions"
 }
