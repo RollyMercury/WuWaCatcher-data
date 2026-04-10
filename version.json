@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.4.0/WuWaCatcher.exe",
-  "changelog": "EchoSS compact, couleur highlight RGB, tri coches, Focus sonataSet2, popup MAJ interne, corrections"
+  "version": "1.4.1",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.4.1/WuWaCatcher.exe",
+  "changelog": "Echo+ multi-persos (jusqu'a 3), lignes colorees par slot, raccourci transparence, sonataSet2 dans scoring, fix Hecate, fix accents UTF-8"
 }
