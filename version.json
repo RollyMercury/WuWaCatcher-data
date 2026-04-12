@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.0/WuWaCatcher.exe",
-  "changelog": "v1.5.0 : Passifs arme unconditionnels, noeuds forte spe3, constellations, convention RR panel (100% base), optimisation lang, bouton regen lang, auto-bump version"
+  "version": "1.5.4",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.4/WuWaCatcher.exe",
+  "changelog": "v1.5.4 : Colonne Sonata dans onglet Stats (bonus 2pc), colonne Passif (arme+forte), fix Frosty Resolve (Comp au lieu de Al), stats structurees sonatas.json"
 }
