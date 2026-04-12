@@ -83,7 +83,7 @@
     "energy_regen": 125,
     "passives": {
       "spe15": {
-        "stat": "AeroDMG",
+        "stat": "HealBonus",
         "lv1": 1.8,
         "lv2": 4.2
       },
