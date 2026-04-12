@@ -23,7 +23,19 @@
     "stat": "CC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.08
+    "base_sec": 0.08,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Lustrous Razor",
@@ -36,7 +48,19 @@
     "stat": "Atk",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.081
+    "base_sec": 0.081,
+    "passives": [
+      {
+        "stat": "RR",
+        "byRank": [
+          12.8,
+          16.0,
+          19.2,
+          22.4,
+          25.6
+        ]
+      }
+    ]
   },
   {
     "id": "Radiance Cleaver",
@@ -49,7 +73,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Thunderflare Dominion",
@@ -62,7 +98,19 @@
     "stat": "CC",
     "atkLv90": 675,
     "base_atk": 54,
-    "base_sec": 0.027
+    "base_sec": 0.027,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Verdant Summit",
@@ -88,7 +136,19 @@
     "stat": "RR",
     "atkLv90": 412,
     "base_atk": 33,
-    "base_sec": 0.1712
+    "base_sec": 0.1712,
+    "passives": [
+      {
+        "stat": "Def%",
+        "byRank": [
+          16.0,
+          20.0,
+          24.0,
+          28.0,
+          32.0
+        ]
+      }
+    ]
   },
   {
     "id": "Wildfire Mark",
@@ -101,7 +161,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Aureate Zenith",
@@ -283,7 +355,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Bloodpact's Pledge",
@@ -309,7 +393,19 @@
     "stat": "HP",
     "atkLv90": 412,
     "base_atk": 33,
-    "base_sec": 0.1605
+    "base_sec": 0.1605,
+    "passives": [
+      {
+        "stat": "Hp%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Emerald of Genesis",
@@ -322,7 +418,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "RR",
+        "byRank": [
+          12.8,
+          16.0,
+          19.2,
+          22.4,
+          25.6
+        ]
+      }
+    ]
   },
   {
     "id": "Emerald Sentence",
@@ -335,7 +443,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Everbright Polestar",
@@ -361,7 +481,19 @@
     "stat": "RR",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.0864
+    "base_sec": 0.0864,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Red Spring",
@@ -374,7 +506,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Unflickering Valor",
@@ -569,7 +713,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Phasic Homogenizer",
@@ -582,7 +738,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Spectrum Blaster",
@@ -595,7 +763,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Static Mist",
@@ -608,7 +788,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "RR",
+        "byRank": [
+          12.8,
+          16.0,
+          19.2,
+          22.4,
+          25.6
+        ]
+      }
+    ]
   },
   {
     "id": "The Last Dance",
@@ -626,11 +818,11 @@
       {
         "stat": "Atk%",
         "byRank": [
-          12,
-          15,
-          18,
-          21,
-          24
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
         ]
       }
     ]
@@ -646,7 +838,19 @@
     "stat": "CC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.08
+    "base_sec": 0.08,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Cadenza",
@@ -815,7 +1019,19 @@
     "stat": "Atk",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.081
+    "base_sec": 0.081,
+    "passives": [
+      {
+        "stat": "RR",
+        "byRank": [
+          12.8,
+          16.0,
+          19.2,
+          22.4,
+          25.6
+        ]
+      }
+    ]
   },
   {
     "id": "Blazing Justice",
@@ -828,7 +1044,19 @@
     "stat": "DC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.108
+    "base_sec": 0.108,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Daybreaker's Spine",
@@ -841,7 +1069,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Moongazer's Sigil",
@@ -854,7 +1094,19 @@
     "stat": "CC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.08
+    "base_sec": 0.08,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Pulsation Bracer",
@@ -867,7 +1119,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Solsworn Ciphers",
@@ -893,7 +1157,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Verity's Handle",
@@ -1076,7 +1352,19 @@
     "atkLv90": 525,
     "budget": 700,
     "base_atk": 42,
-    "base_sec": 0.0864
+    "base_sec": 0.0864,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Cosmic Ripples",
@@ -1089,7 +1377,19 @@
     "stat": "Atk",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.12
+    "base_sec": 0.12,
+    "passives": [
+      {
+        "stat": "RR",
+        "byRank": [
+          12.8,
+          16.0,
+          19.2,
+          22.4,
+          25.6
+        ]
+      }
+    ]
   },
   {
     "id": "Lethean Elegy",
@@ -1102,7 +1402,19 @@
     "stat": "CC",
     "atkLv90": 587,
     "base_atk": 47,
-    "base_sec": 0.054
+    "base_sec": 0.054,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Luminous Hymn",
@@ -1115,7 +1427,19 @@
     "stat": "CC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.08
+    "base_sec": 0.08,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Rime-Draped Sprouts",
@@ -1128,7 +1452,19 @@
     "stat": "DC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.16
+    "base_sec": 0.16,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Stellar Symphony",
@@ -1141,7 +1477,19 @@
     "stat": "RR",
     "atkLv90": 412,
     "base_atk": 33,
-    "base_sec": 0.1712
+    "base_sec": 0.1712,
+    "passives": [
+      {
+        "stat": "Hp%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Stringmaster",
@@ -1167,7 +1515,19 @@
     "stat": "DC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.16
+    "base_sec": 0.16,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12.0,
+          15.0,
+          18.0,
+          21.0,
+          24.0
+        ]
+      }
+    ]
   },
   {
     "id": "Augment",
@@ -1362,7 +1722,19 @@
     "stat": "Atk",
     "atkLv90": 250,
     "base_atk": 22,
-    "base_sec": 0.033
+    "base_sec": 0.033,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          5.0,
+          6.25,
+          7.5,
+          8.75,
+          10.0
+        ]
+      }
+    ]
   },
   {
     "id": "Tyro Sword",
@@ -1375,7 +1747,19 @@
     "stat": "Atk",
     "atkLv90": 250,
     "base_atk": 22,
-    "base_sec": 0.033
+    "base_sec": 0.033,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          5.0,
+          6.25,
+          7.5,
+          8.75,
+          10.0
+        ]
+      }
+    ]
   },
   {
     "id": "Tyro Pistols",
@@ -1388,7 +1772,19 @@
     "stat": "Atk",
     "atkLv90": 250,
     "base_atk": 22,
-    "base_sec": 0.033
+    "base_sec": 0.033,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          5.0,
+          6.25,
+          7.5,
+          8.75,
+          10.0
+        ]
+      }
+    ]
   },
   {
     "id": "Tyro Gauntlets",
@@ -1401,7 +1797,19 @@
     "stat": "Atk",
     "atkLv90": 250,
     "base_atk": 22,
-    "base_sec": 0.033
+    "base_sec": 0.033,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          5.0,
+          6.25,
+          7.5,
+          8.75,
+          10.0
+        ]
+      }
+    ]
   },
   {
     "id": "Tyro Rectifier",
@@ -1414,7 +1822,19 @@
     "stat": "Atk",
     "atkLv90": 250,
     "base_atk": 22,
-    "base_sec": 0.033
+    "base_sec": 0.033,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          5.0,
+          6.25,
+          7.5,
+          8.75,
+          10.0
+        ]
+      }
+    ]
   },
   {
     "id": "Training Broadblade",
@@ -1428,7 +1848,19 @@
     "atkLv90": 175,
     "isDefault": true,
     "base_atk": 20,
-    "base_sec": 0.0255
+    "base_sec": 0.0255,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0
+        ]
+      }
+    ]
   },
   {
     "id": "Training Sword",
@@ -1442,7 +1874,19 @@
     "atkLv90": 175,
     "isDefault": true,
     "base_atk": 20,
-    "base_sec": 0.0255
+    "base_sec": 0.0255,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0
+        ]
+      }
+    ]
   },
   {
     "id": "Training Pistols",
@@ -1456,7 +1900,19 @@
     "atkLv90": 175,
     "isDefault": true,
     "base_atk": 20,
-    "base_sec": 0.0255
+    "base_sec": 0.0255,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0
+        ]
+      }
+    ]
   },
   {
     "id": "Training Gauntlets",
@@ -1470,7 +1926,19 @@
     "atkLv90": 175,
     "isDefault": true,
     "base_atk": 20,
-    "base_sec": 0.0255
+    "base_sec": 0.0255,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0
+        ]
+      }
+    ]
   },
   {
     "id": "Training Rectifier",
@@ -1484,6 +1952,18 @@
     "atkLv90": 175,
     "isDefault": true,
     "base_atk": 20,
-    "base_sec": 0.0255
+    "base_sec": 0.0255,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0
+        ]
+      }
+    ]
   }
 ]
