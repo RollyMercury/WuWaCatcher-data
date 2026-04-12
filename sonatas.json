@@ -190,7 +190,7 @@
         "en": "Resonance Skill DMG +12%",
         "fr": "Les Dégâts de Compétence résonatrice sont augmentés de 12%",
         "stats": {
-          "Al": 12.0
+          "Comp": 12.0
         }
       },
       "5": {
