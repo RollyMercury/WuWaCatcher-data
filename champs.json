@@ -891,11 +891,6 @@
         "stat": "ATK%",
         "lv1": 1.8,
         "lv2": 4.2
-      },
-      "spe3": {
-        "stat": "SkillDMG",
-        "lv1": 3.6,
-        "lv2": 8.4
       }
     },
     "bestWeapon": "The Last Dance"
