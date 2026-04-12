@@ -621,7 +621,19 @@
     "stat": "DC",
     "atkLv90": 500,
     "base_atk": 40,
-    "base_sec": 0.16
+    "base_sec": 0.16,
+    "passives": [
+      {
+        "stat": "Atk%",
+        "byRank": [
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      }
+    ]
   },
   {
     "id": "Woodland Aria",

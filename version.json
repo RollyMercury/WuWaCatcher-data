@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.4.2/WuWaCatcher.exe",
-  "changelog": "Les cases cochees dans les onglets Perso-Pts, Lv/Comp, Arme, Echo et EchoSS sont maintenant persistees entre les sessions"
+  "version": "1.5.0",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.0/WuWaCatcher.exe",
+  "changelog": "v1.5.0 : Passifs arme unconditionnels, noeuds forte spe3, constellations, convention RR panel (100% base), optimisation lang, bouton regen lang, auto-bump version"
 }
