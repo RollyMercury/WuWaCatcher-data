@@ -1,221 +1,527 @@
 [
   {
     "id": "Freezing Frost",
-    "name": {"en": "Freezing Frost", "fr": "Gel Frigorifiant"},
+    "name": {
+      "en": "Freezing Frost",
+      "fr": "Gel Frigorifiant"
+    },
     "bonuses": {
-      "2": {"en": "Glacio DMG +10%", "fr": "Augmenter les dégâts Glacio de 10 %"},
-      "5": {"en": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack. This effect stacks up to 3 times, each stack lasts 15s", "fr": "Après avoir utilisé l'Attaque normale ou l'Attaque lourde, les dégâts Glacio sont augmentés de 10%. Cet effet peut se cumuler trois fois durant 15 secondes."}
+      "2": {
+        "en": "Glacio DMG +10%",
+        "fr": "Augmenter les dégâts Glacio de 10 %",
+        "stats": {
+          "Glacio": 10.0
+        }
+      },
+      "5": {
+        "en": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack. This effect stacks up to 3 times, each stack lasts 15s",
+        "fr": "Après avoir utilisé l'Attaque normale ou l'Attaque lourde, les dégâts Glacio sont augmentés de 10%. Cet effet peut se cumuler trois fois durant 15 secondes."
+      }
     }
   },
   {
     "id": "Molten Rift",
-    "name": {"en": "Molten Rift", "fr": "Faille de Lave"},
+    "name": {
+      "en": "Molten Rift",
+      "fr": "Faille de Lave"
+    },
     "bonuses": {
-      "2": {"en": "Fusion DMG +10%", "fr": "Les dégâts Fusion sont augmentés de 10 %"},
-      "5": {"en": "Fusion DMG +30% for 15s after releasing Resonance Skill", "fr": "Quand vous lancez la Compétence résonatrice, les dégâts Fusion sont augmentés de 30% pendant 15 secondes."}
+      "2": {
+        "en": "Fusion DMG +10%",
+        "fr": "Les dégâts Fusion sont augmentés de 10 %",
+        "stats": {
+          "Fusion": 10.0
+        }
+      },
+      "5": {
+        "en": "Fusion DMG +30% for 15s after releasing Resonance Skill",
+        "fr": "Quand vous lancez la Compétence résonatrice, les dégâts Fusion sont augmentés de 30% pendant 15 secondes."
+      }
     }
   },
   {
     "id": "Void Thunder",
-    "name": {"en": "Void Thunder", "fr": "Tonnerre du Ciel"},
+    "name": {
+      "en": "Void Thunder",
+      "fr": "Tonnerre du Ciel"
+    },
     "bonuses": {
-      "2": {"en": "Electro DMG +10%", "fr": "Augmenter les dégâts Electro 10 %"},
-      "5": {"en": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill. This effect stacks up to 2 times, each stack lasts 15s", "fr": "Quand vous effectuez une Attaque lourde ou une Compétence résonatrice, les Dégâts Electro sont augmentés de 15%. Cet effet peut être cumulé deux fois, chaque effet dure 15 secondes."}
+      "2": {
+        "en": "Electro DMG +10%",
+        "fr": "Augmenter les dégâts Electro 10 %",
+        "stats": {
+          "Electro": 10.0
+        }
+      },
+      "5": {
+        "en": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill. This effect stacks up to 2 times, each stack lasts 15s",
+        "fr": "Quand vous effectuez une Attaque lourde ou une Compétence résonatrice, les Dégâts Electro sont augmentés de 15%. Cet effet peut être cumulé deux fois, chaque effet dure 15 secondes."
+      }
     }
   },
   {
     "id": "Sierra Gale",
-    "name": {"en": "Sierra Gale", "fr": "Hurle de Sierra"},
+    "name": {
+      "en": "Sierra Gale",
+      "fr": "Hurle de Sierra"
+    },
     "bonuses": {
-      "2": {"en": "Aero DMG +10%", "fr": "Les dégâts Aero sont augmentés de 10 %"},
-      "5": {"en": "Aero DMG +30% for 15s after releasing Intro Skill", "fr": "Quand vous utilisez la Compétence d'Intro pour entrer dans le combat, les Dégâts Aero sont augmentés de 30% pendant 15 secondes."}
+      "2": {
+        "en": "Aero DMG +10%",
+        "fr": "Les dégâts Aero sont augmentés de 10 %",
+        "stats": {
+          "Aero": 10.0
+        }
+      },
+      "5": {
+        "en": "Aero DMG +30% for 15s after releasing Intro Skill",
+        "fr": "Quand vous utilisez la Compétence d'Intro pour entrer dans le combat, les Dégâts Aero sont augmentés de 30% pendant 15 secondes."
+      }
     }
   },
   {
     "id": "Celestial Light",
-    "name": {"en": "Celestial Light", "fr": "Lumière Céleste"},
+    "name": {
+      "en": "Celestial Light",
+      "fr": "Lumière Céleste"
+    },
     "bonuses": {
-      "2": {"en": "Spectro DMG +10%", "fr": "Augmenter dégâts Spectro 10 %"},
-      "5": {"en": "Spectro DMG +30% for 15s after releasing Intro Skill", "fr": "Quand vous lancez la Compétence d'Intro, les dégâts Spectro sont augmentés de 30% dans 15 secondes."}
+      "2": {
+        "en": "Spectro DMG +10%",
+        "fr": "Augmenter dégâts Spectro 10 %",
+        "stats": {
+          "Spectro": 10.0
+        }
+      },
+      "5": {
+        "en": "Spectro DMG +30% for 15s after releasing Intro Skill",
+        "fr": "Quand vous lancez la Compétence d'Intro, les dégâts Spectro sont augmentés de 30% dans 15 secondes."
+      }
     }
   },
   {
     "id": "Havoc Eclipse",
-    "name": {"en": "Havoc Eclipse", "fr": "Le Crépuscule noir"},
+    "name": {
+      "en": "Havoc Eclipse",
+      "fr": "Le Crépuscule noir"
+    },
     "bonuses": {
-      "2": {"en": "Havoc DMG +10%", "fr": "Les dégâts Havoc sont augmentés de 10%"},
-      "5": {"en": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack. This effect stacks up to 4 times, each stack lasts 15s", "fr": "Quand vous lancez l'Attaque normale ou l'Attaque lourde, les dégâts Havoc sont augmentés de 7,5%, cet effet peut se cumuler jusqu'à quatre fois durant 15 secondes."}
+      "2": {
+        "en": "Havoc DMG +10%",
+        "fr": "Les dégâts Havoc sont augmentés de 10%",
+        "stats": {
+          "Havoc": 10.0
+        }
+      },
+      "5": {
+        "en": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack. This effect stacks up to 4 times, each stack lasts 15s",
+        "fr": "Quand vous lancez l'Attaque normale ou l'Attaque lourde, les dégâts Havoc sont augmentés de 7,5%, cet effet peut se cumuler jusqu'à quatre fois durant 15 secondes."
+      }
     }
   },
   {
     "id": "Rejuvenating Glow",
-    "name": {"en": "Rejuvenating Glow", "fr": "Éclat rajeunissant"},
+    "name": {
+      "en": "Rejuvenating Glow",
+      "fr": "Éclat rajeunissant"
+    },
     "bonuses": {
-      "2": {"en": "Healing Bonus +10%", "fr": "Le Bonus de Soins est augmenté de 10%"},
-      "5": {"en": "Increases the ATK of all party members by 15% for 30s upon healing allies", "fr": "Quand vous soignez les membres de l'Équipe, l'ATQ de tous les membres de l'équipe est augmentée de 15% pendant 30 secondes."}
+      "2": {
+        "en": "Healing Bonus +10%",
+        "fr": "Le Bonus de Soins est augmenté de 10%",
+        "stats": {
+          "Heal": 10.0
+        }
+      },
+      "5": {
+        "en": "Increases the ATK of all party members by 15% for 30s upon healing allies",
+        "fr": "Quand vous soignez les membres de l'Équipe, l'ATQ de tous les membres de l'équipe est augmentée de 15% pendant 30 secondes."
+      }
     }
   },
   {
     "id": "Moonlit Clouds",
-    "name": {"en": "Moonlit Clouds", "fr": "Nuages lunaires"},
+    "name": {
+      "en": "Moonlit Clouds",
+      "fr": "Nuages lunaires"
+    },
     "bonuses": {
-      "2": {"en": "Energy Regen +10%", "fr": "La Recharge résonante est augmentée de 10%"},
-      "5": {"en": "After using Outro Skill, increases the ATK of the next Resonator by 22.5% for 15s", "fr": "Après l'utilisation de la Compétence d'Outro, l'ATQ du prochain membre actif est augmentée de 22,5% pendant 15 secondes."}
+      "2": {
+        "en": "Energy Regen +10%",
+        "fr": "La Recharge résonante est augmentée de 10%",
+        "stats": {
+          "RR": 10.0
+        }
+      },
+      "5": {
+        "en": "After using Outro Skill, increases the ATK of the next Resonator by 22.5% for 15s",
+        "fr": "Après l'utilisation de la Compétence d'Outro, l'ATQ du prochain membre actif est augmentée de 22,5% pendant 15 secondes."
+      }
     }
   },
   {
     "id": "Lingering Tunes",
-    "name": {"en": "Lingering Tunes", "fr": "Resonance sans fin"},
+    "name": {
+      "en": "Lingering Tunes",
+      "fr": "Resonance sans fin"
+    },
     "bonuses": {
-      "2": {"en": "ATK +10%", "fr": "Augmenter l'ATQ : 10 %"},
-      "5": {"en": "While on the field, ATK increases by 5% every 1.5s. This effect stacks up to 4 stacks. Outro Skill DMG +60%", "fr": "Quand ce personnage est le membre actif, l'ATQ est augmenté de 5% toutes les 1,5 secondes, cet effet peut se cumuler jusqu'à quatre fois. Le dégât de la Compétence d'Outro est augmenté de 60%."}
+      "2": {
+        "en": "ATK +10%",
+        "fr": "Augmenter l'ATQ : 10 %",
+        "stats": {
+          "Atk%": 10.0
+        }
+      },
+      "5": {
+        "en": "While on the field, ATK increases by 5% every 1.5s. This effect stacks up to 4 stacks. Outro Skill DMG +60%",
+        "fr": "Quand ce personnage est le membre actif, l'ATQ est augmenté de 5% toutes les 1,5 secondes, cet effet peut se cumuler jusqu'à quatre fois. Le dégât de la Compétence d'Outro est augmenté de 60%."
+      }
     }
   },
   {
     "id": "Frosty Resolve",
-    "name": {"en": "Frosty Resolve", "fr": "Âme glaciale"},
+    "name": {
+      "en": "Frosty Resolve",
+      "fr": "Âme glaciale"
+    },
     "bonuses": {
-      "2": {"en": "Resonance Skill DMG +12%", "fr": "Les Dégâts de Compétence résonatrice sont augmentés de 12%"},
-      "5": {"en": "Casting Resonance Skill grants 22.5% Glacio DMG Bonus for 15s and casting Resonance Liberation increases Resonance Skill DMG by 18%, lasting for 5s. This effect stacks up to 2 times", "fr": "Quand vous lancez la Compétence résonatrice, les Dégâts Glacio du personnage sont augmentés de 22.5% pendant 15 secondes. Quand vous lancez la Libération résonatrice, les dégâts de Compétence résonatrice sont augmentés de 18% pendant 5 secondes. L'effet peut être cumulé jusqu'à 2 fois."}
+      "2": {
+        "en": "Resonance Skill DMG +12%",
+        "fr": "Les Dégâts de Compétence résonatrice sont augmentés de 12%",
+        "stats": {
+          "Al": 12.0
+        }
+      },
+      "5": {
+        "en": "Casting Resonance Skill grants 22.5% Glacio DMG Bonus for 15s and casting Resonance Liberation increases Resonance Skill DMG by 18%, lasting for 5s. This effect stacks up to 2 times",
+        "fr": "Quand vous lancez la Compétence résonatrice, les Dégâts Glacio du personnage sont augmentés de 22.5% pendant 15 secondes. Quand vous lancez la Libération résonatrice, les dégâts de Compétence résonatrice sont augmentés de 18% pendant 5 secondes. L'effet peut être cumulé jusqu'à 2 fois."
+      }
     }
   },
   {
     "id": "Eternal Radiance",
-    "name": {"en": "Eternal Radiance", "fr": "Lumière éternelle"},
+    "name": {
+      "en": "Eternal Radiance",
+      "fr": "Lumière éternelle"
+    },
     "bonuses": {
-      "2": {"en": "Spectro DMG +10%", "fr": "Les Dégâts Spectro sont augmentés de 10%."},
-      "5": {"en": "Inflicting enemies with Spectro Frazzle increases Crit. Rate by 20% for 15s. Attacking enemies with 10 stacks of Spectro Frazzle grants 15% Spectro DMG Bonus for 15s", "fr": "Quand vous appliquez l'Effet de la lumière spectro à l'ennemi, le Taux critique est augmenté de 20% pendant 15 secondes. Quand vous attaquez l'ennemi qui a 10 piles d'Effet de la lumière spectro, le Bonus de Dégâts Spectro est augmenté de 15% pendant 15 secondes."}
+      "2": {
+        "en": "Spectro DMG +10%",
+        "fr": "Les Dégâts Spectro sont augmentés de 10%.",
+        "stats": {
+          "Spectro": 10.0
+        }
+      },
+      "5": {
+        "en": "Inflicting enemies with Spectro Frazzle increases Crit. Rate by 20% for 15s. Attacking enemies with 10 stacks of Spectro Frazzle grants 15% Spectro DMG Bonus for 15s",
+        "fr": "Quand vous appliquez l'Effet de la lumière spectro à l'ennemi, le Taux critique est augmenté de 20% pendant 15 secondes. Quand vous attaquez l'ennemi qui a 10 piles d'Effet de la lumière spectro, le Bonus de Dégâts Spectro est augmenté de 15% pendant 15 secondes."
+      }
     }
   },
   {
     "id": "Midnight Veil",
-    "name": {"en": "Midnight Veil", "fr": "Voile des ombres"},
+    "name": {
+      "en": "Midnight Veil",
+      "fr": "Voile des ombres"
+    },
     "bonuses": {
-      "2": {"en": "Havoc DMG +10%", "fr": "Le Dégât Havoc du personnage est augmenté de 10%."},
-      "5": {"en": "When Outro Skill is triggered, deal additional 480% Havoc DMG to surrounding enemies, and grants the incoming Resonator 15% Havoc DMG Bonus for 15s", "fr": "Quand la Compétence d'Outro d'un personnage est déclenché, infligez 480% de Dégâts Havoc, qui sont considérés comme ceux de la Compétence d'Outro aux ennemis autour de vous. Le Bonus de Dégâts Havoc du prochain membre actif est augmenté de 15% pendant 15 secondes."}
+      "2": {
+        "en": "Havoc DMG +10%",
+        "fr": "Le Dégât Havoc du personnage est augmenté de 10%.",
+        "stats": {
+          "Havoc": 10.0
+        }
+      },
+      "5": {
+        "en": "When Outro Skill is triggered, deal additional 480% Havoc DMG to surrounding enemies, and grants the incoming Resonator 15% Havoc DMG Bonus for 15s",
+        "fr": "Quand la Compétence d'Outro d'un personnage est déclenché, infligez 480% de Dégâts Havoc, qui sont considérés comme ceux de la Compétence d'Outro aux ennemis autour de vous. Le Bonus de Dégâts Havoc du prochain membre actif est augmenté de 15% pendant 15 secondes."
+      }
     }
   },
   {
     "id": "Empyrean Anthem",
-    "name": {"en": "Empyrean Anthem", "fr": "Symphonie céleste"},
+    "name": {
+      "en": "Empyrean Anthem",
+      "fr": "Symphonie céleste"
+    },
     "bonuses": {
-      "2": {"en": "Energy Regen +10%", "fr": "La Recharge résonante est augmentée de 10%."},
-      "5": {"en": "Increase the Resonator's Coordinated Attack DMG by 80%. Upon a critical hit of Coordinated Attack, increase the active Resonator's ATK by 20% for 4s", "fr": "Le dégât d'Attaque coopérative est augmenté de 80%. Quand l'Attaque coopérative atteint l'ennemi et c'est une attaque critique, l'ATQ du membre actif est augmenté de 20% pendant 4 secondes."}
+      "2": {
+        "en": "Energy Regen +10%",
+        "fr": "La Recharge résonante est augmentée de 10%.",
+        "stats": {
+          "RR": 10.0
+        }
+      },
+      "5": {
+        "en": "Increase the Resonator's Coordinated Attack DMG by 80%. Upon a critical hit of Coordinated Attack, increase the active Resonator's ATK by 20% for 4s",
+        "fr": "Le dégât d'Attaque coopérative est augmenté de 80%. Quand l'Attaque coopérative atteint l'ennemi et c'est une attaque critique, l'ATQ du membre actif est augmenté de 20% pendant 4 secondes."
+      }
     }
   },
   {
     "id": "Tidebreaking Courage",
-    "name": {"en": "Tidebreaking Courage", "fr": "Bravoure des vagues"},
+    "name": {
+      "en": "Tidebreaking Courage",
+      "fr": "Bravoure des vagues"
+    },
     "bonuses": {
-      "2": {"en": "Energy Regen +10%", "fr": "La Recharge résonante est augmentée de 10%."},
-      "5": {"en": "Increase the Resonator's ATK by 15%. Reaching 250% Energy Regen increases all Attribute DMG by 30% for the Resonator", "fr": "L'ATQ du personnage est augmentée de 15%. Si la Recharge résonante atteint 250%, les Dégâts de tous les attributs du personnage sont augmentés de 30%."}
+      "2": {
+        "en": "Energy Regen +10%",
+        "fr": "La Recharge résonante est augmentée de 10%.",
+        "stats": {
+          "RR": 10.0
+        }
+      },
+      "5": {
+        "en": "Increase the Resonator's ATK by 15%. Reaching 250% Energy Regen increases all Attribute DMG by 30% for the Resonator",
+        "fr": "L'ATQ du personnage est augmentée de 15%. Si la Recharge résonante atteint 250%, les Dégâts de tous les attributs du personnage sont augmentés de 30%."
+      }
     }
   },
   {
     "id": "Gusts of Welkin",
-    "name": {"en": "Gusts of Welkin", "fr": "Air du Paradis"},
+    "name": {
+      "en": "Gusts of Welkin",
+      "fr": "Air du Paradis"
+    },
     "bonuses": {
-      "2": {"en": "Aero DMG +10%", "fr": "Le Dégât Aero est augmenté de 10%"},
-      "5": {"en": "Inflicting Aero Erosion on enemies increases Aero DMG for all Resonators in the team by 15%, and for the Resonator triggering this effect by an additional 15%, lasting for 20s", "fr": "Quand le personnage impose l'« Effet de l'érosion aéronautique » à l'ennemi, le Dégât Aero de tous les membres de l'équipe est augmenté de 15%, celui de lui-même est augmenté de 15% de manière additionnelle pendant 20 seconde(s)."}
+      "2": {
+        "en": "Aero DMG +10%",
+        "fr": "Le Dégât Aero est augmenté de 10%",
+        "stats": {
+          "Aero": 10.0
+        }
+      },
+      "5": {
+        "en": "Inflicting Aero Erosion on enemies increases Aero DMG for all Resonators in the team by 15%, and for the Resonator triggering this effect by an additional 15%, lasting for 20s",
+        "fr": "Quand le personnage impose l'« Effet de l'érosion aéronautique » à l'ennemi, le Dégât Aero de tous les membres de l'équipe est augmenté de 15%, celui de lui-même est augmenté de 15% de manière additionnelle pendant 20 seconde(s)."
+      }
     }
   },
   {
     "id": "Windward Pilgrimage",
-    "name": {"en": "Windward Pilgrimage", "fr": "Pèlerinage au vent"},
+    "name": {
+      "en": "Windward Pilgrimage",
+      "fr": "Pèlerinage au vent"
+    },
     "bonuses": {
-      "2": {"en": "Aero DMG +10%", "fr": "Les Dégâts Aero sont augmentés de 10%."},
-      "5": {"en": "Hitting a target with Aero Erosion increases Crit Rate by 10% and grants 30% Aero DMG Bonus, lasting for 10s", "fr": "Quand l'attaque du personnage touche un ennemi affecté par l'« Effet de l'érosion aéronautique », son Taux critique est augmenté de 10%, ses Dégâts Aero sont augmentés de 30% pendant 10 secondes."}
+      "2": {
+        "en": "Aero DMG +10%",
+        "fr": "Les Dégâts Aero sont augmentés de 10%.",
+        "stats": {
+          "Aero": 10.0
+        }
+      },
+      "5": {
+        "en": "Hitting a target with Aero Erosion increases Crit Rate by 10% and grants 30% Aero DMG Bonus, lasting for 10s",
+        "fr": "Quand l'attaque du personnage touche un ennemi affecté par l'« Effet de l'érosion aéronautique », son Taux critique est augmenté de 10%, ses Dégâts Aero sont augmentés de 30% pendant 10 secondes."
+      }
     }
   },
   {
     "id": "Flaming Clawprint",
-    "name": {"en": "Flaming Clawprint", "fr": "Griffe enflammée"},
+    "name": {
+      "en": "Flaming Clawprint",
+      "fr": "Griffe enflammée"
+    },
     "bonuses": {
-      "2": {"en": "Fusion DMG +10%", "fr": "Les Dégâts Fusion sont augmentés de 10%."},
-      "5": {"en": "Casting Resonance Liberation increases Fusion DMG of Resonators in the team by 15% and the caster's Resonance Liberation DMG by 20%, lasting for 35s", "fr": "Quand la Libération résonatrice est lancée, les Dégâts Fusion des membres de l'équipe sont augmentés de 15%. Les Dégâts de Libération résonatrice du personnage sont augmentés de 20% pendant 35 secondes."}
+      "2": {
+        "en": "Fusion DMG +10%",
+        "fr": "Les Dégâts Fusion sont augmentés de 10%.",
+        "stats": {
+          "Fusion": 10.0
+        }
+      },
+      "5": {
+        "en": "Casting Resonance Liberation increases Fusion DMG of Resonators in the team by 15% and the caster's Resonance Liberation DMG by 20%, lasting for 35s",
+        "fr": "Quand la Libération résonatrice est lancée, les Dégâts Fusion des membres de l'équipe sont augmentés de 15%. Les Dégâts de Libération résonatrice du personnage sont augmentés de 20% pendant 35 secondes."
+      }
     }
   },
   {
     "id": "Chromatic Foam",
-    "name": {"en": "Chromatic Foam", "fr": "Mousse chromatique"},
+    "name": {
+      "en": "Chromatic Foam",
+      "fr": "Mousse chromatique"
+    },
     "bonuses": {
-      "2": {"en": "Fusion DMG +10%", "fr": "Les Dégâts Fusion sont augmentés de 10%."},
-      "5": {"en": "When the Resonator inflicts Fusion Burst on the enemies, they gain the following effects: Gain 10% Fusion DMG Bonus for 15s. While this effect is active, casting an Outro Skill grants the incoming Resonator 25% Fusion DMG Bonus for 15s", "fr": "Quand le personnage applique l'« Effet de l'explosion fusion » à l'ennemi, il obtient des bonus suivants : Les Dégâts Fusion sont augmentés de 10% pendant 15 secondes. Pendant cette durée, les Dégâts Fusion du prochain membre actif qui a lancé une Compétence d'Intro augmentent de 25% pendant 15 secondes après le lancement de la Compétence d'Outro."}
+      "2": {
+        "en": "Fusion DMG +10%",
+        "fr": "Les Dégâts Fusion sont augmentés de 10%.",
+        "stats": {
+          "Fusion": 10.0
+        }
+      },
+      "5": {
+        "en": "When the Resonator inflicts Fusion Burst on the enemies, they gain the following effects: Gain 10% Fusion DMG Bonus for 15s. While this effect is active, casting an Outro Skill grants the incoming Resonator 25% Fusion DMG Bonus for 15s",
+        "fr": "Quand le personnage applique l'« Effet de l'explosion fusion » à l'ennemi, il obtient des bonus suivants : Les Dégâts Fusion sont augmentés de 10% pendant 15 secondes. Pendant cette durée, les Dégâts Fusion du prochain membre actif qui a lancé une Compétence d'Intro augmentent de 25% pendant 15 secondes après le lancement de la Compétence d'Outro."
+      }
     }
   },
   {
     "id": "Dream of the Lost",
-    "name": {"en": "Dream of the Lost", "fr": "Rêve du perdu"},
+    "name": {
+      "en": "Dream of the Lost",
+      "fr": "Rêve du perdu"
+    },
     "bonuses": {
-      "3": {"en": "Holding 0 Resonance Energy increases Crit. Rate by 20% and grants 35% Echo Skill DMG Bonus", "fr": "Si l'énergie résonatrice du personnage est 0, le Taux critique est augmenté de 20%, le Bonus de Dégâts de la Compétence d'Écho est augmenté de 35%."}
+      "3": {
+        "en": "Holding 0 Resonance Energy increases Crit. Rate by 20% and grants 35% Echo Skill DMG Bonus",
+        "fr": "Si l'énergie résonatrice du personnage est 0, le Taux critique est augmenté de 20%, le Bonus de Dégâts de la Compétence d'Écho est augmenté de 35%."
+      }
     }
   },
   {
     "id": "Crown of Valor",
-    "name": {"en": "Crown of Valor", "fr": "Couronne de vaillance"},
+    "name": {
+      "en": "Crown of Valor",
+      "fr": "Couronne de vaillance"
+    },
     "bonuses": {
-      "3": {"en": "Upon gaining a Shield, increase the Resonator's ATK by 6% and Crit DMG by 4% for 4s. This effect can be triggered once every 0.5s and stacks up to 5 times", "fr": "L'ATQ du personnage est augmentée de 6%, ses Dégâts critiques sont augmentés de 4% lorsqu'il obtient un bouclier. L'effet peut être cumulé 5 fois et il dure 4 secondes et il peut être déclenché 1 fois toutes les 0.5 secondes."}
+      "3": {
+        "en": "Upon gaining a Shield, increase the Resonator's ATK by 6% and Crit DMG by 4% for 4s. This effect can be triggered once every 0.5s and stacks up to 5 times",
+        "fr": "L'ATQ du personnage est augmentée de 6%, ses Dégâts critiques sont augmentés de 4% lorsqu'il obtient un bouclier. L'effet peut être cumulé 5 fois et il dure 4 secondes et il peut être déclenché 1 fois toutes les 0.5 secondes."
+      }
     }
   },
   {
     "id": "Law of Harmony",
-    "name": {"en": "Law of Harmony", "fr": "Loi de l'harmonie"},
+    "name": {
+      "en": "Law of Harmony",
+      "fr": "Loi de l'harmonie"
+    },
     "bonuses": {
-      "3": {"en": "Casting Echo Skill grants 30% Heavy Attack DMG Bonus to the caster for 4s. Additionally, all Resonators in the team gain 4% Echo Skill DMG Bonus for 30s, stacking up to 4 times", "fr": "Lorsque le personnage lance la Compétence d'Écho, son Bonus de Dégâts d'Attaque lourde est augmenté de 30% pendant 4 secondes. Le Bonus de Dégâts de Compétence d'Écho de tous les membres de l'équipe est augmenté de 4%. L'effet dure 30 secondes. Il peut être cumulé 4 fois et déclenché 1 fois par les Échos du même nom, et le record de déclenchement sera effacé lorsqu'il disparaît. S'il est cumulé 4 fois, lancez la compétence d'Écho pour réinitialiser la durée de l'effet."}
+      "3": {
+        "en": "Casting Echo Skill grants 30% Heavy Attack DMG Bonus to the caster for 4s. Additionally, all Resonators in the team gain 4% Echo Skill DMG Bonus for 30s, stacking up to 4 times",
+        "fr": "Lorsque le personnage lance la Compétence d'Écho, son Bonus de Dégâts d'Attaque lourde est augmenté de 30% pendant 4 secondes. Le Bonus de Dégâts de Compétence d'Écho de tous les membres de l'équipe est augmenté de 4%. L'effet dure 30 secondes. Il peut être cumulé 4 fois et déclenché 1 fois par les Échos du même nom, et le record de déclenchement sera effacé lorsqu'il disparaît. S'il est cumulé 4 fois, lancez la compétence d'Écho pour réinitialiser la durée de l'effet."
+      }
     }
   },
   {
     "id": "Flamewing's Shadow",
-    "name": {"en": "Flamewing's Shadow", "fr": "Ombre de l'aile de feu"},
+    "name": {
+      "en": "Flamewing's Shadow",
+      "fr": "Ombre de l'aile de feu"
+    },
     "bonuses": {
-      "3": {"en": "Dealing Echo Skill DMG increases Heavy Attack Crit. Rate by 20% for 6s. Dealing Heavy Attack DMG increases Echo Skill Crit. Rate by 20% for 6s. While both effects are active, gain 16% Fusion DMG Bonus", "fr": "Lorsque le personnage inflige des Dégâts de Compétence d'Écho, le Taux critique des Dégâts d'Attaque lourde est augmenté de 20% pendant 6 secondes; lorsqu'il inflige des Dégâts d'Attaque lourde, le Taux critique des Dégâts d'Attaque lourde est augmenté de 20% pendant 6 secondes. Si ces deux bonus ont été activés simultanément, les Dégâts Fusion du personnage sont augmentés de 16%."}
+      "3": {
+        "en": "Dealing Echo Skill DMG increases Heavy Attack Crit. Rate by 20% for 6s. Dealing Heavy Attack DMG increases Echo Skill Crit. Rate by 20% for 6s. While both effects are active, gain 16% Fusion DMG Bonus",
+        "fr": "Lorsque le personnage inflige des Dégâts de Compétence d'Écho, le Taux critique des Dégâts d'Attaque lourde est augmenté de 20% pendant 6 secondes; lorsqu'il inflige des Dégâts d'Attaque lourde, le Taux critique des Dégâts d'Attaque lourde est augmenté de 20% pendant 6 secondes. Si ces deux bonus ont été activés simultanément, les Dégâts Fusion du personnage sont augmentés de 16%."
+      }
     }
   },
   {
     "id": "Thread of Severed Fate",
-    "name": {"en": "Thread of Severed Fate", "fr": "Fil du destin tranché"},
+    "name": {
+      "en": "Thread of Severed Fate",
+      "fr": "Fil du destin tranché"
+    },
     "bonuses": {
-      "3": {"en": "Inflicting Havoc Bane increases the Resonator's ATK by 20% and grants 30% Resonance Liberation DMG Bonus for 5s", "fr": "Quand le personnage impose l'Effet de ravage havoc à une cible, son ATQ augmente de 20%, son Bonus de dégâts de Libération résonatrice augmente de 30% pendant 5 secondes."}
+      "3": {
+        "en": "Inflicting Havoc Bane increases the Resonator's ATK by 20% and grants 30% Resonance Liberation DMG Bonus for 5s",
+        "fr": "Quand le personnage impose l'Effet de ravage havoc à une cible, son ATQ augmente de 20%, son Bonus de dégâts de Libération résonatrice augmente de 30% pendant 5 secondes."
+      }
     }
   },
   {
     "id": "Pact of Neonlight Leap",
-    "name": {"en": "Pact of Neonlight Leap", "fr": "Pacte de saut de néon"},
+    "name": {
+      "en": "Pact of Neonlight Leap",
+      "fr": "Pacte de saut de néon"
+    },
     "bonuses": {
-      "2": {"en": "Spectro DMG +10%", "fr": "Les dégâts Spectro sont augmentés de 10%."},
-      "5": {"en": "Casting outro Skill increases the ATK of the incoming Resonator who casts Intro Skill by 15%. Each point of Tune Break Boost the incoming Resonator has additionally increases their ATK by 0.3%, up to 15%", "fr": "Après que la Compétence d'Outro est lancée, l'ATQ du prochain membre actif qui a lancé la Compétence d'Intro est augmentée de 15%. Chaque point de Bonus de rupture augmente son ATQ de 0.3% de manière additionnelle jusqu'à un maximum de 15%. Ces effets durent 15 secondes et ils disparaissent lorsque le membre actif est changé."}
+      "2": {
+        "en": "Spectro DMG +10%",
+        "fr": "Les dégâts Spectro sont augmentés de 10%.",
+        "stats": {
+          "Spectro": 10.0
+        }
+      },
+      "5": {
+        "en": "Casting outro Skill increases the ATK of the incoming Resonator who casts Intro Skill by 15%. Each point of Tune Break Boost the incoming Resonator has additionally increases their ATK by 0.3%, up to 15%",
+        "fr": "Après que la Compétence d'Outro est lancée, l'ATQ du prochain membre actif qui a lancé la Compétence d'Intro est augmentée de 15%. Chaque point de Bonus de rupture augmente son ATQ de 0.3% de manière additionnelle jusqu'à un maximum de 15%. Ces effets durent 15 secondes et ils disparaissent lorsque le membre actif est changé."
+      }
     }
   },
   {
     "id": "Halo of Starry Radiance",
-    "name": {"en": "Halo of Starry Radiance", "fr": "Aurore de lumière étoilée"},
+    "name": {
+      "en": "Halo of Starry Radiance",
+      "fr": "Aurore de lumière étoilée"
+    },
     "bonuses": {
-      "2": {"en": "Healing Bonus +10%", "fr": "Le Bonus de Soins est augmenté de 10%"},
-      "5": {"en": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants a 0.2% ATK increase to all Resonators in the team for 4s, up to 25%", "fr": "Lorsque le personnage restaure les PV, 1% de l'Efficacité de Dissonance du personnage augmente l'ATQ de tous les membres de l'équipe de 0.2% jusqu'à un maximum de 25%. L'effet dure 4 secondes et le bonus du même nom ne sera pas activé de manière répétitive."}
+      "2": {
+        "en": "Healing Bonus +10%",
+        "fr": "Le Bonus de Soins est augmenté de 10%",
+        "stats": {
+          "Heal": 10.0
+        }
+      },
+      "5": {
+        "en": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants a 0.2% ATK increase to all Resonators in the team for 4s, up to 25%",
+        "fr": "Lorsque le personnage restaure les PV, 1% de l'Efficacité de Dissonance du personnage augmente l'ATQ de tous les membres de l'équipe de 0.2% jusqu'à un maximum de 25%. L'effet dure 4 secondes et le bonus du même nom ne sera pas activé de manière répétitive."
+      }
     }
   },
   {
     "id": "Rite of Gilded Revelation",
-    "name": {"en": "Rite of Gilded Revelation", "fr": "Rite de la révélation dorée"},
+    "name": {
+      "en": "Rite of Gilded Revelation",
+      "fr": "Rite de la révélation dorée"
+    },
     "bonuses": {
-      "2": {"en": "Spectro DMG +10%", "fr": "Les dégâts Spectro sont augmentés de 10%."},
-      "5": {"en": "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s, stacking up to 3 times. With 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus", "fr": "Les Dégâts Spectro du personnage sont augmentés de 10% lorsque le personnage inflige des Dégâts d'Attaque normale. L'effet peut être cumulé 3 fois et il dure 5 secondes. Lorsqu'il a été accumulé 3 fois, le Bonus de Dégâts d'Attaque normale est augmenté de 40% lorsque la Libération résonatrice est lancée."}
+      "2": {
+        "en": "Spectro DMG +10%",
+        "fr": "Les dégâts Spectro sont augmentés de 10%.",
+        "stats": {
+          "Spectro": 10.0
+        }
+      },
+      "5": {
+        "en": "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s, stacking up to 3 times. With 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus",
+        "fr": "Les Dégâts Spectro du personnage sont augmentés de 10% lorsque le personnage inflige des Dégâts d'Attaque normale. L'effet peut être cumulé 3 fois et il dure 5 secondes. Lorsqu'il a été accumulé 3 fois, le Bonus de Dégâts d'Attaque normale est augmenté de 40% lorsque la Libération résonatrice est lancée."
+      }
     }
   },
   {
     "id": "Trailblazing Star",
-    "name": {"en": "Trailblazing Star", "fr": "Étoile novatrice"},
+    "name": {
+      "en": "Trailblazing Star",
+      "fr": "Étoile novatrice"
+    },
     "bonuses": {
-      "2": {"en": "Fusion DMG +10%", "fr": "Les Dégâts Fusion sont augmentés de 10%."},
-      "5": {"en": "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit. Rate by 20% and grants 20% Fusion DMG Bonus for 8s", "fr": "Quand le personnage applique l'Effet de l'explosion fusion ou la Rupture d'accord - Basculement à une cible, son Taux critique augmente de 20%, ses dégâts Fusion augmentent de 20% pendant 8 secondes."}
+      "2": {
+        "en": "Fusion DMG +10%",
+        "fr": "Les Dégâts Fusion sont augmentés de 10%.",
+        "stats": {
+          "Fusion": 10.0
+        }
+      },
+      "5": {
+        "en": "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit. Rate by 20% and grants 20% Fusion DMG Bonus for 8s",
+        "fr": "Quand le personnage applique l'Effet de l'explosion fusion ou la Rupture d'accord - Basculement à une cible, son Taux critique augmente de 20%, ses dégâts Fusion augmentent de 20% pendant 8 secondes."
+      }
     }
   },
   {
     "id": "Sound of True Name",
-    "name": {"en": "Sound of True Name", "fr": "Chant du nom sacré"},
+    "name": {
+      "en": "Sound of True Name",
+      "fr": "Chant du nom sacré"
+    },
     "bonuses": {
-      "2": {"en": "Aero DMG +10%", "fr": "Les Dégâts Aero sont augmentés de 10%."},
-      "5": {"en": "Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by 20%, and grants 15% Aero DMG Bonus for 5s", "fr": "Dès que le personnage inflige des Dégâts de Compétence d'Écho, le Taux critique des Dégâts de Compétence d'Écho augmente de 20%, les Dégâts Aero augmentent de 15% pendant 5 secondes."}
+      "2": {
+        "en": "Aero DMG +10%",
+        "fr": "Les Dégâts Aero sont augmentés de 10%.",
+        "stats": {
+          "Aero": 10.0
+        }
+      },
+      "5": {
+        "en": "Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by 20%, and grants 15% Aero DMG Bonus for 5s",
+        "fr": "Dès que le personnage inflige des Dégâts de Compétence d'Écho, le Taux critique des Dégâts de Compétence d'Écho augmente de 20%, les Dégâts Aero augmentent de 15% pendant 5 secondes."
+      }
     }
   }
 ]
