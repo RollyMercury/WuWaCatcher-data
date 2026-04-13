@@ -9,7 +9,14 @@
     "sonatas": [
       "Moonlit Clouds",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Activate the protection of Bell-Borne Geochelone. Deal Glacio DMG based on 145.92% of the current character's DEF to nearby enemies, and obtain a Bell-Borne Shield that lasts for 15s\n\nThe Bell-Borne Shield provides 50.00% DMG Reduction and 10.00% DMG Boost for the current team members, and disappears after the current character is hit for 3 times.\n\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer la protection de la Tortue clochante, infligeant aux ennemis proches des Dégâts Glacio basés sur la défense de 145.92% et obtient le Bouclier de la Tortue clochante, qui dure 15 secondes.\r\nLe Bouclier de la Tortue clochante offre aux personnages de l'Équipe sur le terrain une réduction de 50.00% des dégâts et une augmentation de 10.00% des dégâts, et disparaît après 3 attaques.\r\nTemps de recharge de la compétence : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Crownless",
@@ -20,7 +27,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Crownless and perform up to 4 consecutive attacks. The first 2 attacks deal 134.08% Havoc DMG each, the 3rd attack deals 100.56% Havoc DMG 2 times, and the 4th attack deals 67.04% Havoc DMG 3 times.\n\nAfter the transformation, increase current character's Havoc DMG by 12.00% and Resonance Skill DMG by 12.00% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Sans couronne pour effectuer jusqu'à 4 attaques consécutives. Les deux premières infligent 134.08% des Dégâts Havoc. La 3ème attaque inflige 100.56% de Dégâts Havoc pour 2 fois. La 4ème inflige 67.04% de Dégâts Havoc pour 3 fois.\nAprès la transformation, les Dégâts Havoc du personnage augmentent de 12.00%. Ceux des Dégâts de la Compétence résonatrice augmentent de 12.00% pendant 15 secondes.\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Dragon of Dirge",
@@ -31,7 +45,14 @@
     "cost": 4,
     "sonatas": [
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Dragon of Dirge and summon a Grief Rift lasting for 5s. Periodically deal 36.81% Fusion DMG to enemies within the area of effect.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Fusion DMG Bonus and 12.00% Basic Attack DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho et se transformer en Dragon de chagrin. Cela vous permet de créer une « Zone de tristesse » qui dure 5 secondes pour attaquer les ennemis et infliger 36.81% de Dégât Fusion continuellement.\nSi ceci est équipé en tant que l'Écho principal, le Bonus de dégât Fusion du personnage est augmenté de 12.00%, celui d'Attaque normale du personnage est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Dreamless",
@@ -42,7 +63,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Dreamless and perform 6 consecutive strikes. The first 5 strikes deal 54.08% Havoc DMG each, and the last strike deal 270.40% Havoc DMG.\nThe DMG of this Echo Skill is increased by 50.00% during the first 5s after Rover: Havoc casts Resonance Liberation: Deadening Abyss.\n\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en le Sans délire et attaquer l'ennemi. Les cinq premières attaques infligent 54.08% de Dégâts Havoc. La sixième inflige 270.40% Dégâts Havoc. \n\nSi Nomade : Havoc utilise cette compétence d'Écho dans 5 secondes après avoir utilisé la Libération résonatrice : Le Silence d'abîme, les dégâts infligés par cette Compétence d'Écho augmentent : 50.00%.\n\nTemps de recharge de la compétence : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Fallacy of No Return",
@@ -53,7 +81,14 @@
     "cost": 4,
     "sonatas": [
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Activate the Echo Skill to summon a fraction of the Fallacy of No Return's power and deal a blast to the surrounding area, inflicting Spectro DMG equal to 15.86% of max HP, after which the Resonator gains 10% bonus Energy Regen and all team members 10% bonus ATK for 20s.\nHold Echo Skill to unleash a series of flurry assaults at the cost of STA, each dealing Spectro DMG equal to 1.58% of max HP; Release to end the assail in a powerful blow, dealing Spectro DMG equal to 19.82% of max HP.\nCD: 20s",
+        "fr": "Lancer la Compétence d'Écho pour invoquer une fraction de la puissance de l'Erreur intarissable et attaquer la zone environnante. Cette attaque cause des dégâts Spectro équivalents à 15.86% de votre PV maximum. La recharge résonante augmente de 10%. L'ATQ de tous les membres de l'équipe augmente de 10% pendant 20 secondes.\nAppuyez longuement sur la touche de la Compétence d'Écho pour consommer des points d'Endurance et lancer une série d'attaques rapides. Chaque coup cause des dégâts Spectro équivalents à 1.58% de PV maximum. Relâchez pour lancer un dernier coup puissant qui cause des dégâts Spectro équivalents à 19.82% de PV maximum.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Feilian Beringal",
@@ -64,7 +99,14 @@
     "cost": 4,
     "sonatas": [
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Feilian Beringal to perform a powerful kick. If the kick lands on an enemy, immediately perform a follow-up strike. The kick deals 231.84% Aero DMG, and the follow-up strike deals 283.36% Aero DMG.\r\n\r\nAfter the follow-up strike hits, the current character's Aero DMG increases by 12.00%, and the Heavy Attack DMG increases by 12.00% for 15s\r\n\r\nCD: 20s",
+        "fr": "Se transformer en Feilian Beringal pour effectuer un puissant coup de pied. Si le coup de pied atteint un ennemi, effectuer immédiatement une attaque de suivi. Le coup de pied inflige 231.84% de Dégâts AERO. L'attaque de suivi inflige 283.36% de Dégâts AERO.\nAprès que l'attaque de suivi atteint l'adversaire, les Dégâts AERO du personnage actuel augmentent de 12.00%. Les Dégâts de l'Attaque lourde augmentent de 12.00% pendant 15s.\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Hecate",
@@ -81,7 +123,14 @@
       "Celestial Light",
       "Void Thunder",
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon 3 twirling Crescent Servants around you. Crescent Servants attack enemies with their spinning blades, dealing 45.59% Havoc DMG. Triggering a Counterattack with the Echo attacks resets the Crescent Servants' duration.\nThe Resonator with this Echo equipped in the main slot has their Coordinated Attack DMG increased by 40.00%.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer 3 « Servantes de la Lune Croissante » autour de vous, qui attaque les ennemis et infliger 45.59% de Dégâts Havoc. Si vous Ripostez une attaque avec l'Attaque de l'Écho, la durée d'existence des Servantes de la Lune Croissante est réinitialisée.\nSi l'Écho est équipé en tant que l'Écho principal, les dégâts de l'attaque coopérative sont augmentés de 40.00%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Hyvatia",
@@ -93,7 +142,14 @@
     "sonatas": [
       "Pact of Neonlight Leap",
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Hyvatia to fire lasers at enemies from mid-air, dealing 27.36% Spectro DMG 10 times.\n\nCasting Outro Skill within 15s after summoning Hyvatia grants 10.00% All-Attribute DMG Bonus to the next Resonator using Intro Skill for 15s.\n\nCD: 20s.",
+        "fr": "Invoquez une Hyvatia pour lancer des rayons en infligeant 27.36% de Dégâts Spectro à 10 reprises.\n Si le personnage lance la Compétence d'Outro dans 15 secondes après le lancement de cette compétence, le bonus de degâts de tous les attributs du prochain membre actif qui entre en combat en utilisant une Compétence d'Intro est augmenté de 10.00% pendant 15 secondes.\n Temps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Impermanence Heron",
@@ -104,7 +160,14 @@
     "cost": 4,
     "sonatas": [
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Impermanence Heron to fly up and smack down, dealing 310.56% Havoc DMG.\n\nLong press to stay as Impermanence Heron and continuously spit flames, each attack dealing 55.73% Havoc DMG.\n\nOnce the initial attack lands on any enemy, the current character regains 10 Resonance Energy. If the current character uses their Outro Skill within the next 15s, the next character's damage dealt will be boosted by 12% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Héron impermanent pour s'envoler et frapper. Cela inflige 310.56% de Dégâts Havoc.\nAppuyez longuement la touche de compétence d'Écho pour lancer continuellement des flammes. Chaque attaque inflige 55.73% de Dégâts Havoc.\nUne fois que l'attaque initiale atteint un ennemi, le personnage actuel récupère 10 points d'Énergie résonatrice. S'il utilise sa Compétence d'Outro dans les 15 secondes suivantes, les dégâts infligés par le personnage qui entrera dans le combat augmentent de 12% pendant 15 secondes.\nTemps de recharge : 20s"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Inferno Rider",
@@ -115,7 +178,14 @@
     "cost": 4,
     "sonatas": [
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into the Inferno Rider to launch up to 3 consecutive slashes in a row, each slash dealing 242.40%, 282.80%, and 282.80% Fusion DMG respectively.\n\nAfter the final hit, increase the current Resonator's Fusion DMG by 12.00% and Basic Attack DMG by 12.00% for 15s.\n\nLong press the Echo Skill to transform into the Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal 282.80% Fusion DMG to enemies in front.\n\nCD: 20s",
+        "fr": "Se transformer en Chevalier d'Inferno pour lancer jusqu'à 3 attaques consécutives. Ces attaques infligent respectivement 242.40%, 282.80%, et 282.80% de Dégâts Fusion.\nAprès le dernier coup, les Dégâts Fusion du personnage augmentent : 12.00%. Ceux des Dégâts d'Attaque normale augmentent : 12.00% pendant 15 secondes.\nAppuyez longuement la touche de la Compétence d'Écho pour se transformer en Chevalier d'Inferno et entrer en Mode Chevalier. En sortant du Mode Chevalier, vous infligez 282.80% de Dégâts Fusion aux ennemis devant vous.\n\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Jué",
@@ -126,7 +196,14 @@
     "cost": 4,
     "sonatas": [
       "Celestial Light"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Jué to the aid. Jué soars through the air, dealing 48.64% Spectro DMG, and summons thunderbolts that strike nearby enemies up to 5 times, each hit dealing 19.46% Spectro DMG. Jué then spirals downward, attacking surrounding enemies twice, each hit dealing 48.64% Spectro DMG.\nCasting this Echo Skill grants the Resonator a Blessing of Time effect that lasts 15s, during when:\n- The Resonator gains 16.00% Resonance Skill DMG Bonus.\n- When the Resonator's Resonance Skill hits the target, inflict 16.00% Spectro DMG 1 time per second for 15s, considered as the Resonator's Resonance Skill DMG.\nCD: 20s",
+        "fr": "Invoquer « Jiao » pour sauter en l'air, infliger 48.64% de dégâts Spectro aux ennemis en déclenchant la Foudre de Lumière. La Foudre de Lumière inflige au maximum 5 fois de dégâts. Chacune inflige 19.46% de dégâts Spectro aux ennemis à proximité. Ensuite, « Jiao » tournoie vers le bas pour attaquer les ennemis à proximité, cela inflige 48.64% de dégâts Spectro pour deux fois. \nLancer la compétence d'Écho pour obtenir une « Bénédiction du Temps » qui dure 15 secondes. \nPendant que l'effet est en vigueur : \n- Augmenter 16.00% des dégâts de la Compétence résonatrice. \n- Après que la Compétence résonatrice atteint l'adversaire, elle inflige 16.00% de dégâts supplémentaires une fois par seconde. Ces dégâts sont ceux des compétences résonatrices du personnage. L'effet dure 15 secondes. \nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Lady of the Sea",
@@ -137,7 +214,14 @@
     "cost": 4,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Tidestorm to deal 13.68% Aero DMG ten times and 164.16% Aero DMG one time to enemies.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Aero DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\nCD: 20s",
+        "fr": "Lancer la Compétence d'Écho pour invoquer une « Vague orageuse » qui inflige 13.68% de Dégâts Aero jusqu'à 10 fois et 164.16% de Dégâts Aero pour 1 fois.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de Libération résonatrice est augmenté de 12.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Lampylumen Myriad",
@@ -148,7 +232,14 @@
     "cost": 4,
     "sonatas": [
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Lampylumen Myriad. Perform up to 3 consecutive attacks.\n\nUnleash a freezing shock by performing consecutive forward strikes, with the initial two strikes inflicting 200.16% and 200.16% Glacio DMG respectively, and the final strike dealing 266.88% Glacio DMG. Enemies will be frozen on hit.\n\nEach shock increases the current character's Glacio DMG by 4.00% and Resonance Skill DMG dealt by 4.00% for 15s, stacking up to 3 times\n\nCD: 20s",
+        "fr": "Se transformer en Myriade de Lampylumen. Effectuer jusqu'à 3 attaques consécutives.\nDéclencher un choc de gel en effectuant des attaques consécutives vers l'avant. Les deux premières attaques infligent respectivement 200.16% et 200.16% des Dégâts Glacio. La dernière attaque inflige 266.88% de Dégâts Glacio. Les ennemis seront gelés sur le coup.\nChaque choc augmente les Dégâts Glacio du personnage de 4.00%. Les Dégâts de la Compétence résonatrice augmentent de 4.00% pendant 15 secondes. Cet effet peut être cumulé jusqu'à 3 fois.\n\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Lioness of Glory",
@@ -159,7 +250,14 @@
     "cost": 4,
     "sonatas": [
       "Flaming Clawprint"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon the Halberd of Glory to crush an area, dealing 82.08% Fusion DMG to nearby targets, and then blast off after a short delay, dealing 191.52% Fusion DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Fusion DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\nCD: 20s",
+        "fr": "Lancer la Compétence d'Écho pour invoquer la Lance glorieuse et infliger 82.08% de Dégâts Fusion aux ennemis autour. Puis, infliger 191.52% de Dégâts Fusion après une certaine durée.\n Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Fusion est augmenté de 12.00%, le dégât de Libération résonatrice est augmenté de 12.00%.\n Temps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Lorelei",
@@ -170,7 +268,14 @@
     "cost": 4,
     "sonatas": [
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Lorelei and attack surrounding enemies, dealing 405.00% Havoc DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Havoc DMG Bonus and 12.00% Basic Attack DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho et se transformer en Lorelei. Infliger 405.00% de Dégâts Havoc aux ennemis autour de vous. \nSi ceci est équipé en tant que l'Écho principal, le Bonus de dégâts Havoc est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%.\nTemps de recharge : 25 seconde(s)."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Mech Abomination",
@@ -181,7 +286,14 @@
     "cost": 4,
     "sonatas": [
       "Lingering Tunes"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Strike enemies in front, dealing 48.64% Electro DMG, and summon Mech Waste to attack. Mech Waste deals 320.00% Electro DMG on hit and explodes after a while, dealing 160.00% Electro DMG.\n\nAfter casting this Echo Skill, increase the current character's ATK by 12.00% for 15s. \nDamage dealt by Mech Waste equals to the Resonator's Outro Skill DMG. \n\nCD: 20s",
+        "fr": "Frapper les ennemis devant vous pour infliger 48.64% des Dégâts Electro. Invoquer le Déchet mécanique pour attaquer les adversaires. Le Déchet mécanique inflige 320.00% de Dégâts Electro. Il l'impact et explose après un moment pour infliger 160.00% de Dégâts Electro.\n\nAprès avoir utilisé cette Compétence d'Écho, l'ATQ du personnage augmente : 12.00% pendant 15 secondes. \n\nLes dégâts infligés par le Déchet mécanique sont considérés comme ceux de Compétence d'Outro du personnage.\n\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Mourning Aix",
@@ -192,7 +304,14 @@
     "cost": 4,
     "sonatas": [
       "Celestial Light"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Mourning Aix and perform 2 consecutive claw attacks, each attack dealing 157.44% and 236.16% Spectro DMG respectively.\n\nAfter the transformation, increase current character's Spectro DMG by 12.00% and Resonance Liberation DMG by 12.00% for 15s\n\nCD: 20s",
+        "fr": "Se transformer en <color=Title>Vautour plaignant</color> et effectuer deux attaques consécutives. Chaque attaque inflige respectivement 157.44% et 236.16% <color=Highlight> Dégâts Spectro</color>.\r\n\r\nAprès la transformation, augmenter les <color=Highlight> Dégâts Spectro</color> du personnage actuel de 12.00% et les <color=Highlight> Dégâts de la Libération résonatrice</color> de 12.00% pendant 15 secondes.\r\n\r\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nameless Explorer",
@@ -203,7 +322,14 @@
     "cost": 4,
     "sonatas": [
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Nameless Explorer to attack enemies along its path, dealing 273.60% Aero DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Aero DMG Bonus and 20.00% Echo Skill DMG Bonus.\nCD: 20s.",
+        "fr": "Invoque un Explorateur sans nom pour lancer une attaque qui traverse les ennemis et infliger 273.60% de Dégâts Aero.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de la Compétence d'Écho est augmenté de 20.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nightmare: Crownless",
@@ -214,7 +340,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Crownless and attack enemies in front, dealing 264.60% Havoc DMG. The Resonator with this Echo equipped in their main slot gains 12.00% Havoc DMG Bonus and 12.00% Basic Attack DMG Bonus.\nThis skill has 3 initial charges, replenished once every 12s, max 3 charges. When Nightmare: Crownless hits a target, DMG dealt by this skill is increased by 20.00%. This effect lasts for 2s and does not stack.\nCD: 12s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Cauchemar : Sans couronne pour attaquer l'ennemi et infliger 264.60% de Dégâts Havoc. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de l'Attaque normale est augmenté de 12.00%.\nInitialement, vous pouvez lancer cette compétence 3 fois, vous obtenez 1 fois supplémentaire toutes les 12 secondes, cumulable jusqu'à 3 fois. Quand l'attaque du Cauchemar : Sans couronne atteint la cible, les Dégâts infligés par la Compétence d'Écho sont augmentés de 20.00% pendant 2 secondes. L'effet n'est pas cumulable.\nTemps de recharge : 12 secondes."
+      },
+      "cooldown": 12.0
+    }
   },
   {
     "id": "Nightmare: Feilian Beringal",
@@ -225,7 +358,14 @@
     "cost": 4,
     "sonatas": [
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Nightmare: Feilian Beringal to attack enemies, dealing 164.16% Aero DMG. The remaining Whirlwind Beam will continuously attack surrounding enemies up to 5 times, each dealing 21.89% Aero DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Aero DMG Bonus and 12.00% Heavy Attack DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Cauchemar : Feilian Beringal pour attaquer l'ennemi et infliger 164.16% de Dégâts Aero. La « Colonne du vent » laissée par l'Écho va attaquer continuellement les ennemis et infliger 5 fois de Dégâts Aero équivalents à 21.89%.\nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de l'Attaque lourde du personnage est augmenté de 12.00%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nightmare: Hecate",
@@ -236,7 +376,14 @@
     "cost": 4,
     "sonatas": [
       "Dream of the Lost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Hecate. Leap up and smash down, dealing 3 stages of damage, each dealing Havoc DMG equal to 152.39% of her ATK.\nThe Resonator with the Echo equipped in the main slot gains 12.00% Havoc DMG Bonus and 20.00% Echo Skill DMG Bonus.\nCD: 25s",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Hecate qui sautera et effectue une attaque plongeante de 3 coups. Chaque coup inflige 152.39% de Dégâts Havoc. \n Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de la Compétence d'Écho est augmenté de 20.00%. \n Temps de recharge : 25 secondes"
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Nightmare: Impermanence Heron",
@@ -247,7 +394,14 @@
     "cost": 4,
     "sonatas": [
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Impermanence Heron and deliver up to 10 consecutive strikes to surrounding enemies, each dealing 40.50% Havoc DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Havoc DMG Bonus and 12.00% Heavy Attack DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Héron impermanent pour attaquer l'ennemi 10 fois et infliger 40.50% de Dégâts Havoc chaque fois. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de l'Attaque lourde est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Nightmare: Inferno Rider",
@@ -258,7 +412,14 @@
     "cost": 4,
     "sonatas": [
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Inferno Rider and jump to attack enemies in front, dealing 405.00% Fusion DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Fusion DMG Bonus and 12.00% Resonance Skill DMG Bonus.\nHold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal 283.50% Fusion DMG to enemies in front.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Chevalier d'Inferno pour attaquer l'ennemi et infliger 405.00% de Dégâts Fusion à l'ennemi. Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Fusion est augmenté de 12.00% et celui de Compétence résonatrice du personnage est augmenté de 12.00%. \nAppuyez longuement la touche de la Compétence d'Écho pour se transformer en Chevalier d'Inferno continuellement et entrer en Mode Chevalier. En sortant du Mode Chevalier, vous infligez 283.50% de Dégâts Fusion aux ennemis devant vous.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Nightmare: Kelpie",
@@ -270,7 +431,14 @@
     "sonatas": [
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Kelpie to attack nearby targets, dealing 405.00% Glacio DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Glacio DMG Bonus and 12.00% Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal 405.00% Aero DMG.\nCD: 25s",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Kelpie et infliger 405.00% de Dégâts Glacio aux ennemis autour.\n Si l'Echo est équipé en tant que l'Echo principal, le Bonus de Dégâts Glacio du personnage est augmenté de 12.00%, le Bonus de Dégâts Aero est augmenté de 12.00%. Si le personnage quitte le combat en lançant la Compétence d'Outro, il invoque le Cauchemar : Kelpie pour attaquer et infliger 405.00% de Dégâts Aero aux ennemis autour.\n Temps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Nightmare: Lampylumen Myriad",
@@ -282,7 +450,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Lampylumen Myriad and attack surrounding enemies, dealing 273.60% Glacio DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Glacio DMG Bonus and deals 30.00% more Coordinated Attack DMG.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Cauchemar : Myriade de Lampylumen pour attaquer et infliger 273.60% de Dégâts Glacio. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Glacio est augmenté de 12.00%, le dégât de l'attaque coopérative est augmenté de 30.00%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nightmare: Mourning Aix",
@@ -293,7 +468,14 @@
     "cost": 4,
     "sonatas": [
       "Eternal Radiance"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Nightmare: Mourning Aix to attack surrounding enemies, dealing 273.60% Spectro DMG. DMG dealt to enemies inflicted by Spectro Frazzle is increased by 100.00%.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Spectro DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Cauchemar : Vautour plaignant pour attaquer les ennemis et infliger 273.60% Dégâts Spectro.\nSi l'ennemi est affecté par l'Effet de la lumière spectro, les Dégâts infligés par le Vautour plaignant sont augmentés de 100.00%.\nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Spectro du personnage est augmenté de 12.00%\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nightmare: Tempest Mephis",
@@ -305,7 +487,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Tempest Mephis and attack surrounding enemies, dealing 405.00% Electro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Electro DMG Bonus and 12.00% Resonance Skill DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Mephis tonerre pour attaquer l'ennemi et infliger 405.00% de dégâts Electro. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de Compétence résonatrice est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Nightmare: Thundering Mephis",
@@ -316,7 +505,14 @@
     "cost": 4,
     "sonatas": [
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Thundering Mephis and attack enemies in front, dealing 405.00% Electro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Electro DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Mephis éclatant pour attaquer l'ennemi et infliger 405.00% de dégâts Electro. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc du personnage est augmenté de 12.00%, celui de Libération résonatrice est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Phantom: Crownless",
@@ -327,7 +523,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Crownless and perform up to 4 consecutive attacks. The first 2 attacks deal 134.08% Havoc DMG each, the 3rd attack deals 100.56% Havoc DMG 2 times, and the 4th attack deals 67.04% Havoc DMG 3 times.\n\nAfter the transformation, increase current character's Havoc DMG by 12.00% and Resonance Skill DMG by 12.00% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Sans couronne pour effectuer jusqu'à 4 attaques consécutives. Les deux premières infligent 134.08% des Dégâts Havoc. La 3ème attaque inflige 100.56% de Dégâts Havoc pour 2 fois. La 4ème inflige 67.04% de Dégâts Havoc pour 3 fois.\nAprès la transformation, les Dégâts Havoc du personnage augmentent de 12.00%. Ceux des Dégâts de la Compétence résonatrice augmentent de 12.00% pendant 15 secondes.\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Dreamless",
@@ -338,7 +541,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Dreamless and perform 6 consecutive strikes. The first 5 strikes deal 54.08% Havoc DMG each, and the last strike deal 270.40% Havoc DMG.\nThe DMG of this Echo Skill is increased by 50.00% during the first 5s after Rover: Havoc casts Resonance Liberation: Deadening Abyss.\n\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en le Sans délire et attaquer l'ennemi. Les cinq premières attaques infligent 54.08% de Dégâts Havoc. La sixième inflige 270.40% Dégâts Havoc. \n\nSi Nomade : Havoc utilise cette compétence d'Écho dans 5 secondes après avoir utilisé la Libération résonatrice : Le Silence d'abîme, les dégâts infligés par cette Compétence d'Écho augmentent : 50.00%.\n\nTemps de recharge de la compétence : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Dreamless",
@@ -349,7 +559,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Dreamless and perform 6 consecutive strikes. The first 5 strikes deal 54.08% Havoc DMG each, and the last strike deal 270.40% Havoc DMG.\nThe DMG of this Echo Skill is increased by 50.00% during the first 5s after Rover: Havoc casts Resonance Liberation: Deadening Abyss.\n\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en le Sans délire et attaquer l'ennemi. Les cinq premières attaques infligent 54.08% de Dégâts Havoc. La sixième inflige 270.40% Dégâts Havoc. \n\nSi Nomade : Havoc utilise cette compétence d'Écho dans 5 secondes après avoir utilisé la Libération résonatrice : Le Silence d'abîme, les dégâts infligés par cette Compétence d'Écho augmentent : 50.00%.\n\nTemps de recharge de la compétence : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Fallacy of No Return",
@@ -360,7 +577,14 @@
     "cost": 4,
     "sonatas": [
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Activate the Echo Skill to summon a fraction of the Fallacy of No Return's power and deal a blast to the surrounding area, inflicting Spectro DMG equal to 15.86% of max HP, after which the Resonator gains 10% bonus Energy Regen and all team members 10% bonus ATK for 20s.\nHold Echo Skill to unleash a series of flurry assaults at the cost of STA, each dealing Spectro DMG equal to 1.58% of max HP; Release to end the assail in a powerful blow, dealing Spectro DMG equal to 19.82% of max HP.\nCD: 20s",
+        "fr": "Lancer la Compétence d'Écho pour invoquer une fraction de la puissance de l'Erreur intarissable et attaquer la zone environnante. Cette attaque cause des dégâts Spectro équivalents à 15.86% de votre PV maximum. La recharge résonante augmente de 10%. L'ATQ de tous les membres de l'équipe augmente de 10% pendant 20 secondes.\nAppuyez longuement sur la touche de la Compétence d'Écho pour consommer des points d'Endurance et lancer une série d'attaques rapides. Chaque coup cause des dégâts Spectro équivalents à 1.58% de PV maximum. Relâchez pour lancer un dernier coup puissant qui cause des dégâts Spectro équivalents à 19.82% de PV maximum.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Feilian Beringal",
@@ -371,7 +595,14 @@
     "cost": 4,
     "sonatas": [
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Feilian Beringal to perform a powerful kick. If the kick lands on an enemy, immediately perform a follow-up strike. The kick deals 231.84% Aero DMG, and the follow-up strike deals 283.36% Aero DMG.\r\n\r\nAfter the follow-up strike hits, the current character's Aero DMG increases by 12.00%, and the Heavy Attack DMG increases by 12.00% for 15s\r\n\r\nCD: 20s",
+        "fr": "Se transformer en Feilian Beringal pour effectuer un puissant coup de pied. Si le coup de pied atteint un ennemi, effectuer immédiatement une attaque de suivi. Le coup de pied inflige 231.84% de Dégâts AERO. L'attaque de suivi inflige 283.36% de Dégâts AERO.\nAprès que l'attaque de suivi atteint l'adversaire, les Dégâts AERO du personnage actuel augmentent de 12.00%. Les Dégâts de l'Attaque lourde augmentent de 12.00% pendant 15s.\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Impermanence Heron",
@@ -382,7 +613,14 @@
     "cost": 4,
     "sonatas": [
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Impermanence Heron to fly up and smack down, dealing 310.56% Havoc DMG.\n\nLong press to stay as Impermanence Heron and continuously spit flames, each attack dealing 55.73% Havoc DMG.\n\nOnce the initial attack lands on any enemy, the current character regains 10 Resonance Energy. If the current character uses their Outro Skill within the next 15s, the next character's damage dealt will be boosted by 12% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Héron impermanent pour s'envoler et frapper. Cela inflige 310.56% de Dégâts Havoc.\nAppuyez longuement la touche de compétence d'Écho pour lancer continuellement des flammes. Chaque attaque inflige 55.73% de Dégâts Havoc.\nUne fois que l'attaque initiale atteint un ennemi, le personnage actuel récupère 10 points d'Énergie résonatrice. S'il utilise sa Compétence d'Outro dans les 15 secondes suivantes, les dégâts infligés par le personnage qui entrera dans le combat augmentent de 12% pendant 15 secondes.\nTemps de recharge : 20s"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Inferno Rider",
@@ -393,7 +631,14 @@
     "cost": 4,
     "sonatas": [
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into the Inferno Rider to launch up to 3 consecutive slashes in a row, each slash dealing 242.40%, 282.80%, and 282.80% Fusion DMG respectively.\n\nAfter the final hit, increase the current Resonator's Fusion DMG by 12.00% and Basic Attack DMG by 12.00% for 15s.\n\nLong press the Echo Skill to transform into the Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal 282.80% Fusion DMG to enemies in front.\n\nCD: 20s",
+        "fr": "Se transformer en Chevalier d'Inferno pour lancer jusqu'à 3 attaques consécutives. Ces attaques infligent respectivement 242.40%, 282.80%, et 282.80% de Dégâts Fusion.\nAprès le dernier coup, les Dégâts Fusion du personnage augmentent : 12.00%. Ceux des Dégâts d'Attaque normale augmentent : 12.00% pendant 15 secondes.\nAppuyez longuement la touche de la Compétence d'Écho pour se transformer en Chevalier d'Inferno et entrer en Mode Chevalier. En sortant du Mode Chevalier, vous infligez 282.80% de Dégâts Fusion aux ennemis devant vous.\n\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Lorelei",
@@ -404,7 +649,14 @@
     "cost": 4,
     "sonatas": [
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Lorelei and attack surrounding enemies, dealing 405.00% Havoc DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Havoc DMG Bonus and 12.00% Basic Attack DMG Bonus.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho et se transformer en Lorelei. Infliger 405.00% de Dégâts Havoc aux ennemis autour de vous. \nSi ceci est équipé en tant que l'Écho principal, le Bonus de dégâts Havoc est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%.\nTemps de recharge : 25 seconde(s)."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Phantom: Mourning Aix",
@@ -415,7 +667,14 @@
     "cost": 4,
     "sonatas": [
       "Celestial Light"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Mourning Aix and perform 2 consecutive claw attacks, each attack dealing 157.44% and 236.16% Spectro DMG respectively.\n\nAfter the transformation, increase current character's Spectro DMG by 12.00% and Resonance Liberation DMG by 12.00% for 15s\n\nCD: 20s",
+        "fr": "Se transformer en <color=Title>Vautour plaignant</color> et effectuer deux attaques consécutives. Chaque attaque inflige respectivement 157.44% et 236.16% <color=Highlight> Dégâts Spectro</color>.\r\n\r\nAprès la transformation, augmenter les <color=Highlight> Dégâts Spectro</color> du personnage actuel de 12.00% et les <color=Highlight> Dégâts de la Libération résonatrice</color> de 12.00% pendant 15 secondes.\r\n\r\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Nightmare Crownless",
@@ -426,7 +685,14 @@
     "cost": 4,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Crownless and attack enemies in front, dealing 264.60% Havoc DMG. The Resonator with this Echo equipped in their main slot gains 12.00% Havoc DMG Bonus and 12.00% Basic Attack DMG Bonus.\nThis skill has 3 initial charges, replenished once every 12s, max 3 charges. When Nightmare: Crownless hits a target, DMG dealt by this skill is increased by 20.00%. This effect lasts for 2s and does not stack.\nCD: 12s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Cauchemar : Sans couronne pour attaquer l'ennemi et infliger 264.60% de Dégâts Havoc. \nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de l'Attaque normale est augmenté de 12.00%.\nInitialement, vous pouvez lancer cette compétence 3 fois, vous obtenez 1 fois supplémentaire toutes les 12 secondes, cumulable jusqu'à 3 fois. Quand l'attaque du Cauchemar : Sans couronne atteint la cible, les Dégâts infligés par la Compétence d'Écho sont augmentés de 20.00% pendant 2 secondes. L'effet n'est pas cumulable.\nTemps de recharge : 12 secondes."
+      },
+      "cooldown": 12.0
+    }
   },
   {
     "id": "Phantom: Nightmare Inferno Rider",
@@ -437,7 +703,14 @@
     "cost": 4,
     "sonatas": [
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nightmare: Inferno Rider and jump to attack enemies in front, dealing 405.00% Fusion DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Fusion DMG Bonus and 12.00% Resonance Skill DMG Bonus.\nHold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal 283.50% Fusion DMG to enemies in front.\nCD: 25s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Cauchemar : Chevalier d'Inferno pour attaquer l'ennemi et infliger 405.00% de Dégâts Fusion à l'ennemi. Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Fusion est augmenté de 12.00% et celui de Compétence résonatrice du personnage est augmenté de 12.00%. \nAppuyez longuement la touche de la Compétence d'Écho pour se transformer en Chevalier d'Inferno continuellement et entrer en Mode Chevalier. En sortant du Mode Chevalier, vous infligez 283.50% de Dégâts Fusion aux ennemis devant vous.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Phantom: Sentry Construct",
@@ -448,7 +721,14 @@
     "cost": 4,
     "sonatas": [
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Sentry Construct and attack enemies in front, dealing 405.00% Glacio DMG. Each time the Resonator with this Echo casts Resonance Liberation, it charges the Strike Capacitor.\nOnce Strike Capacitor is at max level, the Echo Skill cooldown will be reset. Use Echo Skill to transform into Sentry Construct and dive into enemies from the air, dealing 405.00% Glacio DMG and freezing the target.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Glacio DMG Bonus and 12.00% Resonance Skill DMG Bonus.\nCD: 25s.",
+        "fr": "Se transformer en l'Arsenal hybride et attaquer l'ennemi devant vous pour infliger 405.00% de Dégâts Glacio. \nLe personnage qui a équipé cet Écho peut augmenter continuellement sa « Puissance d'attaque ». Si celle-ci atteint son maximum, le Temps de recharge de la Compétence d'Écho est réinitialisé. Vous pouvez lancer la Compétence d'Écho et vous transformer en l'Arsenal hybride pour s'enfoncer et attaquer l'ennemi, lançant une attaque qui inflige 405.00% de Dégâts Glacio. L'ennemi sera gelé. \nSi celle-ci est équipée en tant que l'Écho principal, le Bonus de Dégât Havoc est augmenté de 12.00% et celui de Compétence résonatrice est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Phantom: Sigillum",
@@ -459,7 +739,14 @@
     "cost": 4,
     "sonatas": [
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Sigillum to unleash two attacks, dealing 68.40% and 205.20% Fusion DMG respectively.\nWhen equipped in the main slot by Aemeath, it grants 25.00% Resonance Liberation DMG Bonus.\nCD: 20s",
+        "fr": "Lancez la compétence d'Écho pour invoquer Sigilium et infliger 68.40% de Dégâts Fusion, suivis de 205.20% de Dégâts Fusion.\nS'il est équipé en tant que l'Écho principal d'Aemeath, le Bonus de Dégâts de Libération résonatrice est augmenté de 25.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: The False Sovereign",
@@ -470,7 +757,14 @@
     "cost": 4,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into the False Sovereign and dash forward in a spinning strike, dealing 55.35% Electro DMG 4 times.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Electro DMG Bonus and 12.00% Heavy Attack DMG Bonus. Upon casting Intro Skill, the False Sovereign is also summoned to deal 405.00% Electro DMG.\nStart with 2 charges. Gain 1 charge every 8s, up to 2 charges.\nCD: 8s",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Souverain apocryphe et infliger 4 fois 55.35% de Dégâts Electro avec des attaques tourbillonnantes.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Electro est augmenté de 12.00%, celui d'Attaque lourde est augmenté de 12.00%. Le Souverain apocryphe est invoqué lorsque le personnage entre en combat en lançant sa Compétence d'Intro, il inflige 405.00% de Dégâts Electro.\nInitialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation sont augmentées de 1 toutes les 8 secondes, jusqu''à 2 fois.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Thundering Mephis",
@@ -481,7 +775,14 @@
     "cost": 4,
     "sonatas": [
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Thundering Mephis, engaging in a rapid assault of up to 6 strikes. The first 5 strikes deal 132.61% Electro DMG each, while the final strike inflicts 189.44% Electro DMG, with an additional 31.57% Electro DMG from the thunder.\n\nAfter the final hit, increase the current character's Electro DMG by 12.00% and Resonance Liberation DMG by 12.00% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Mephis éclatant pour effectuer une attaque à 6 coups. Les 5 premiers coups infligent 132.61% de Dégâts Electro. Tandis que le dernier inflige 189.44% de Dégâts Electro, avec 31.57% de Dégâts Electro supplémentaires de la foudre.\nAprès le dernier coup, les Dégâts Electro du personnage actuel augmentent de 12.00%. Les Dégâts de la Libération résonatrice augmentent de 12.00% pendant 15 secondes.\n\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Reactor Husk",
@@ -493,7 +794,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Halo of Starry Radiance"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Reactor Husk, jumping into the air and unleashing a heavy slash that deals 351.00% Fusion DMG to enemies.\n \nThe Resonator with this Echo equipped in their main slot gain 10.00% Energy Regen.\n \n CD: 20s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Coque du réacteur. Il sautera en l'air et un coup puissant sera lancé pour infliger 351.00% de Dégâts Fusion.\nS'il est équipé en tant que l'Écho principal, la Recharge résonante est augmentée de 10.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Reminiscence: Fenrico",
@@ -505,7 +813,14 @@
     "sonatas": [
       "Dream of the Lost",
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon the Talons of Decree to attack nearby enemies, dealing 273.60% Aero DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Aero DMG Bonus and 12.00% Heavy Attack DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer les Griffes du Décret et infliger 273.60% de Dégâts Dégâts Aero aux ennemis autour.\nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de l'Attaque lourde est augmenté de 12.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Reminiscence: Fleurdelys",
@@ -517,7 +832,14 @@
     "sonatas": [
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Windcleaver and attack the target, dealing 27.36% Aero DMG 8 times and 136.80% Aero DMG once.\nThe Resonator with this Echo equipped in the main slot gains 10.00% Aero DMG Bonus. When Resonator: Aero or Cartethyia equips this Echo, they gain 10.00% more Aero DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Trancheur de vent pour attaquer la cible, cela inflige 27.36% de Dégâts Aero 8 fois et 136.80% de Dégâts Aero 1 fois.\n S'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 10.00%. S'il est équipé par Nomade-Aero ou Cartethyia, le Bonus de Dégâts Aero est augmenté de 10.00% de manière additionnelle.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Reminiscence: Threnodian - Leviathan",
@@ -529,7 +851,14 @@
     "sonatas": [
       "Flamewing's Shadow",
       "Thread of Severed Fate"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Collapsing Horizon, dealing two instances of 131.04% Havoc DMG to the nearby enemies and obtaining the Core of Collapse for 15s.\n\nWhile it lasts, Core of Collapse deals 24.57% Havoc DMG when the active Resonator in the team deals damage. This effect can be triggered once every 0.5s, up to <SapTag=3>8</SapTag> {Cus:Sap,S=time P=times SapTag=3}. Enemies with Havoc Bane take 100% more DMG from this effect.\n\nThe Resonator with this Echo equipped in the main slot gains 12.00% Havoc DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\n\nCD: 25s",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Horizon effondré pour infliger 131.04% de Dégâts Havoc 2 fois et obtenir un Noyau de l'Effondrement qui existe pendant 15 secondes.\nSi ce noyau existe, 24.57% de Dégâts Havoc seront infligés lorsque le membre actif de l'équipe inflige des Dégâts. L'effet peut être déclenché 8 fois et il peut être déclenché une fois toutes les 0.5 secondes. Si la cible a été affectée par l'effet de ravage havoc, les dégâts infligés par cet effet sont augmentés de 100%.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Havoc est augmenté de 12.00%, celui de Libération résonatrice est augmenté de 12.00%.\nTemps de recharge : 25 secondes"
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Sentry Construct",
@@ -540,7 +869,14 @@
     "cost": 4,
     "sonatas": [
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Sentry Construct and attack enemies in front, dealing 405.00% Glacio DMG. Each time the Resonator with this Echo casts Resonance Liberation, it charges the Strike Capacitor.\nOnce Strike Capacitor is at max level, the Echo Skill cooldown will be reset. Use Echo Skill to transform into Sentry Construct and dive into enemies from the air, dealing 405.00% Glacio DMG and freezing the target.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Glacio DMG Bonus and 12.00% Resonance Skill DMG Bonus.\nCD: 25s.",
+        "fr": "Se transformer en l'Arsenal hybride et attaquer l'ennemi devant vous pour infliger 405.00% de Dégâts Glacio. \nLe personnage qui a équipé cet Écho peut augmenter continuellement sa « Puissance d'attaque ». Si celle-ci atteint son maximum, le Temps de recharge de la Compétence d'Écho est réinitialisé. Vous pouvez lancer la Compétence d'Écho et vous transformer en l'Arsenal hybride pour s'enfoncer et attaquer l'ennemi, lançant une attaque qui inflige 405.00% de Dégâts Glacio. L'ennemi sera gelé. \nSi celle-ci est équipée en tant que l'Écho principal, le Bonus de Dégât Havoc est augmenté de 12.00% et celui de Compétence résonatrice est augmenté de 12.00%.\nTemps de recharge : 25 secondes."
+      },
+      "cooldown": 25.0
+    }
   },
   {
     "id": "Sigillum",
@@ -551,7 +887,14 @@
     "cost": 4,
     "sonatas": [
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon Sigillum to unleash two attacks, dealing 68.40% and 205.20% Fusion DMG respectively.\nWhen equipped in the main slot by Aemeath, it grants 25.00% Resonance Liberation DMG Bonus.\nCD: 20s",
+        "fr": "Lancez la compétence d'Écho pour invoquer Sigilium et infliger 68.40% de Dégâts Fusion, suivis de 205.20% de Dégâts Fusion.\nS'il est équipé en tant que l'Écho principal d'Aemeath, le Bonus de Dégâts de Libération résonatrice est augmenté de 25.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Tempest Mephis",
@@ -562,7 +905,14 @@
     "cost": 4,
     "sonatas": [
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Tempest Mephis to perform tail swing attacks followed by a claw attack. The lightning strike summoned by the tail swing deals 102.48% Electro DMG each time, while the claw attack deals 175.68% Electro DMG.\r\n\r\nAfter the claw hit, increase the current character's Electro DMG by 12.00% and Heavy Attack DMG by 12.00% for 15s.\r\n\r\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Mephis tonnerre. Il peut être utilisé deux fois de suite. Chaque coup de queue inflige 102.48% de dégâts d'Electro. Chaque coup de griffe inflige 175.68% de dégâts d'Electro. \n\nAprès avoir touché l'ennemi avec un coup de griffe, les dégâts d'Electro du personnage actuel augmentent de 12.00% et les dégâts de l'Attaque lourde augmentent de 12.00% pour 15 secondes. \n\nTemps de recharge de la compétence : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "The False Sovereign",
@@ -573,7 +923,14 @@
     "cost": 4,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into the False Sovereign and dash forward in a spinning strike, dealing 55.35% Electro DMG 4 times.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Electro DMG Bonus and 12.00% Heavy Attack DMG Bonus. Upon casting Intro Skill, the False Sovereign is also summoned to deal 405.00% Electro DMG.\nStart with 2 charges. Gain 1 charge every 8s, up to 2 charges.\nCD: 8s",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Souverain apocryphe et infliger 4 fois 55.35% de Dégâts Electro avec des attaques tourbillonnantes.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Electro est augmenté de 12.00%, celui d'Attaque lourde est augmenté de 12.00%. Le Souverain apocryphe est invoqué lorsque le personnage entre en combat en lançant sa Compétence d'Intro, il inflige 405.00% de Dégâts Electro.\nInitialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation sont augmentées de 1 toutes les 8 secondes, jusqu''à 2 fois.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Thundering Mephis",
@@ -584,7 +941,14 @@
     "cost": 4,
     "sonatas": [
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Thundering Mephis, engaging in a rapid assault of up to 6 strikes. The first 5 strikes deal 132.61% Electro DMG each, while the final strike inflicts 189.44% Electro DMG, with an additional 31.57% Electro DMG from the thunder.\n\nAfter the final hit, increase the current character's Electro DMG by 12.00% and Resonance Liberation DMG by 12.00% for 15s.\n\nCD: 20s",
+        "fr": "Se transformer en Mephis éclatant pour effectuer une attaque à 6 coups. Les 5 premiers coups infligent 132.61% de Dégâts Electro. Tandis que le dernier inflige 189.44% de Dégâts Electro, avec 31.57% de Dégâts Electro supplémentaires de la foudre.\nAprès le dernier coup, les Dégâts Electro du personnage actuel augmentent de 12.00%. Les Dégâts de la Libération résonatrice augmentent de 12.00% pendant 15 secondes.\n\nTemps de recharge : 20s."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Abyssal Gladius",
@@ -597,7 +961,14 @@
       "Midnight Veil",
       "Thread of Severed Fate",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Abyssal Gladius and attack enemies in front of you with the sword, dealing 268.20% Glacio DMG.\nHold the Echo Skill to maintain the Echo form for a while to slash enemies and cast a ranged attack forward, dealing 268.20% and 670.50% Glacio DMG respectively.\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Glaive abyssal et attaquer l'ennemi devant vous. Cela inflige 268.20% de Dégâts Glacio.\nAppuyez longuement la touche de Compétence d'Écho pour continuer la transformation puis lancer une autre attaque et infliger respectivement 268.20% et 670.50% de Dégâts Glacio à l'ennemi devant vous.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Abyssal Mercator",
@@ -609,7 +980,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Abyssal Mercator and summon 3 Ice Spikes to attack enemies, each dealing 89.39% Glacio DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Mercator abyssal et invoquer 3 Pointes de glace pour attaquer l'ennemi. Chacun inflige 89.39% de dégâts Glacio.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Abyssal Patricius",
@@ -621,7 +999,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Abyssal Patricius and charge forward to attack enemies, dealing 268.20% Glacio DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Glacio DMG Bonus.\nCD: 15s.",
+        "fr": "Se transformer en Patricius abyssal pour attaquer l'ennemi et infliger 268.20% de dégâts Glacio. Le Bonus de Dégât Glacio du personnage est augmenté de 12.00% si ceci est équipé en tant que l'Écho principal.\nTemps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Autopuppet Scout",
@@ -633,7 +1018,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Autopuppet Scout, dealing 272.00% Glacio DMG to the surroundings, and generate up to 3 Ice Walls to block off the enemies.\r\n\r\nCD: 15s",
+        "fr": "Se transformer en Imitateur : Véhicule de combat, infliger 272.00% Dégâts Glacio aux alentours, et générer jusqu'à 3 murs de glace pour bloquer les ennemis.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Capitaneus",
@@ -646,7 +1038,14 @@
       "Eternal Radiance",
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Capitaneus to jump up and smash enemies, dealing 118.80% Spectro DMG. This attack generates 4 extra Merciless Judgements, each dealing 59.40% Spectro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Spectro DMG Bonus and 12.00% Heavy Attack DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Capitaneus, qui saute et frappe la cible. Il inflige 118.80% de Dégâts Spectro. De plus, 4 « Jugements impitoyables » seront générés pour attaquer et ses attaques infligent 59.40% de Dégâts Spectro.\n Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Spectro est augmenté de 12.00%, celui de l'Attaque lourde est augmenté de 12.00%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Carapace",
@@ -658,7 +1057,14 @@
     "sonatas": [
       "Moonlit Clouds",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Carapace to perform a spinning attack that deals 112.00% Aero DMG, followed by a slash that deals 168.00% Aero DMG.\n\nCD: 15s",
+        "fr": "Se transformer en Rasoir chasseur pour effectuer une attaque en rotation qui inflige 112.00% Dégâts AERO, suivie d'un coup qui inflige 168.00% Dégâts AERO.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Chasm Guardian",
@@ -670,7 +1076,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Chasm Guardian to perform a Leap Strike that deals 273.60% Havoc DMG on hit. Current character loses 10.00% HP after the hit lands. Periodically restore current character's HP after 5s for up to 10.00% of their Max HP.\r\n\r\nCD: 15s",
+        "fr": "Se transformer en Gardien de l'abîme pour effectuer une Attaque sautée qui inflige 273.60% Dégâts Havoc. Le personnage actuel perd 10.00% PV après l'attaque. Restaurer périodiquement les PV du personnage actuel après 5s jusqu'à 10.00% de leurs PV max.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Chop Chop",
@@ -683,7 +1096,14 @@
       "Dream of the Lost",
       "Empyrean Anthem",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chop Chop to perform a series of consecutive attacks. The first 6 strikes each deal 19.26% Fusion DMG and finishing strike deals 77.04% Fusion DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hache Hache pour attaquer continuellement. Infliger 6 fois 19.26% de dégâts Fusion et 1 fois 77.04% de dégâts Fusion.\nTemps de recharge : 15 seconde(s)"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Corrosaurus",
@@ -695,7 +1115,14 @@
     "sonatas": [
       "Flamewing's Shadow",
       "Flaming Clawprint"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Corrosaurus to attack enemies, dealing 273.60% Fusion DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Fusion DMG Bonus and 20.00% Echo Skill DMG Bonus.\nCD: 20s",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Corrosaurus et infliger 273.60% de Dégâts Fusion aux ennemis autour.\nS'il est équipé en tant que l'Écho principal, le Bonus de Dégâts Fusion est augmenté de 12.00%, celui de dégâts de Compétence d'Écho est augmenté de 20.00%.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Cuddle Wuddle",
@@ -709,7 +1136,14 @@
       "Midnight Veil",
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Cuddle Wuddle and attack enemies with 4 strikes dealing 46.98% Physical DMG and 1 strike dealing 125.28% Physical DMG.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Nounours géant pour attaquer continuellement et infliger 4 fois de Dégâts physiques égaux à 46.98% et une fois égal à 125.28%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Cyan-Feathered Heron",
@@ -721,7 +1155,14 @@
     "sonatas": [
       "Celestial Light",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Cyan-Feathered Heron and charge at the enemies, dealing 236.80% Aero DMG; This Echo Skill interrupts enemy <color=Highlight>Special Skills</color> upon dealing damage.\n \nCD: 15s",
+        "fr": "Se transformer en <color=Highlight>Héron cyan</color> et charger les ennemis en infligeant 236.80% <color=Highlight>Dégâts AERO</color>. Cette <color=Highlight>Compétence d'Écho</color> interrompt les <color=Highlight>Compétences spéciales</color> ennemies lorsqu'elle inflige des dégâts.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Diurnus Knight",
@@ -733,7 +1174,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Diurnus Knight and charge forward to attack enemies with the sword, dealing 268.20% Spectro DMG. DMG dealt to enemies inflicted by Spectro Frazzle is increased by 100.00%.\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Chevalier diurne et attaquer l'ennemi et infliger 268.20% de Dégâts Spectro. Les Dégâts infligés à l'ennemi affecté par l'Effet de la lumière spectro sont augmentés de 100.00%.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Flautist",
@@ -745,7 +1193,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Flautist, continuously emitting Electro lasers, dealing 53.28% Electro DMG for a total of 10 times. Gain 1 Concerto Energy every time a hit lands.\r\n\r\nCD: 15s",
+        "fr": "Se transformer en Flûtiste, émettant continuellement des lasers Electro, infligeant 53.28% Dégâts Electro pour un total de 10 fois. Gagner 1 Énergie concertante à chaque fois qu'un coup atterrit.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Flora Reindeer",
@@ -756,7 +1211,14 @@
     "cost": 3,
     "sonatas": [
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Flora Reindeer to attack enemies within a large range, dealing 192.60% Aero DMG.\n\nCD: 15s.",
+        "fr": "Lancez la compétence d'Écho pour invoquer un renne floral et infliger 192.60% de dégâts Aero aux ennemis dans une zone étendue.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Frostbite Coleoid",
@@ -767,7 +1229,14 @@
     "cost": 3,
     "sonatas": [
       "Halo of Starry Radiance"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Frostbite Coleoid to punch enemies, dealing 192.60% Glacio DMG.\n\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Coléoïde du givre. Un coup puissant sera lancé pour infliger 192.60% de Dégâts Glacio. Temps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Glacio Dreadmane",
@@ -779,7 +1248,14 @@
     "sonatas": [
       "Freezing Frost",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Lacerate enemies as a Glacio Dreadmane, dealing 214.40% Glacio DMG on each hit. Equipped with 2 charges and can be cast mid-air. Glacio Dreadmane deals 20.00% more DMG while in mid-air and generates 6 Icicles upon landing, each dealing 32.00% Glacio DMG.\n\nCD: 20s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Loup glacier. Vous pouvez l'utiliser deux fois de manière consécutive. Chaque fois que vous utilisez cette compétence, vous infligez 214.40% de Dégâts Glacio . Si vous utilisez cette compétence en l'air, les dégâts infligés augmentent :  20.00%. Lors de l'atterrissage, 6 « Cônes de glace » supplémentaires sont générés, chacun inflige 32.00% de Dégâts Glacio.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Glommoth",
@@ -790,7 +1266,14 @@
     "cost": 3,
     "sonatas": [
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Glommoth to stomp enemies, dealing 273.60% Glacio DMG.\nCasting Outro Skill within 15s after summoning Glommoth grants 12.00% Glacio DMG Bonus to the incoming Resonator for 15s.\nCD: 20s.",
+        "fr": "Lancez la Compétence d'Écho pour invoquer Glommouth et piétiner l'ennemi pour infliger 273.60% de Dégâts Glacio.\nSi le personnage lance la Compétence d'Outro dans 15 secondes, après le lancement de cette compétence, le bonus de degâts de Dégâts Glacio du prochain membre actif qui entre en combat en utilisant une Compétence d'Intro est augmenté de 12.00% pendant 15 secondes.\nTemps de recharge : 20 secondes"
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Havoc Dreadmane",
@@ -802,7 +1285,14 @@
     "sonatas": [
       "Havoc Eclipse",
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Havoc Dreadmane to perform up to 2 tail strikes. Each strike deals 116.64% Havoc DMG and inflicts an additional instance of 77.76% Havoc DMG upon hitting the target.\n\nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Loup de Havoc et effectuer une attaque avec la queue, pouvant être utilisée jusqu'à deux fois consécutivement. Chaque attaque inflige 116.64% Dégâts Havoc, et une attaque Havoc supplémentaire est générée lorsqu'elle atteint l'ennemi, infligeant 77.76% Dégâts Havoc. \n\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Hoochief",
@@ -814,7 +1304,14 @@
     "sonatas": [
       "Rejuvenating Glow",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Hoochief and smack the enemies, dealing 268.20% Aero DMG.\n\nCD: 15s",
+        "fr": "Se transformer en Houlice et frapper les ennemis, infligeant 268.20% Dégâts AERO.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Hurriclaw",
@@ -827,7 +1324,14 @@
       "Crown of Valor",
       "Gusts of Welkin",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Hurriclaw and charge forward, dealing 156.60% Aero DMG upon hit plus 156.60% Aero DMG with a sweep attack. Hold the Echo Skill to continue charging forward. Use Echo Skill again while charging to perform a sweep attack.\nCD: 20s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Tempours et s'avancer, infligeant 156.60% de Dégâts Aero. Dès cette attaque est terminée, un dernier coup va infliger 156.60% de Dégâts Aero. Appuyez longuement sur la touche de Compétence d'Écho pour s'avancer, puis, lancez encore une fois la Compétence d'Écho pour attaquer l'ennemi.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Ironhoof",
@@ -838,7 +1342,14 @@
     "cost": 3,
     "sonatas": [
       "Pact of Neonlight Leap"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into an Ironhoof to charge at enemies, dealing 53.64% Fusion DMG. At the end of the charge, unleash a goring attack that deals 13.41% Fusion DMG 3 times and 174.33% Fusion DMG once.\n\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Sabot-de-fer. Il foncera vers l'avant pour infliger 53.64% de Dégâts Fusion, puis exécutera un coup d'ascendant qui inflige 13.41% de Dégâts Fusion 3 fois, suivis de 174.33% de Dégâts Fusion 1 fois.\n Temps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Kerasaur",
@@ -851,7 +1362,14 @@
       "Flamewing's Shadow",
       "Flaming Clawprint",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Kerasaur to leap into the air and slam down, dealing 268.20% Aero DMG. Shortly after hitting the target, cast Echo Skill again to charge at the target, dealing 268.20% Aero DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Aero DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\nCD: 15s",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Kérasaure. Il saut et lance une attaque plongeante pour infliger 268.20% de Dégâts Aero. Appuyez brièvement la Compétence d'Écho pendant une certaine durée pour avancer et lancer une attaque qui inflige 268.20% de Dégâts Aero.\nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de Libération résonatrice est augmenté de 12.00%.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Kronablight",
@@ -863,7 +1381,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Kronablight, soar into the air, and dive to deal 268.20% Electro DMG to the enemies.\nCD: 15s",
+        "fr": "Lance la compétence d'Écho pour se transformer en Fléauronne. Il s'élance dans les airs, puis frappe en descendant pour infliger 268.20% de dégâts Électro.\nTemps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Lightcrusher",
@@ -874,7 +1399,14 @@
     "cost": 3,
     "sonatas": [
       "Celestial Light"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Lunge forward as a Lightcrusher, dealing 135.36% Spectro DMG. Generate 6 Ablucence on hit. Each Ablucence explosion deals 15.04% Spectro DMG.\nHold the Echo Skill to stay in the Lightcrusher form, which allows you to leap up and pounce forward in the air for a short distance.\n\nCooldown: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Casseur de lumière, attaquer l'ennemi en infligeant 135.36% de dégâts Spectro. À chaque coup, on génère 6 « Lumière résiduelle », qui inflige 15.04% de dégâts Spectro lorsqu'elle explose. \nMaintenez la Compétence d'Écho pour continuer à se transformer, sauter et avancer une certaine distance en l'air. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Lumiscale Construct",
@@ -886,7 +1418,14 @@
     "sonatas": [
       "Freezing Frost",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Lumiscale Construct and enter a Parry Stance. If you are not attacked during the Parry Stance, slash to deal 553.60% Glacio DMG when the stance finishes. If attacked, counterattack instantly, dealing 553.60%+276.80% Glacio DMG. When hit with a <color=Highlight>Special Skill</color> attack while in the Parry Stance, break the <color=Highlight>Special Skill</color> and counterattack, dealing 553.60%+276.80% Glacio DMG.\n\nCD: 15s",
+        "fr": "Utiliser la compétence de l'Écho, se transformer en Golem des écailles et se mettre en état de défense. À la fin de l'état de défense, effectuer un coup pour infliger 553.60% de Dégâts Glacio. Si vous êtes attaqué pendant l'état de défense, vous lancez une contre-attaque qui inflige 553.60% Dégâts Glacio. Si vous recevez une <color=Highlight>attaque spéciale</color>, cette <color=Highlight>attaque spéciale</color> de l'ennemi sera brisée et vous lancez une contre-attaque, qui inflige 553.60%+276.80% de Dégâts Glacio.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Mining Reindeer",
@@ -897,7 +1436,14 @@
     "cost": 3,
     "sonatas": [
       "Pact of Neonlight Leap"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Mining Reindeer to launch a charged attack at enemies, dealing 237.60% Electro DMG.\n\n CD: 20s.",
+        "fr": "Lancez la compétence d'Écho pour invoquer un Renne minier. Il lance un coup fort pour infliger 237.60% de dégâts Electro aux cibles.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Nightmare: Cyan-Feathered Heron",
@@ -908,7 +1454,14 @@
     "cost": 3,
     "sonatas": [
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Cyan-Feathered Heron and charge at the enemies, dealing 236.80% Aero DMG; This Echo Skill interrupts enemy <color=Highlight>Special Skills</color> upon dealing damage.\n \nCD: 15s",
+        "fr": "Se transformer en <color=Highlight>Héron cyan</color> et charger les ennemis en infligeant 236.80% <color=Highlight>Dégâts AERO</color>. Cette <color=Highlight>Compétence d'Écho</color> interrompt les <color=Highlight>Compétences spéciales</color> ennemies lorsqu'elle inflige des dégâts.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nightmare: Roseshroom",
@@ -919,7 +1472,14 @@
     "cost": 3,
     "sonatas": [
       "Thread of Severed Fate"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Roseshroom that fires a laser, dealing 57.07% Havoc DMG up to 3 times.\n \nCD: 15s",
+        "fr": "Invoquer un Champirose (Grand) qui tire un laser, infligeant 57.07% Dégâts Havoc jusqu'à 3 fois.\r\n\r\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nightmare: Tambourinist",
@@ -930,7 +1490,14 @@
     "cost": 3,
     "sonatas": [
       "Dream of the Lost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Tambourinist that plays out Melodies of Annihilation. Any Resonator on the team gains the following effect for 10s upon obtaining a Melody of Annihilation: When the Resonator hits a target, the Tambourinist deals 14.40% Havoc DMG to the target, up to 10 times.\n\nCD: 15s",
+        "fr": "Invoquer un Tambourineur. Les membres de l'équipe touchés par les Mélodies d'Annihilation obtiennent un effet de renforcement qui dure 10 secondes. \nL'effet du renforcement : quand l'attaque atteint l'adversaire, le Tambourineur inflige 14.40% de dégâts Havoc, jusqu'à 10 fois.\n\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nightmare: Violet-Feathered Heron",
@@ -941,7 +1508,14 @@
     "cost": 3,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Violet-Feathered Heron and enter a Parry Stance. Counterattack when the Parry stance is over, dealing 288.00% Electro DMG. If attacked during Parry Stance, you can counterattack in advance and additionally recover 5 Concerto Energy.\n\nCD: 15s",
+        "fr": "Se transformer en Héron violet et entrer en Posture de Parer. Vous ripostez quand la Posture de Parer est terminée, infligeant 288.00% Dégâts Electro. Si attaqué pendant la Posture de Parer, vous pouvez Riposte en avance et récupérer 5 Énergie concertante en plus.\n\nTemps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nightmare: Viridblaze Saurian",
@@ -952,7 +1526,14 @@
     "cost": 3,
     "sonatas": [
       "Flamewing's Shadow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Viridblaze Saurian to continuously spit fire, dealing 17.12% Fusion DMG 10 times.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Lézard lavique vert pour cracher continuellement du feu, infligeant 17.12% Dégâts Fusion 10 fois.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nocturnus Knight",
@@ -964,7 +1545,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Nocturnus Knight and strike enemies in front of you from the air, dealing 268.20% Havoc DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Chevalier nocturne. S'avancer pour attaquer l'ennemi et infliger 268.20% de Dégâts Havoc.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Capitaneus",
@@ -976,7 +1564,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Gusts of Welkin"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Capitaneus to jump up and smash enemies, dealing 118.80% Spectro DMG. This attack generates 4 extra Merciless Judgements, each dealing 59.40% Spectro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Spectro DMG Bonus and 12.00% Heavy Attack DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Capitaneus, qui saute et frappe la cible. Il inflige 118.80% de Dégâts Spectro. De plus, 4 « Jugements impitoyables » seront générés pour attaquer et ses attaques infligent 59.40% de Dégâts Spectro.\n Si l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Spectro est augmenté de 12.00%, celui de l'Attaque lourde est augmenté de 12.00%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Chop Chop",
@@ -989,7 +1584,14 @@
       "Dream of the Lost",
       "Empyrean Anthem",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chop Chop to perform a series of consecutive attacks. The first 6 strikes each deal 19.26% Fusion DMG and finishing strike deals 77.04% Fusion DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hache Hache pour attaquer continuellement. Infliger 6 fois 19.26% de dégâts Fusion et 1 fois 77.04% de dégâts Fusion.\nTemps de recharge : 15 seconde(s)"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Cuddle Wuddle",
@@ -1001,7 +1603,14 @@
     "sonatas": [
       "Frosty Resolve",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Cuddle Wuddle and attack enemies with 4 strikes dealing 46.98% Physical DMG and 1 strike dealing 125.28% Physical DMG.\nCD: 20s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Nounours géant pour attaquer continuellement et infliger 4 fois de Dégâts physiques égaux à 46.98% et une fois égal à 125.28%.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Kerasaur",
@@ -1013,7 +1622,14 @@
     "sonatas": [
       "Flaming Clawprint",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Kerasaur to leap into the air and slam down, dealing 268.20% Aero DMG. Shortly after hitting the target, cast Echo Skill again to charge at the target, dealing 268.20% Aero DMG.\nThe Resonator with this Echo equipped in the main slot gains 12.00% Aero DMG Bonus and 12.00% Resonance Liberation DMG Bonus.\nCD: 15s",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Kérasaure. Il saut et lance une attaque plongeante pour infliger 268.20% de Dégâts Aero. Appuyez brièvement la Compétence d'Écho pendant une certaine durée pour avancer et lancer une attaque qui inflige 268.20% de Dégâts Aero.\nSi l'Écho est équipé en tant que l'Écho principal, le Bonus de Dégâts Aero est augmenté de 12.00%, celui de Libération résonatrice est augmenté de 12.00%.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Lightcrusher",
@@ -1024,7 +1640,14 @@
     "cost": 3,
     "sonatas": [
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Lunge forward as a Lightcrusher, dealing 135.36% Spectro DMG. Generate 6 Ablucence on hit. Each Ablucence explosion deals 15.04% Spectro DMG.\nHold the Echo Skill to stay in the Lightcrusher form, which allows you to leap up and pounce forward in the air for a short distance.\n\nCooldown: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Casseur de lumière, attaquer l'ennemi en infligeant 135.36% de dégâts Spectro. À chaque coup, on génère 6 « Lumière résiduelle », qui inflige 15.04% de dégâts Spectro lorsqu'elle explose. \nMaintenez la Compétence d'Écho pour continuer à se transformer, sauter et avancer une certaine distance en l'air. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Lumiscale Construct",
@@ -1036,7 +1659,14 @@
     "sonatas": [
       "Freezing Frost",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Lumiscale Construct and enter a Parry Stance. If you are not attacked during the Parry Stance, slash to deal 553.60% Glacio DMG when the stance finishes. If attacked, counterattack instantly, dealing 553.60%+276.80% Glacio DMG. When hit with a <color=Highlight>Special Skill</color> attack while in the Parry Stance, break the <color=Highlight>Special Skill</color> and counterattack, dealing 553.60%+276.80% Glacio DMG.\n\nCD: 15s",
+        "fr": "Utiliser la compétence de l'Écho, se transformer en Golem des écailles et se mettre en état de défense. À la fin de l'état de défense, effectuer un coup pour infliger 553.60% de Dégâts Glacio. Si vous êtes attaqué pendant l'état de défense, vous lancez une contre-attaque qui inflige 553.60% Dégâts Glacio. Si vous recevez une <color=Highlight>attaque spéciale</color>, cette <color=Highlight>attaque spéciale</color> de l'ennemi sera brisée et vous lancez une contre-attaque, qui inflige 553.60%+276.80% de Dégâts Glacio.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Questless Knight",
@@ -1048,7 +1678,14 @@
     "sonatas": [
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Questless Knight and smash the surrounding enemies, dealing 313.20% Electro DMG.\nCD: 20s.",
+        "fr": "Lancer la compétence d'Écho pour se transformer en Chevalier vagabond et attaquer les ennemis autour de vous. Cela inflige 313.20% de Dégâts Electro.\nTemps de recharge : 20 seconde(s)."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Phantom: Rocksteady Guardian",
@@ -1060,7 +1697,14 @@
     "sonatas": [
       "Celestial Light",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Rocksteady Guardian and enter a Parry State. Upon being attacked, deal Spectro DMG equal to 8.29% of the Resonator's Max HP, and perform a follow-up attack that deals Spectro DMG equal to 8.29% of the Resonator's Max HP.\n \nUse the Echo Skill again to exit the transformation.\n \nIf the attack received is a <color=Highlight>Special Skill</color> attack, interrupt the enemy's <color=Highlight>Special Skill</color>, gain a Shield equal to 30% Max HP, and perform a two-stage follow-up attack, each dealing Spectro DMG equal to 5.52% of the Resonator's Max HP. These follow-up attacks simultaneously launch three ground-breaking waves, each dealing Spectro DMG equal to 4.59% of the Resonator's Max HP.\n \nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Gardien rocheux. Pendant un certain temps, vous pouvez vous défendre. Si vous êtes attaqué, vous infligez directement aux ennemis des <color=Highlight>Dégâts Spectro</color> basés sur 8.29% de votre vie maximale et vous effectuez une contre-attaque infligeant des <color=Highlight>Dégâts Spectro</color> basés sur 8.29% de votre vie maximale.\nPendant la transformation, vous pouvez utiliser à nouveau la Compétence d'Écho pour annuler la transformation.\nSi vous êtes attaqué par une <color=Highlight>Compétence spéciale</color>, vous détruirez la <color=Highlight>Compétence spéciale</color> de l'ennemi, obtiendrez un bouclier équivalent à 30% de votre vie maximale et effectuerez deux contre-attaques, chacune infligeant des <color=Highlight>Dégâts Spectro</color> basés sur 5.52% de votre vie maximale. En même temps, vous lancez trois vagues de terre qui infligent chacune des <color=Highlight>Dégâts Spectro</color> basés sur 4.59% de votre vie maximale.\nTemps de recharge de la compétence : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Twin Nova - Collapsar Blade",
@@ -1071,7 +1715,14 @@
     "cost": 3,
     "sonatas": [
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Twin Nova: Collapsar Blade to rapidly fire at enemies for 5s, with each attack dealing 2.01% Electro DMG.\n\nThe Resonator with this Echo equipped in the main slot gains 12.00% Electro DMG Bonus and 12.00% Basic Attack DMG Bonus.\n\nCD: 8s.\n\nIf Twin Nova: Nebulous Cannon is equipped in another slot on the Resonator:\n- Casting Echo Skill in succession transforms you into Collapsar Blade and Nebulous Cannon alternately and is considered casting Echo skills of the same name.\n- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG. The Electro DMG Bonus gained from equipping it in the main slot is turned into Spectro DMG Bonus.\n- Casting Basic Attacks grants <SapTag=1>1</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>3</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to 6 times and lasts for 8s. Each stack increases Echo Skill DMG by 10%, and all stacks are cleared after this Echo Skill ends.\n- This skill is capped at 2 uses. Initially, this skill can be used 2 times, with 1 use added every 8s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Nova jumelle : Lame de collapsar. Des balles seront lancées rapidement pendant 5 secondes, chaque attaque inflige 2.01% de Dégâts Électro.\n S'il est équipé en tant que l'Écho principal, le Bonus de dégâts Electro est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%. Temps de recharge : 8 secondes.\n Si Nova jumelle : Canon nébuleux a été équipée simultanément :\n - Les Dégâts de Nova jumelle : Lame de collapsar devient des Dégâts Spectro.\n - Après le lancement de la Compétence d'Écho, elle alterne entre Nova Jumelle : Canon nébuleux et Nova Jumelle : Lame de collapsar, mais ces compétences d'Écho sont considérés comme ceux du même nom.  \n - Obtient 1 points de « Dualité originale » lorsqu'une Attaque normale est lancée; obtient 3 points de « Dualité originale » lorsqu'une Compétence résonatrice est lancée. L'effet peut être cumulé 6 fois et il dure 8 secondes. Chaque point augmente les dégâts infligés par la Compétence de cet Écho de 10%. Tous les points seront supprimés lorsque l'effet de cette Compétence d'Écho est terminé.\n - Cette compétence peut être lancée 2 fois. Initialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation ont augmenté de 1 toutes les 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Twin Nova - Nebulous Cannon",
@@ -1082,7 +1733,14 @@
     "cost": 3,
     "sonatas": [
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Twin Nova: Nebulous Cannon to slash enemies twice, with each attack dealing 80.51% Spectro DMG.\n\nThe Resonator with this Echo equipped in the main slot gains 12.00% Spectro DMG Bonus and 12.00% Basic Attack DMG Bonus.\n\nCD: 8s.\n\nIf Twin Nova: Collapsar Blade is equipped in another slot on the Resonator:\n- Casting Echo Skill in succession transforms you into Nebulous Cannon and Collapsar Blade alternately and is considered casting Echo skills of the same name. The DMG Bonus from the Echo in the main slot remains unchanged.\n- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG.\n- Casting Basic Attacks grants <SapTag=1>1</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>3</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to 6 times and lasts for 8s. Each stack increases Echo Skill DMG by 10%, and all stacks are cleared after this Echo Skill ends.\n-This skill is capped at 2 uses. Initially, this skill can be used 2 times, with 1 use added every 8s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Nova jumelle : Canon nébuleux. Deux coups seront lancées, chacun inflige 80.51% de Dégâts Spectro.\n S'il est équipé en tant que l'Écho principal, le Bonus de dégâts Spectro est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%.\n Temps de recharge : 8 secondes.\n Si la Nova jumelle : Lame de collapsar a été équipée simultanément :\n - Les Dégâts de Nova jumelle : Lame de collapsar devient des Dégâts Spectro.\n - Après le lancement de la Compétence d'Écho, elle alterne entre Nova Jumelle : Canon nébuleux et Nova Jumelle : Lame de collapsar. Cependant, le bonus de dégâts fourni par l'Écho principal reste inchangé et ces compétences d'Écho sont considérés comme ceux du même nom. \n - Obtient 1 points de « Dualité originale » lorsqu'une Attaque normale est lancée; obtient 3 points de « Dualité originale » lorsqu'une Compétence résonatrice est lancée. L'effet peut être cumulé 6 fois et il dure 8 secondes. Chaque point augmente les dégâts infligés par la Compétence de cet Écho de 10%. Tous les points seront supprimés lorsque l'effet de cette Compétence d'Écho est terminé.\n - Cette compétence peut être lancée 2 fois. Initialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation augmentent de 1 toutes les 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Vitreum Dancer",
@@ -1094,7 +1752,14 @@
     "sonatas": [
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Vitreum Dancer and attack surrounding enemies, dealing 313.20% Electro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Electro DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la compétence d'Écho pour se transformer en Danseuse du Vitreum et attaquer les ennemis autour de vous. Infliger 313.20% de dégâts Electro. Si ceci est équipé en tant que l'Écho principal, le Bonus de dégâts Electro du personnage est augmenté de 12.00%.\nTemps de recharge 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Pilgrim's Shell",
@@ -1106,7 +1771,14 @@
     "sonatas": [
       "Flaming Clawprint",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Pilgrim's Shell to attack nearby enemies, dealing 268.20% Aero DMG.\nCD: 15s",
+        "fr": "Se transformer en Carapace du pèlerin pour attaquer les ennemis et infliger 268.20% de Dégâts Aero.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Questless Knight",
@@ -1118,7 +1790,14 @@
     "sonatas": [
       "Frosty Resolve",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Questless Knight and smash the surrounding enemies, dealing 313.20% Electro DMG.\nCD: 20s.",
+        "fr": "Lancer la compétence d'Écho pour se transformer en Chevalier vagabond et attaquer les ennemis autour de vous. Cela inflige 313.20% de Dégâts Electro.\nTemps de recharge : 20 seconde(s)."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Rage Against the Statue",
@@ -1131,7 +1810,14 @@
       "Eternal Radiance",
       "Gusts of Welkin",
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Rage Against the Statue to attack enemies, dealing 313.20% Spectro DMG. Hold the Echo Skill to maintain the Echo form and charge towards enemies, dealing 469.80% Spectro DMG.\nCD: 20s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Rage contre la Statue. Les attaques infligent 313.20% de Dégâts Spectro. Appuyez longuement sur la Compétence d'Écho pour maintenir l'état de transformation et s'avancer pour attaquer et infliger 469.80% de Dégâts Spectro.\nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Reminiscence: Kronaclaw",
@@ -1143,7 +1829,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Kronaclaw and soar into the air to deal 8.04% Aero DMG up to 8 times and 24.13% Aero DMG 2 times, then dive to deal 155.55% Aero DMG 1 time.\nCD: 15s",
+        "fr": "Lance la Compétence d'Écho pour se transformer en Griffouronne. Il se lance en l'air et effectue jusqu'à 8 coups qui inflige 8.04% de Dégâts Aero et deux coups qui infligent 24.13% de Dégâts Aero. Puis, il descend et lance un coup qui inflige 155.55% de Dégâts Aero\n\nTemps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Rocksteady Guardian",
@@ -1155,7 +1848,14 @@
     "sonatas": [
       "Celestial Light",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Rocksteady Guardian and enter a Parry State. Upon being attacked, deal Spectro DMG equal to 8.29% of the Resonator's Max HP, and perform a follow-up attack that deals Spectro DMG equal to 8.29% of the Resonator's Max HP.\n \nUse the Echo Skill again to exit the transformation.\n \nIf the attack received is a <color=Highlight>Special Skill</color> attack, interrupt the enemy's <color=Highlight>Special Skill</color>, gain a Shield equal to 30% Max HP, and perform a two-stage follow-up attack, each dealing Spectro DMG equal to 5.52% of the Resonator's Max HP. These follow-up attacks simultaneously launch three ground-breaking waves, each dealing Spectro DMG equal to 4.59% of the Resonator's Max HP.\n \nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Gardien rocheux. Pendant un certain temps, vous pouvez vous défendre. Si vous êtes attaqué, vous infligez directement aux ennemis des <color=Highlight>Dégâts Spectro</color> basés sur 8.29% de votre vie maximale et vous effectuez une contre-attaque infligeant des <color=Highlight>Dégâts Spectro</color> basés sur 8.29% de votre vie maximale.\nPendant la transformation, vous pouvez utiliser à nouveau la Compétence d'Écho pour annuler la transformation.\nSi vous êtes attaqué par une <color=Highlight>Compétence spéciale</color>, vous détruirez la <color=Highlight>Compétence spéciale</color> de l'ennemi, obtiendrez un bouclier équivalent à 30% de votre vie maximale et effectuerez deux contre-attaques, chacune infligeant des <color=Highlight>Dégâts Spectro</color> basés sur 5.52% de votre vie maximale. En même temps, vous lancez trois vagues de terre qui infligent chacune des <color=Highlight>Dégâts Spectro</color> basés sur 4.59% de votre vie maximale.\nTemps de recharge de la compétence : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Roseshroom",
@@ -1167,7 +1867,14 @@
     "sonatas": [
       "Freezing Frost",
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Roseshroom that fires a laser, dealing 57.07% Havoc DMG up to 3 times.\n \nCD: 15s",
+        "fr": "Invoquer un Champirose (Grand) qui tire un laser, infligeant 57.07% Dégâts Havoc jusqu'à 3 fois.\r\n\r\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Sabercat Prowler",
@@ -1180,7 +1887,14 @@
       "Halo of Starry Radiance",
       "Pact of Neonlight Leap",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Sabercat Prowler to fire beams at enemies, dealing 192.60% Havoc DMG.\n\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Rôdeur à dents de sabre. Un rayon sera lancé pour infliger 192.60% de Dégâts Havoc. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Sabercat Reaver",
@@ -1193,7 +1907,14 @@
       "Halo of Starry Radiance",
       "Pact of Neonlight Leap",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Sabercat Reaver to attack enemies, dealing 192.60% Fusion DMG.\n\nCD: 15s.",
+        "fr": "Lancez la compétence d'Écho pour invoquer un Saccageur à dents de sabre. Il lance un coup fort pour infliger 192.60% de Dégâts Fusion aux cibles. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Spacetrek Explorer",
@@ -1206,7 +1927,14 @@
       "Chromatic Foam",
       "Halo of Starry Radiance",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Spacetrek Explorer to grant nearby active Resonators in the team a Shield equal to 10% of the summoner's Max HP for 4s.\n\nCD: 20s",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Explorateur du Trek spatial. Un bouclier équivalant à 10% des PV maximum du personnage ayant lancé cette compétence sera accordé au membre actif de l'équipe à proximité. L'effet dure 4 secondes. \nTemps de recharge : 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Spearback",
@@ -1218,7 +1946,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Spearback to perform 5 consecutive attacks. The first 4 attacks deal 29.96% Physical DMG, and the last deals 51.36% Physical DMG.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Lançours pour effectuer 5 attaques consécutives. Les 4 premières attaques infligent 29.96% Dégâts Physiques, et la dernière inflige 51.36% de Dégâts Physiques.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Stonewall Bracer",
@@ -1230,7 +1965,14 @@
     "sonatas": [
       "Moonlit Clouds",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Stonewall Bracer and charge forward, dealing 112.64% Physical DMG on-hit, then smash to deal 168.96% Physical DMG, and gain a shield of 10.00% of current character's Max HP that lasts 7s. Use the Echo skill again to exit the transformation state.\n\nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Champion rocheux et charger en avant. Cette attaque inflige 112.64% dégâts physiques et 168.96% dégâts physiques en frappant au sol. Cette attaque donne un bouclier équivalent à 10.00% de la vie maximale. Utiliser à nouveau la Compétence d'Écho pour annuler la transformation. \nTemps de recharge : 7s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Tambourinist",
@@ -1242,7 +1984,14 @@
     "sonatas": [
       "Freezing Frost",
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Tambourinist that plays out Melodies of Annihilation. Any Resonator on the team gains the following effect for 10s upon obtaining a Melody of Annihilation: When the Resonator hits a target, the Tambourinist deals 14.40% Havoc DMG to the target, up to 10 times.\n\nCD: 15s",
+        "fr": "Invoquer un Tambourineur. Les membres de l'équipe touchés par les Mélodies d'Annihilation obtiennent un effet de renforcement qui dure 10 secondes. \nL'effet du renforcement : quand l'attaque atteint l'adversaire, le Tambourineur inflige 14.40% de dégâts Havoc, jusqu'à 10 fois.\n\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Twin Nova: Collapsar Blade",
@@ -1255,7 +2004,14 @@
       "Rite of Gilded Revelation",
       "Sound of True Name",
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Twin Nova: Collapsar Blade to rapidly fire at enemies for 5s, with each attack dealing 2.01% Electro DMG.\n\nThe Resonator with this Echo equipped in the main slot gains 12.00% Electro DMG Bonus and 12.00% Basic Attack DMG Bonus.\n\nCD: 8s.\n\nIf Twin Nova: Nebulous Cannon is equipped in another slot on the Resonator:\n- Casting Echo Skill in succession transforms you into Collapsar Blade and Nebulous Cannon alternately and is considered casting Echo skills of the same name.\n- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG. The Electro DMG Bonus gained from equipping it in the main slot is turned into Spectro DMG Bonus.\n- Casting Basic Attacks grants <SapTag=1>1</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>3</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to 6 times and lasts for 8s. Each stack increases Echo Skill DMG by 10%, and all stacks are cleared after this Echo Skill ends.\n- This skill is capped at 2 uses. Initially, this skill can be used 2 times, with 1 use added every 8s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Nova jumelle : Lame de collapsar. Des balles seront lancées rapidement pendant 5 secondes, chaque attaque inflige 2.01% de Dégâts Électro.\n S'il est équipé en tant que l'Écho principal, le Bonus de dégâts Electro est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%. Temps de recharge : 8 secondes.\n Si Nova jumelle : Canon nébuleux a été équipée simultanément :\n - Les Dégâts de Nova jumelle : Lame de collapsar devient des Dégâts Spectro.\n - Après le lancement de la Compétence d'Écho, elle alterne entre Nova Jumelle : Canon nébuleux et Nova Jumelle : Lame de collapsar, mais ces compétences d'Écho sont considérés comme ceux du même nom.  \n - Obtient 1 points de « Dualité originale » lorsqu'une Attaque normale est lancée; obtient 3 points de « Dualité originale » lorsqu'une Compétence résonatrice est lancée. L'effet peut être cumulé 6 fois et il dure 8 secondes. Chaque point augmente les dégâts infligés par la Compétence de cet Écho de 10%. Tous les points seront supprimés lorsque l'effet de cette Compétence d'Écho est terminé.\n - Cette compétence peut être lancée 2 fois. Initialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation ont augmenté de 1 toutes les 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Twin Nova: Nebulous Cannon",
@@ -1267,7 +2023,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Twin Nova: Nebulous Cannon to slash enemies twice, with each attack dealing 80.51% Spectro DMG.\n\nThe Resonator with this Echo equipped in the main slot gains 12.00% Spectro DMG Bonus and 12.00% Basic Attack DMG Bonus.\n\nCD: 8s.\n\nIf Twin Nova: Collapsar Blade is equipped in another slot on the Resonator:\n- Casting Echo Skill in succession transforms you into Nebulous Cannon and Collapsar Blade alternately and is considered casting Echo skills of the same name. The DMG Bonus from the Echo in the main slot remains unchanged.\n- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG.\n- Casting Basic Attacks grants <SapTag=1>1</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>3</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to 6 times and lasts for 8s. Each stack increases Echo Skill DMG by 10%, and all stacks are cleared after this Echo Skill ends.\n-This skill is capped at 2 uses. Initially, this skill can be used 2 times, with 1 use added every 8s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Nova jumelle : Canon nébuleux. Deux coups seront lancées, chacun inflige 80.51% de Dégâts Spectro.\n S'il est équipé en tant que l'Écho principal, le Bonus de dégâts Spectro est augmenté de 12.00%, celui d'Attaque normale est augmenté de 12.00%.\n Temps de recharge : 8 secondes.\n Si la Nova jumelle : Lame de collapsar a été équipée simultanément :\n - Les Dégâts de Nova jumelle : Lame de collapsar devient des Dégâts Spectro.\n - Après le lancement de la Compétence d'Écho, elle alterne entre Nova Jumelle : Canon nébuleux et Nova Jumelle : Lame de collapsar. Cependant, le bonus de dégâts fourni par l'Écho principal reste inchangé et ces compétences d'Écho sont considérés comme ceux du même nom. \n - Obtient 1 points de « Dualité originale » lorsqu'une Attaque normale est lancée; obtient 3 points de « Dualité originale » lorsqu'une Compétence résonatrice est lancée. L'effet peut être cumulé 6 fois et il dure 8 secondes. Chaque point augmente les dégâts infligés par la Compétence de cet Écho de 10%. Tous les points seront supprimés lorsque l'effet de cette Compétence d'Écho est terminé.\n - Cette compétence peut être lancée 2 fois. Initialement, vous pouvez lancer cette compétence 2 fois. Les tentatives d'utilisation augmentent de 1 toutes les 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Violet-Feathered Heron",
@@ -1279,7 +2042,14 @@
     "sonatas": [
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Violet-Feathered Heron and enter a Parry Stance. Counterattack when the Parry stance is over, dealing 288.00% Electro DMG. If attacked during Parry Stance, you can counterattack in advance and additionally recover 5 Concerto Energy.\n\nCD: 15s",
+        "fr": "Se transformer en Héron violet et entrer en Posture de Parer. Vous ripostez quand la Posture de Parer est terminée, infligeant 288.00% Dégâts Electro. Si attaqué pendant la Posture de Parer, vous pouvez Riposte en avance et récupérer 5 Énergie concertante en plus.\n\nTemps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Viridblaze Saurian",
@@ -1291,7 +2061,14 @@
     "sonatas": [
       "Molten Rift",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Viridblaze Saurian to continuously spit fire, dealing 17.12% Fusion DMG 10 times.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Lézard lavique vert pour cracher continuellement du feu, infligeant 17.12% Dégâts Fusion 10 fois.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Vitreum Dancer",
@@ -1303,7 +2080,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Eternal Radiance"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Vitreum Dancer and attack surrounding enemies, dealing 313.20% Electro DMG.\nThe Resonator with this Echo equipped in their main slot gains 12.00% Electro DMG Bonus.\nCD: 20s.",
+        "fr": "Lancer la compétence d'Écho pour se transformer en Danseuse du Vitreum et attaquer les ennemis autour de vous. Infliger 313.20% de dégâts Electro. Si ceci est équipé en tant que l'Écho principal, le Bonus de dégâts Electro du personnage est augmenté de 12.00%.\nTemps de recharge 20 secondes."
+      },
+      "cooldown": 20.0
+    }
   },
   {
     "id": "Windlash Coleoid",
@@ -1314,7 +2098,14 @@
     "cost": 3,
     "sonatas": [
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Windlash Coleoid to kick enemies, dealing 268.20% Aero DMG.\n\nCD: 15s.",
+        "fr": "Lancez la Compétence d'Écho pour se transformer en Coleoïde des rafales. Un coup descendant sera lancé pour infliger 268.20% de Dégâts Aero.\n Temps de recharge : 15 secondes"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Aero Drake",
@@ -1327,7 +2118,14 @@
       "Flaming Clawprint",
       "Gusts of Welkin",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Aero Drake to attack enemies, dealing 129.60% Aero DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Petit dragon Aero et infliger 129.60% de Dégâts Aero.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Aero Predator",
@@ -1339,7 +2137,14 @@
     "sonatas": [
       "Sierra Gale",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Aero Predator that throws a dart forward. The dart will bounce between enemies up to three times, dealing 28.80% Aero DMG each time it hits.\n\nCD: 8s",
+        "fr": "Invoquer un Prédateur Aero qui lance une fléchette en avant. La fléchette rebondit entre les ennemis jusqu'à trois fois, infligeant 28.80% Dégâts Aero à chaque fois. \n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Aero Prism",
@@ -1351,7 +2156,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Aero Prism to attack enemies, dealing 19.26% Aero DMG.\nCD: 15s.",
+        "fr": "Invoquer un Prisme Aero pour attaquer continuellement, infligeant 19.26% de Dégâts Aero.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Baby Roseshroom",
@@ -1363,7 +2175,14 @@
     "sonatas": [
       "Havoc Eclipse",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Baby Roseshroom that fires a laser, dealing 32.00%+64 Havoc DMG.\n\nCD: 8s",
+        "fr": "Invoquer un Champirose (Petit) qui tire un laser, infligeant 32.00%+64 de Dégâts Havoc.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Baby Viridblaze Saurian",
@@ -1376,7 +2195,14 @@
       "Lingering Tunes",
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Baby Viridblaze Saurian to rest in place, and slowly restore HP.\n\nCD: 8s",
+        "fr": "Se transformer en Lézard lavique vert (Petit) pour se reposer sur place et restaurer lentement les PV.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Calcified Junrock",
@@ -1389,7 +2215,14 @@
       "Crown of Valor",
       "Empyrean Anthem",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Calcified Junrock that restores HP for nearby Resonators in the team by 2.52% of their Max HP, up to 5 times.\nCD: 15s",
+        "fr": "Invoquer une Jeunpierre vernie qui restaure les PV de tous les personnages de l'équipe à proximité de 2.52% de leurs points de PV, jusqu'à 5 fois.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Chest Mimic",
@@ -1402,7 +2235,14 @@
       "Empyrean Anthem",
       "Frosty Resolve",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chest Mimic to attack enemies with 3 consecutive strikes, each dealing 64.19% Spectro DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Coffre trompeur et attaquer continuellement. Infliger 64.19% de Dégâts Spectro 3 fois.\nTemps de recharge 15 seconde(s)."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Chirpuff",
@@ -1414,7 +2254,14 @@
     "sonatas": [
       "Havoc Eclipse",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chirpuff that self-inflates and blasts a powerful gust of wind forward 3 times. Each blast inflicts 38.40% Aero DMG and pushes enemies backwards.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Chulboule qui s'auto-gonfle et souffle un puissant courant d'air 3 fois. Chaque souffle inflige 38.40% Dégâts AERO et repousse les ennemis. \n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Chop Chop: Headless",
@@ -1426,7 +2273,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chop Chop: Headless to attack enemies, dealing 129.60% Fusion DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hache Hache pour attaquer et infliger 129.60% dégâts Fusion.\nTemps de recharge : 8 seconde(s)"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Chop Chop: Leftless",
@@ -1438,7 +2292,14 @@
     "sonatas": [
       "Frosty Resolve",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chop Chop: Leftless to attack enemies, dealing 129.60% Spectro DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hache Hache : Gauche pour attaquer. Infliger 129.60% de dégâts Spectro.\nTemps de recharge : 8 seconde(s)"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Chop Chop: Rightless",
@@ -1450,7 +2311,14 @@
     "sonatas": [
       "Frosty Resolve",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chop Chop: Rightless to attack enemies, dealing 129.60% Havoc DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hache Hache : Droite pour attaquer. Infliger 129.60% de dégâts Havoc.\nTemps de recharge : 8 seconde(s)"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Clang Bang",
@@ -1462,7 +2330,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Clang Bang that follows the enemy and eventually self-combusts, dealing 32.00%+64 Glacio DMG.\n\nCD: 8s",
+        "fr": "Invoquer un Ding-dong qui suit l'ennemi et finit par s'auto-détruire, infligeant 32.00%+64de dégâts Glacio.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Cruisewing",
@@ -1475,7 +2350,14 @@
       "Celestial Light",
       "Moonlit Clouds",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Cruisewing that restores HP for all current team characters by 1.80% of their Max HPs plus an additional 80 points of HP, up to 4 times.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Fiçaile qui restaure les PV de tous les personnages de l'équipe actuelle de 1.80% de leurs PV max plus 80 points de PV supplémentaires, jusqu'à 4 fois.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Devotee's Flesh",
@@ -1488,7 +2370,14 @@
       "Flaming Clawprint",
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Devotee's Flesh to attack enemies, dealing 43.20% Aero DMG 3 times.\nCD: 8s",
+        "fr": "Invoquer un Chair du dévot pour infliger 3 fois 43.20% de Dégâts Aero.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Diamondclaw",
@@ -1500,7 +2389,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Crystal Scorpion and enter a Parry State. Counterattack when the Parry State is over, dealing 48.00%+96 Physical DMG.\nCD: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Scorpion cristallin. Après la transformation, vous entrerez en état de défense. Dès que vous quittez cet état, vous pouvez effectuer une contre-attaque qui inflige 48.00%+96 des dégâts physiques. \r\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Diggy Duggy",
@@ -1512,7 +2408,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Diggy Duggy and jump up into the air to smash onto enemies, dealing 268.20% Physical DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Doudou Creuse-Tout. Il sautera et attaquer l'ennemi. Cela inflige 268.20% de Dégâts physiques. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Dwarf Cassowary",
@@ -1524,7 +2427,14 @@
     "sonatas": [
       "Rejuvenating Glow",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Dwarf Cassowary that tracks and attacks the enemy, dealing 38.40% Physical DMG 3 time(s).\n\nCooldown: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer un Casoar nain qui attaque l'ennemi. Il inflige 3 fois 38.40% de Dégâts physiques. \nTemps de recharge de la compétence : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Electro Drake",
@@ -1537,7 +2447,14 @@
       "Flaming Clawprint",
       "Gusts of Welkin",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Electro Drake to attack enemies, dealing 43.20% Electro DMG 3 times.\nCD: 8s.",
+        "fr": "Invoquer un Petit dragon Electro pour infliger 43.20% de Dégâts Electro 3 fois.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Electro Predator",
@@ -1549,7 +2466,14 @@
     "sonatas": [
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Electro Predator to shoot the enemy 5 times. The first 4 shots deals 17.28% Electro DMG, and the last deals 46.08% Electro DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Prédateur Electro pour tirer sur l'ennemi 5 fois. Les 4 premiers tirs infligent 17.28% Dégâts Electro, et le dernier inflige 46.08% de Dégâts Electro.\n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Excarat",
@@ -1561,7 +2485,14 @@
     "sonatas": [
       "Freezing Frost",
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into an Excarat and tunnel underground to advance. In this state, you have the ability to change your direction and are immune to damage.\n\nCD: 8s",
+        "fr": "Se transformer en Creutaupe et creuser sous terre pour avancer. Dans cet état, vous avez la capacité de changer de direction et vous êtes immunisé contre les dégâts.\n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fae Ignis",
@@ -1574,7 +2505,14 @@
       "Dream of the Lost",
       "Eternal Radiance",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fae Ignis to attack enemies, dealing 129.60% Havoc DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Fae igné pour attaquer l'ennemi et infliger 129.60% de Dégât Havoc.\nTemps de recharge : 8 seconde(s)."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fission Junrock",
@@ -1587,7 +2525,14 @@
       "Moonlit Clouds",
       "Rejuvenating Glow",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fission Junrock. Generate a Resonance Effect that restores 2% HP for friendly units each time. If not in combat, you can pick up minerals or plants nearby.\n\nCD: 15s",
+        "fr": "Invoquer une Jeunpierre fissurée. Générer un effet de carillonner qui restaure 2% PV pour les unités amies à chaque fois. Si vous n'êtes pas en combat, vous pouvez ramasser les minéraux ou les plantes à proximité.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Flora Drone",
@@ -1600,7 +2545,14 @@
       "Pact of Neonlight Leap",
       "Rite of Gilded Revelation",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Flora Drone, dealing 64.80% Aero DMG to enemies and healing Resonators within range by 3.60% of their Max HP plus an additional 160 HP.\n\nCD: 8s",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Drone floral, qui inflige 64.80% de Dégâts Aero et restaure 160 + 3.60% des PV maximum des personnages dans la portée de la compétence.\n Temps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Frostscourge Stalker",
@@ -1612,7 +2564,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Frostscourge Stalker to attack enemies, dealing 129.60% Glacio DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Loup de Givre pour attaquer l'ennemi et infliger 129.60% de Dégât Glacio.\nTemps de recharge : 8 seconde(s)."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fusion Drake",
@@ -1624,7 +2583,14 @@
     "sonatas": [
       "Flaming Clawprint",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fusion Drake to attack enemies, dealing 25.92% Fusion DMG 3 times.\nCD: 8s",
+        "fr": "Invoquer un Petit dragon Fusion pour infliger 5 fois 25.92% de Dégâts Fusion.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fusion Dreadmane",
@@ -1636,7 +2602,14 @@
     "sonatas": [
       "Molten Rift",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fusion Dreadmane that fiercely strikes the enemy, dealing 32.00%+64 Fusion DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Loup fusionier qui frappe violemment l'ennemi et infliger 32.00%+64 de Dégâts Fusion.\n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fusion Prism",
@@ -1649,7 +2622,14 @@
       "Freezing Frost",
       "Lingering Tunes",
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fusion Prism to fire a crystal shard, dealing 32.00%+64 Fusion DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Prisme Fusion pour lancer un éclat de cristal qui inflige 32.00%+64 de Dégâts Fusion.\n\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Fusion Warrior",
@@ -1662,7 +2642,14 @@
       "Molten Rift",
       "Sierra Gale",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Fusion Warrior to perform a Counterattack. If the Counterattack is successful, the cooldown time of this skill will be reduced by 70.00%, and 288.00% Fusion DMG will be dealt.\n\nCD: 15s",
+        "fr": "Se transformer en Combattant Fusion pour effectuer une Riposte. Si la Riposte réussit, le temps de recharge de cette compétence sera réduit de 70.00%. Cela inflige 288.00% de Dégâts Fusion.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Galescourge Stalker",
@@ -1674,7 +2661,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Galescourge Stalker that restores nearby party members' HP by 2.70% of their Max HP, up to 3 times.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer un Loup d'Ouragan pour restaurer 2.70% de PV des membres de l'équipe à proximité 3 fois.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Geospider S4",
@@ -1687,7 +2681,14 @@
       "Halo of Starry Radiance",
       "Pact of Neonlight Leap",
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Geospider S4 to attack enemies, dealing 51.84% Spectro DMG once and 77.76% Spectro DMG once.\n \n CD: 8s.",
+        "fr": "Lancez la compétence d'Écho pour invoquer une Araignée de la Terre S4 et infliger 51.84% de Dégâts Spectro, suivis de 77.76% de Dégâts Spectro.\n Temps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Glacio Drake",
@@ -1699,7 +2700,14 @@
     "sonatas": [
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Glacio Drake to attack enemies, dealing 25.92% Glacio DMG 5 times.\nCD: 8s.",
+        "fr": "Invoquer un Petit dragon Glacio pour infliger 25.92% de Dégâts Glacio 5 fois.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Glacio Predator",
@@ -1711,7 +2719,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Glacio Predator that throws an ice spear, dealing 46.08% Glacio DMG on hit. Deal 4.61% Glacio DMG up to 10 times during the charging time, and 23.04% Glacio DMG when the spear explodes.\n\nCD: 8s",
+        "fr": "Invoquer un Prédateur Glacio qui lance un javelot de glace, infligeant 46.08% Dégâts Glacio à l'impact. Inflige 4.61% de Dégâts Glacio jusqu'à 10 fois pendant le temps de chargement. L'explosion inflige 23.04% de Dégâts Glacio.\n\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Glacio Prism",
@@ -1724,7 +2739,14 @@
       "Freezing Frost",
       "Havoc Eclipse",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Glacio Prism that continuously fires three crystal shards, each dealing 38.40% Glacio DMG.\n\nCD: 8s",
+        "fr": "Invoquer un Prisme Glacio qui lance trois éclats de cristal qui inflige 38.40% de Dégâts Glacio.\n\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Golden Junrock",
@@ -1737,7 +2759,14 @@
       "Eternal Radiance",
       "Frosty Resolve",
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Golden Junrock that charges forward, dealing 129.60% Spectro DMG to enemies in its path.\nCD: 8s",
+        "fr": "Invoquer une Jeunpierre d'or qui charge en avant, infligeant 129.60% Dégâts Spectro aux ennemis sur son chemin.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Gulpuff",
@@ -1749,7 +2778,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Gulpuff that blows bubbles 5 times, each time dealing 23.04% Glacio DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Gulboule qui souffle 5 bulles, chaque fois inflige 23.04% de Dégâts Glacio.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Havoc Drake",
@@ -1762,7 +2798,14 @@
       "Flaming Clawprint",
       "Thread of Severed Fate",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Havoc Drake to attack enemies, dealing 129.60% Havoc DMG 3 times.\nCD: 8s",
+        "fr": "Invoquer un Petit dragon Havoc pour infliger 3 fois 129.60% de Dégâts Havoc.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Havoc Prism",
@@ -1775,7 +2818,14 @@
       "Celestial Light",
       "Havoc Eclipse",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Havoc Prism to fire five crystal shards, each dealing 23.04% Havoc DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Prisme Havoc pour tirer cinq éclats de cristal, chacun infligeant 23.04% de Dégâts Havoc.\n\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Havoc Warrior",
@@ -1787,7 +2837,14 @@
     "sonatas": [
       "Celestial Light",
       "Havoc Eclipse"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Havoc Warrior to attack up to 3 times, dealing 171.73% Havoc DMG each time.\n \nCD: 15s",
+        "fr": "Se transformer en Combattant Havoc pour attaquer jusqu'à trois fois, infligeant 171.73% de Dégâts Havoc à chaque fois.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Hoartoise",
@@ -1799,7 +2856,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Hoartoise and slowly restore HP. Use the Echo skill again to exit the transformation state.\n\nCD: 8s",
+        "fr": "Se transformer en Torturoid et restaurer lentement les PV. Utiliser à nouveau la Compétence d'Écho pour quitter l'état de transformation.\n\nTemps de recharge : {2}s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Hocus Pocus",
@@ -1811,7 +2875,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Frosty Resolve"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Hocus Pocus to attack enemies with 3 consecutive strikes, each dealing 43.20% Havoc DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer Hocus Pocus pour attaquer l'ennemi. Cela inflige 3 fois de Dégâts Havoc équivalent à 43.20%. \nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Hooscamp",
@@ -1823,7 +2894,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Hooscamp Flinger and pounce at the enemies, dealing 48.00%+96 Aero DMG.\n\nCD: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour se transformer en Petit Hoolice et attaquer en avant, infligeant 48.00%+96 Dégâts AERO.\r\nTemps de recharge de la compétence : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Iceglint Dancer",
@@ -1834,7 +2912,14 @@
     "cost": 1,
     "sonatas": [
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into an Iceglint Dancer to attack enemies, dealing 205.20% Glacio DMG.\nCD: 8s.",
+        "fr": "Lance la Compétence d'Écho pour se transformer en Danseuse des glaces et infliger 205.20% de Dégâts Glacio.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "La Guardia",
@@ -1847,7 +2932,14 @@
       "Flaming Clawprint",
       "Gusts of Welkin",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into La Guardia and attack nearby targets, dealing 268.20% Physical DMG.\nHold the Echo Skill to maintain the Echo form for a while to slash enemies and cast a ranged attack forward. The slash deals 268.20% Physical DMG, and the ranged attack deals 17.87% Physical DMG up to 15 times.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en la Guardia, cela inflige 268.20% de Dégâts physiques aux cibles autour de vous. Appuyez longuement la Compétence d'Écho pour prolonger la transformation. Un coup d'épée à distance sera lancé pour infliger 268.20% de Dégâts physiques, il inflige 17.87% de dégâts physiques pour 15 fois au maximum. Temps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Lava Larva",
@@ -1859,7 +2951,14 @@
     "sonatas": [
       "Lingering Tunes",
       "Molten Rift"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Lava Larva that continuously attacks enemies, dealing 38.40% Fusion DMG with each hit. The Lava Larva disappears when the summoner is switched out or moves too far away.\n\nCD: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer l'Insecte-feu pour attaquer continuellement et infliger 38.40% de dégâts Fusion par coup. L'Insecte-feu disparaîtra lorsque l'invocateur quitte le champ de bataille ou s'éloigne de l'Insecte-feu.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Lottie Lost",
@@ -1874,7 +2973,14 @@
       "Lingering Tunes",
       "Moonlit Clouds",
       "Tidebreaking Courage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Lottie Lost to attack enemies, dealing 129.60% Spectro DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer Lottie la muette pour attaquer l'ennemi. Cela inflige 129.60% de Dégâts Spectro.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Mining Drone",
@@ -1887,7 +2993,14 @@
       "Halo of Starry Radiance",
       "Rite of Gilded Revelation",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Mining Drone to attack enemies, dealing 102.60% Havoc DMG twice.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Drone mineur et infliger 2 fois 102.60% de Dégâts Havoc.\n Temps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Aero Predator",
@@ -1898,7 +3011,14 @@
     "cost": 1,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Aero Predator that throws a dart forward. The dart will bounce between enemies up to three times, dealing 28.80% Aero DMG each time it hits.\n\nCD: 8s",
+        "fr": "Invoquer un Prédateur Aero qui lance une fléchette en avant. La fléchette rebondit entre les ennemis jusqu'à trois fois, infligeant 28.80% Dégâts Aero à chaque fois. \n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Baby Roseshroom",
@@ -1909,7 +3029,14 @@
     "cost": 1,
     "sonatas": [
       "Flamewing's Shadow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Baby Roseshroom that fires a laser, dealing 32.00%+64 Havoc DMG.\n\nCD: 8s",
+        "fr": "Invoquer un Champirose (Petit) qui tire un laser, infligeant 32.00%+64 de Dégâts Havoc.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Baby Viridblaze Saurian",
@@ -1920,7 +3047,14 @@
     "cost": 1,
     "sonatas": [
       "Flamewing's Shadow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Baby Viridblaze Saurian to rest in place, and slowly restore HP.\n\nCD: 8s",
+        "fr": "Se transformer en Lézard lavique vert (Petit) pour se reposer sur place et restaurer lentement les PV.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Chirpuff",
@@ -1931,7 +3065,14 @@
     "cost": 1,
     "sonatas": [
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chirpuff that self-inflates and blasts a powerful gust of wind forward 3 times. Each blast inflicts 38.40% Aero DMG and pushes enemies backwards.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Chulboule qui s'auto-gonfle et souffle un puissant courant d'air 3 fois. Chaque souffle inflige 38.40% Dégâts AERO et repousse les ennemis. \n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Dwarf Cassowary",
@@ -1942,7 +3083,14 @@
     "cost": 1,
     "sonatas": [
       "Thread of Severed Fate"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Dwarf Cassowary that tracks and attacks the enemy, dealing 38.40% Physical DMG 3 time(s).\n\nCooldown: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer un Casoar nain qui attaque l'ennemi. Il inflige 3 fois 38.40% de Dégâts physiques. \nTemps de recharge de la compétence : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Electro Predator",
@@ -1953,7 +3101,14 @@
     "cost": 1,
     "sonatas": [
       "Crown of Valor"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon an Electro Predator to shoot the enemy 5 times. The first 4 shots deals 17.28% Electro DMG, and the last deals 46.08% Electro DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Prédateur Electro pour tirer sur l'ennemi 5 fois. Les 4 premiers tirs infligent 17.28% Dégâts Electro, et le dernier inflige 46.08% de Dégâts Electro.\n\nTemps de recharge : 8s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Glacio Predator",
@@ -1964,7 +3119,14 @@
     "cost": 1,
     "sonatas": [
       "Dream of the Lost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Glacio Predator that throws an ice spear, dealing 46.08% Glacio DMG on hit. Deal 4.61% Glacio DMG up to 10 times during the charging time, and 23.04% Glacio DMG when the spear explodes.\n\nCD: 8s",
+        "fr": "Invoquer un Prédateur Glacio qui lance un javelot de glace, infligeant 46.08% Dégâts Glacio à l'impact. Inflige 4.61% de Dégâts Glacio jusqu'à 10 fois pendant le temps de chargement. L'explosion inflige 23.04% de Dégâts Glacio.\n\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Gulpuff",
@@ -1975,7 +3137,14 @@
     "cost": 1,
     "sonatas": [
       "Law of Harmony"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Gulpuff that blows bubbles 5 times, each time dealing 23.04% Glacio DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Gulboule qui souffle 5 bulles, chaque fois inflige 23.04% de Dégâts Glacio.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Nightmare: Havoc Warrior",
@@ -1986,7 +3155,14 @@
     "cost": 1,
     "sonatas": [
       "Dream of the Lost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Havoc Warrior to attack up to 3 times, dealing 171.73% Havoc DMG each time.\n \nCD: 15s",
+        "fr": "Se transformer en Combattant Havoc pour attaquer jusqu'à trois fois, infligeant 171.73% de Dégâts Havoc à chaque fois.\n\nTemps de recharge : 15s"
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nightmare: Tick Tack",
@@ -1997,7 +3173,14 @@
     "cost": 1,
     "sonatas": [
       "Thread of Severed Fate"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Tick Tack that charges and bites the enemy. The charge from Tick Tack will deal 68.48% Havoc DMG to the enemy, and the bite will deal 102.72% Havoc DMG to the enemy. Reduces enemy Vibration Strength by up to 5.00% during 5s.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Tic Tac qui charge et mord l'ennemi. La charge de Tic Tac inflige 68.48% Dégâts Havoc à l'ennemi et la morsure inflige 102.72% Dégâts Havoc à l'ennemi. Réduire le Taux de vibration de l'ennemi de 5.00% pendant 5 secondes.\n\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Nimbus Wraith",
@@ -2010,7 +3193,14 @@
       "Empyrean Anthem",
       "Flamewing's Shadow",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Nimbus Wraith that restores the active Resonator's HP by 2.70% of their Max HP, up to 4 times.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer le Spectre de Nimbus pour restaurer 2.70% de PV maximum du membre actif de l'équipe, jusqu'à 4 fois.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Chest Mimic",
@@ -2023,7 +3213,14 @@
       "Empyrean Anthem",
       "Frosty Resolve",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Chest Mimic to attack enemies with 3 consecutive strikes, each dealing 64.19% Spectro DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Coffre trompeur et attaquer continuellement. Infliger 64.19% de Dégâts Spectro 3 fois.\nTemps de recharge 15 seconde(s)."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Clang Bang",
@@ -2035,7 +3232,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Clang Bang that follows the enemy and eventually self-combusts, dealing 32.00%+64 Glacio DMG.\n\nCD: 8s",
+        "fr": "Invoquer un Ding-dong qui suit l'ennemi et finit par s'auto-détruire, infligeant 32.00%+64de dégâts Glacio.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Diggy Duggy",
@@ -2048,7 +3252,14 @@
       "Celestial Light",
       "Lingering Tunes",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Diggy Duggy and jump up into the air to smash onto enemies, dealing 268.20% Physical DMG.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Doudou Creuse-Tout. Il sautera et attaquer l'ennemi. Cela inflige 268.20% de Dégâts physiques. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Fae Ignis",
@@ -2060,7 +3271,14 @@
     "sonatas": [
       "Eternal Radiance",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Fae Ignis to attack enemies, dealing 129.60% Havoc DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer le Fae igné pour attaquer l'ennemi et infliger 129.60% de Dégât Havoc.\nTemps de recharge : 8 seconde(s)."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Gulpuff",
@@ -2072,7 +3290,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Gulpuff that blows bubbles 5 times, each time dealing 23.04% Glacio DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Gulboule qui souffle 5 bulles, chaque fois inflige 23.04% de Dégâts Glacio.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Hoartoise",
@@ -2084,7 +3309,14 @@
     "sonatas": [
       "Celestial Light",
       "Freezing Frost"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Hoartoise and slowly restore HP. Use the Echo skill again to exit the transformation state.\n\nCD: 8s",
+        "fr": "Se transformer en Torturoid et restaurer lentement les PV. Utiliser à nouveau la Compétence d'Écho pour quitter l'état de transformation.\n\nTemps de recharge : {2}s."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Iceglint Dancer",
@@ -2095,7 +3327,14 @@
     "cost": 1,
     "sonatas": [
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into an Iceglint Dancer to attack enemies, dealing 205.20% Glacio DMG.\nCD: 8s.",
+        "fr": "Lance la Compétence d'Écho pour se transformer en Danseuse des glaces et infliger 205.20% de Dégâts Glacio.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Phantom: Nimbus Wraith",
@@ -2107,7 +3346,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Nimbus Wraith that restores the active Resonator's HP by 2.70% of their Max HP, up to 4 times.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho et invoquer le Spectre de Nimbus pour restaurer 2.70% de PV maximum du membre actif de l'équipe, jusqu'à 4 fois.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Phantom: Zip Zap",
@@ -2119,7 +3365,14 @@
     "sonatas": [
       "Pact of Neonlight Leap",
       "Rite of Gilded Revelation"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Zip Zap to launch spinning attacks at enemies, dealing 25.92% Electro DMG 5 times.\n\nCD: 8s.",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Zip Zap et infliger 25.92% de Dégâts Electro 5 fois.\n Temps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Sabyr Boar",
@@ -2132,7 +3385,14 @@
       "Freezing Frost",
       "Moonlit Clouds",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Sabyr Boar to headbutt the enemy into the air, dealing 32.00%+64 Physical DMG.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Sangbre pour donner un coup de tête à l'ennemi et le projeter dans les airs, infligeant 32.00%+64 de Dégâts Physiques.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Sacerdos",
@@ -2144,7 +3404,14 @@
     "sonatas": [
       "Gusts of Welkin",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Sacerdos to attack enemies, dealing 64.80% Aero DMG 2 times.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Sacerdos, qui attaque l'ennemi et inflige 64.80% de Dégâts Aero 2 fois.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Sagittario",
@@ -2157,7 +3424,14 @@
       "Eternal Radiance",
       "Flaming Clawprint",
       "Gusts of Welkin"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into Sagittario to move a certain distance and perform a ranged attack, dealing 268.20% Spectro DMG.\nGetting attacked while moving in the Sagittario form triggers form triggers a damage avoiding enhanced Dodge Counter, dealing 268.20% Spectro DMG once and 53.64% Spectro DMG 5 times.\nCD: 15s.",
+        "fr": "Lancer la Compétence d'Écho pour se transformer en Sagittaire qui se déplace pour lancer une Attaque à distance, cela inflige 268.20% de Dégâts Spectro.\nSi vous avez esquivé une attaque de l'ennemi quand vous vous déplacez, vous esquivez le dégât et une Contre-attaque renforcée sera déclenchée pour infliger 1 fois de 268.20% et 5 fois de 53.64% de Dégâts Spectro.\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Shadow Stepper",
@@ -2169,7 +3443,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Trailblazing Star"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Shadow Stepper to attack enemies, dealing 129.60% Havoc DMG.\nCD: 8s.",
+        "fr": "Lance la Compétence d'Écho pour invoquer une Fausse ombre pour infliger 129.60% de Dégâts Havoc.\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Snip Snap",
@@ -2182,7 +3463,14 @@
       "Lingering Tunes",
       "Molten Rift",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Snip Snap that throws fireballs at the enemy, dealing 32.00%+64 Fusion DMG on-hit.\r\n\r\nCD: 8s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer Schlak  Schlak qui lance des boules de feu sur l'ennemi, infligeant 32.00%+64 de Dégâts Fusion lorsqu'elles touchent l'ennemi.\r\nTemps de recharge de la compétence : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Spectro Drake",
@@ -2194,7 +3482,14 @@
     "sonatas": [
       "Flaming Clawprint",
       "Windward Pilgrimage"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Spectro Drake to attack enemies, dealing 43.20% Spectro DMG 3 times.\nCD: 8s",
+        "fr": "Invoquer un Petit dragon Spectro pour infliger 3 fois 43.20% de Dégâts Spectro.\nTemps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Spectro Prism",
@@ -2207,7 +3502,14 @@
       "Celestial Light",
       "Molten Rift",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Spectro Prism to emit a laser that hits the enemy up to 8 times, dealing 14.40% Spectro DMG each time.\r\n\r\nCD: 8s",
+        "fr": "Invoquer un Prisme Spectro qui émet un laser qui frappe l'ennemi jusqu'à 8 fois, infligeant 14.40% Dégâts Spectro à chaque fois.\n\nTemps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Tick Tack",
@@ -2220,7 +3522,14 @@
       "Havoc Eclipse",
       "Lingering Tunes",
       "Rejuvenating Glow"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Tick Tack that charges and bites the enemy. The charge from Tick Tack will deal 68.48% Havoc DMG to the enemy, and the bite will deal 102.72% Havoc DMG to the enemy. Reduces enemy Vibration Strength by up to 5.00% during 5s.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Tic Tac qui charge et mord l'ennemi. La charge de Tic Tac inflige 68.48% Dégâts Havoc à l'ennemi et la morsure inflige 102.72% Dégâts Havoc à l'ennemi. Réduire le Taux de vibration de l'ennemi de 5.00% pendant 5 secondes.\n\nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Traffic Illuminator",
@@ -2233,7 +3542,14 @@
       "Molten Rift",
       "Sierra Gale",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Traffic Illuminator, immobilizing enemies for up to 1s. The immobilization will be lifted once the enemy is hit.\r\n\r\nCD: 15s",
+        "fr": "Invoquer un Imitateur : feu de circulation, immobilisant les ennemis jusqu'à 1s. L'immobilisation sera levée une fois l'ennemi est attaqué.\n\nTemps de recharge : 15s."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Tremor Warrior",
@@ -2245,7 +3561,14 @@
     "sonatas": [
       "Chromatic Foam",
       "Halo of Starry Radiance"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Transform into a Tremor Warrior and viciously attack enemies in the front, dealing 205.20% Electro DMG.\n\nCD: 8s.",
+        "fr": "Lancez la Compétence d'Écho pour vous transformer en Combattant du tremblement. Un coup puissant est alors lancé pour attaquer la cible en face et inflige 205.20% de Dégâts Électro.\n Temps de recharge : 8 secondes."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Vanguard Junrock",
@@ -2258,7 +3581,14 @@
       "Lingering Tunes",
       "Rejuvenating Glow",
       "Void Thunder"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Vanguard Junrock that charges forward, dealing 32.00%+64 Physical DMG to enemies in its path.\r\n\r\nCD: 8s",
+        "fr": "Invoquer une Jeunpierre avant-guard qui charge en avant, infligeant 32.00%+64 Dégâts Physiques aux ennemis sur son chemin.\n\nTemps de recharge : 8s"
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Voltscourge Stalker",
@@ -2270,7 +3600,14 @@
     "sonatas": [
       "Empyrean Anthem",
       "Midnight Veil"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Voltscourge Stalker to perform 3 stages of attacks on enemies, each dealing 43.20% Electro DMG.\nCD: 8s.",
+        "fr": "Lancer la Compétence d'Écho pour invoquer un Loup de Tonerre pour attaquer l'ennemi et infliger 3 fois 43.20% de Dégât Electro.\nTemps de recharge : 8 seconde(s)."
+      },
+      "cooldown": 8.0
+    }
   },
   {
     "id": "Whiff Whaff",
@@ -2283,7 +3620,14 @@
       "Moonlit Clouds",
       "Rejuvenating Glow",
       "Sierra Gale"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Whiff Whaff that triggers an air explosion, dealing 51.36% Aero DMG and produce a Low-pressure Zone. The Low-pressure Zone continuously pulls enemies nearby towards the center for 2s, dealing 19.97% Aero DMG up to 6 times.\r\n\r\nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer Houhouu qui déclenche une explosion d'air, infligeant 51.36% Dégâts AERO et créant une zone de basse pression. Cette zone attire constamment les ennemis vers son centre pendant 2 secondes, infligeant 6 fois 19.97% Dégâts AERO. \nTemps de recharge : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Zig Zag",
@@ -2296,7 +3640,14 @@
       "Celestial Light",
       "Lingering Tunes",
       "Moonlit Clouds"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Zig Zag that detonates Spectro energy, dealing 48.00%+96 Spectro DMG and creating a Stagnation Zone that lasts 1.8s.\nCD: 15s",
+        "fr": "Utiliser la Compétence d'Écho pour invoquer un Zig Zag pour déclencher une explosion d'énergie lumineuse, infligeant 48.00%+96 Dégâts Spectro et créant une zone stagnante qui dure 1,8 secondes.\n\nTemps de recharge de la compétence : 15 secondes."
+      },
+      "cooldown": 15.0
+    }
   },
   {
     "id": "Zip Zap",
@@ -2310,6 +3661,13 @@
       "Pact of Neonlight Leap",
       "Rite of Gilded Revelation",
       "Sound of True Name"
-    ]
+    ],
+    "skill": {
+      "description": {
+        "en": "Summon a Zip Zap to launch spinning attacks at enemies, dealing 25.92% Electro DMG 5 times.\n\nCD: 8s.",
+        "fr": "Lancez la Compétence d'Écho pour invoquer un Zip Zap et infliger 25.92% de Dégâts Electro 5 fois.\n Temps de recharge : 8 secondes"
+      },
+      "cooldown": 8.0
+    }
   }
 ]
