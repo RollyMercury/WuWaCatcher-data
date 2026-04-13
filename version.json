@@ -1,11 +1,11 @@
 {
-  "version": "1.5.14",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.14/WuWaCatcher.exe",
-  "changelog": "v1.5.14 : Onglet Lv/Comp revamp (mode detaille avec combo perso, 5 competences a 10 niveaux, bonus stats, inherents, cascade constellations, tooltips bilingues partout). Donnees de competences/inherents/constellations bilingues (FR/EN) importees depuis Dimbreath pour 47 personnages. Nouveau systeme de versionnage data (version.json avec bloc app + bloc data, suivi local data/database/versions.json, popup de mise a jour data).",
+  "version": "1.5.17",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.17/WuWaCatcher.exe",
+  "changelog": "v1.5.17 : Options revamp — section Debug transformee en CollapsingHeader avec toggles par onglet (Perso-Pts, Lv/Comp, Arme, Echo, EchoSS) et master 'Afficher tous les tooltips'. Nouvelle section Details pour tooltips de contenu bilingues (Lv/Comp : Competences, Speciales, Constellations + Weapon, EchoSkill, Sonata). Fichiers locaux affiche la version de chaque JSON. Labels sensibles a la langue.",
   "app": {
-    "version": "1.5.14",
-    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.14/WuWaCatcher.exe",
-    "changelog": "v1.5.14 : Onglet Lv/Comp revamp (mode detaille avec combo perso, 5 competences a 10 niveaux, bonus stats, inherents, cascade constellations, tooltips bilingues partout). Donnees de competences/inherents/constellations bilingues (FR/EN) importees depuis Dimbreath pour 47 personnages. Nouveau systeme de versionnage data (version.json avec bloc app + bloc data, suivi local data/database/versions.json, popup de mise a jour data)."
+    "version": "1.5.17",
+    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.17/WuWaCatcher.exe",
+    "changelog": "v1.5.17 : Options revamp — section Debug transformee en CollapsingHeader avec toggles par onglet (Perso-Pts, Lv/Comp, Arme, Echo, EchoSS) et master 'Afficher tous les tooltips'. Nouvelle section Details pour tooltips de contenu bilingues (Lv/Comp : Competences, Speciales, Constellations + Weapon, EchoSkill, Sonata). Fichiers locaux affiche la version de chaque JSON. Labels sensibles a la langue."
   },
   "data": {
     "champs.json": 2,
