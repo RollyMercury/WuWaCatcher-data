@@ -1,11 +1,11 @@
 {
-  "version": "1.5.17",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.17/WuWaCatcher.exe",
-  "changelog": "v1.5.17 : Options revamp — section Debug transformee en CollapsingHeader avec toggles par onglet (Perso-Pts, Lv/Comp, Arme, Echo, EchoSS) et master 'Afficher tous les tooltips'. Nouvelle section Details pour tooltips de contenu bilingues (Lv/Comp : Competences, Speciales, Constellations + Weapon, EchoSkill, Sonata). Fichiers locaux affiche la version de chaque JSON. Labels sensibles a la langue.",
+  "version": "1.5.21",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.21/WuWaCatcher.exe",
+  "changelog": "v1.5.21 : Buff viewer — nouveau tableau 'Buffs conditionnels' dans l'onglet Stats. Affiche tous les effets conditionnels du personnage (arme, sonata 5pc, echo skill, passifs, constellations deverrouillees, outro). Noms de stats et triggers traduits en FR. Tableaux a taille dynamique. Nouveau fichier conditionals.json (880 effets: armes, sonatas, constellations, inherents, outros, echos).",
   "app": {
-    "version": "1.5.17",
-    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.17/WuWaCatcher.exe",
-    "changelog": "v1.5.17 : Options revamp — section Debug transformee en CollapsingHeader avec toggles par onglet (Perso-Pts, Lv/Comp, Arme, Echo, EchoSS) et master 'Afficher tous les tooltips'. Nouvelle section Details pour tooltips de contenu bilingues (Lv/Comp : Competences, Speciales, Constellations + Weapon, EchoSkill, Sonata). Fichiers locaux affiche la version de chaque JSON. Labels sensibles a la langue."
+    "version": "1.5.21",
+    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.21/WuWaCatcher.exe",
+    "changelog": "v1.5.21 : Buff viewer — nouveau tableau 'Buffs conditionnels' dans l'onglet Stats. Affiche tous les effets conditionnels du personnage (arme, sonata 5pc, echo skill, passifs, constellations deverrouillees, outro). Noms de stats et triggers traduits en FR. Tableaux a taille dynamique. Nouveau fichier conditionals.json (880 effets: armes, sonatas, constellations, inherents, outros, echos)."
   },
   "data": {
     "champs.json": 2,
@@ -14,6 +14,7 @@
     "focus.json": 1,
     "substats.json": 1,
     "sonatas.json": 1,
-    "curves.json": 1
+    "curves.json": 1,
+    "conditionals.json": 1
   }
 }
