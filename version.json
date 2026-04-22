@@ -1,11 +1,11 @@
 {
-  "version": "1.5.21",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.21/WuWaCatcher.exe",
-  "changelog": "v1.5.21 : Buff viewer — nouveau tableau 'Buffs conditionnels' dans l'onglet Stats. Affiche tous les effets conditionnels du personnage (arme, sonata 5pc, echo skill, passifs, constellations deverrouillees, outro). Noms de stats et triggers traduits en FR. Tableaux a taille dynamique. Nouveau fichier conditionals.json (880 effets: armes, sonatas, constellations, inherents, outros, echos).",
+  "version": "1.6.0",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.0/WuWaCatcher.exe",
+  "changelog": "v1.6.0 : Onglet Materiaux — calcul complet des materiaux d'amelioration par personnage et global. Niveau perso/arme avec slider cible, 5 competences avec checkboxes, stat bonus (4 branches x2 paliers) et inherent skills avec couts depuis le datamine. Materiaux classes en 6 categories (Forge, Monstres, Monde, Boss, Boss Hebdo, XP & Credits). Mode compact (fusion tiers). Scalings rewrite (hit multiplicity corrige via SkillDescription.json). Fix arme par defaut, fix Rover dans CostsDB.",
   "app": {
-    "version": "1.5.21",
-    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.5.21/WuWaCatcher.exe",
-    "changelog": "v1.5.21 : Buff viewer — nouveau tableau 'Buffs conditionnels' dans l'onglet Stats. Affiche tous les effets conditionnels du personnage (arme, sonata 5pc, echo skill, passifs, constellations deverrouillees, outro). Noms de stats et triggers traduits en FR. Tableaux a taille dynamique. Nouveau fichier conditionals.json (880 effets: armes, sonatas, constellations, inherents, outros, echos)."
+    "version": "1.6.0",
+    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.0/WuWaCatcher.exe",
+    "changelog": "v1.6.0 : Onglet Materiaux — calcul complet des materiaux d'amelioration par personnage et global. Niveau perso/arme avec slider cible, 5 competences avec checkboxes, stat bonus (4 branches x2 paliers) et inherent skills avec couts depuis le datamine. Materiaux classes en 6 categories (Forge, Monstres, Monde, Boss, Boss Hebdo, XP & Credits). Mode compact (fusion tiers). Scalings rewrite (hit multiplicity corrige via SkillDescription.json). Fix arme par defaut, fix Rover dans CostsDB."
   },
   "data": {
     "champs.json": 2,
@@ -15,6 +15,8 @@
     "substats.json": 1,
     "sonatas.json": 1,
     "curves.json": 1,
-    "conditionals.json": 1
+    "conditionals.json": 1,
+    "scalings.json": 2,
+    "costs.json": 2
   }
 }
