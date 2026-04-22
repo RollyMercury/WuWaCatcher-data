@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.0/WuWaCatcher.exe",
-  "changelog": "v1.6.0 : Onglet Materiaux — calcul complet des materiaux d'amelioration par personnage et global. Niveau perso/arme avec slider cible, 5 competences avec checkboxes, stat bonus (4 branches x2 paliers) et inherent skills avec couts depuis le datamine. Materiaux classes en 6 categories (Forge, Monstres, Monde, Boss, Boss Hebdo, XP & Credits). Mode compact (fusion tiers). Scalings rewrite (hit multiplicity corrige via SkillDescription.json). Fix arme par defaut, fix Rover dans CostsDB.",
+  "version": "1.6.2",
+  "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.2/WuWaCatcher.exe",
+  "changelog": "v1.6.2 : Fix du systeme de maj des donnees — seulement 8 JSON sur 10 etaient telecharges (scalings.json et costs.json oublies), ce qui provoquait un popup 'maj disponible' a chaque demarrage sans jamais le resoudre. La liste des fichiers est desormais derivee dynamiquement du bloc data de ce version.json.",
   "app": {
-    "version": "1.6.0",
-    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.0/WuWaCatcher.exe",
-    "changelog": "v1.6.0 : Onglet Materiaux — calcul complet des materiaux d'amelioration par personnage et global. Niveau perso/arme avec slider cible, 5 competences avec checkboxes, stat bonus (4 branches x2 paliers) et inherent skills avec couts depuis le datamine. Materiaux classes en 6 categories (Forge, Monstres, Monde, Boss, Boss Hebdo, XP & Credits). Mode compact (fusion tiers). Scalings rewrite (hit multiplicity corrige via SkillDescription.json). Fix arme par defaut, fix Rover dans CostsDB."
+    "version": "1.6.2",
+    "url": "https://github.com/RollyMercury/WuWaCatcher-data/releases/download/v1.6.2/WuWaCatcher.exe",
+    "changelog": "v1.6.2 : Fix du systeme de maj des donnees — seulement 8 JSON sur 10 etaient telecharges (scalings.json et costs.json oublies), ce qui provoquait un popup 'maj disponible' a chaque demarrage sans jamais le resoudre. La liste des fichiers est desormais derivee dynamiquement du bloc data de ce version.json."
   },
   "data": {
     "champs.json": 2,
