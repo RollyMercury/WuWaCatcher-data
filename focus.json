@@ -718,5 +718,21 @@
     "echoMainE3": "Glacio%",
     "echoMainE1": "Atk%",
     "weaponStat": "DC"
+  },
+  {
+    "name": "Hiyuki",
+    "sonataSet": "Frosty Resolve",
+    "substatPriority": [
+      "CC",
+      "DC",
+      "Atk%",
+      "Lib",
+      "RR",
+      "Atk"
+    ],
+    "echoMainE4": "DC",
+    "echoMainE3": "Glacio%",
+    "echoMainE1": "Atk%",
+    "weaponStat": "CC"
   }
 ]

@@ -8654,5 +8654,37 @@
       }
     },
     "bestWeapon": "Solsworn Ciphers"
+  },
+  {
+    "id": "Hiyuki",
+    "name": {
+      "en": "Hiyuki",
+      "fr": "Hiyuki"
+    },
+    "element": "Glacio",
+    "weapon": "Sword",
+    "stat": "ATK",
+    "hp_base": 824,
+    "hp_max": 10300,
+    "atk_base": 37,
+    "atk_max": 462,
+    "def_base": 91,
+    "def_max": 1112,
+    "crit_rate": 0.05,
+    "crit_dmg": 1.5,
+    "energy_regen": 100,
+    "passives": {
+      "spe15": {
+        "stat": "GlacioDMG",
+        "lv1": 0,
+        "lv2": 0
+      },
+      "spe24": {
+        "stat": "ATK%",
+        "lv1": 0,
+        "lv2": 0
+      }
+    },
+    "bestWeapon": "Frostburn"
   }
 ]
